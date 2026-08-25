@@ -1,0 +1,33 @@
+name: Deploy site to GitHub Pages
+
+# 로컬(Routines)에서 이미 판단·빌드까지 끝낸 site/ 폴더를 그대로 배포만 한다.
+# AI 판단이 없는 단순 빌드이므로 API 키/Secrets가 필요 없다(스펙 1절).
+on:
+  push:
+    branches: [main]
+    paths: ["site/**"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

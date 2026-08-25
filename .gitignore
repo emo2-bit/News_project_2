@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# 디자인 확인용 임시 미리보기 산출물 (실제 배포물 아님)
+data/*.email-preview.html
+site/preview.html
