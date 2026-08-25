@@ -3,7 +3,7 @@
 이 문서는 Routines(일일 자동 실행)가 이 폴더에서 세션을 시작할 때 참고하는 컨텍스트다.
 전체 설계는 [spec.md](spec.md) 참고. 여기서는 "매일 무엇을, 어떤 기준으로 하는가"만 다룬다.
 
-## 일일 파이프라인 (구현 진행 상황: 1~5단계 완료)
+## 일일 파이프라인 (구현 진행 상황: 1~6단계 전체 완료)
 
 ### 1~2단계: RSS 수집 + 규칙 기반 1차 분류
 
@@ -95,6 +95,22 @@ python scripts/send_email.py --send    # 실제 Gmail SMTP 발송 (.env 자격�
 - `SITE_BASE_URL`(`lib/config.py`)은 GitHub Pages 배포 후 실제 도메인과 일치해야
   이메일의 "사이트에서 보기" 링크가 정확히 연결된다.
 
-### 6단계 (미구현)
+### 6단계: git commit & push 자동화
 
-- git commit & push 자동화 (구현 예정)
+```bash
+python scripts/git_publish.py
+```
+
+- `git add -A` → 스테이징된 변경 없으면(`git diff --staged --quiet`) 커밋 생략(빈 커밋 방지)
+- 커밋 메시지: `chore: {날짜} 반도체 뉴스 업데이트`
+- `origin/main`이 이미 있으면 push 전 `pull --rebase`로 동기화, 최초 push는 생략
+- 인증은 로컬 `credential.helper=manager`(Git Credential Manager)에 위임 — 사람 개입 없이
+  자동 처리됨을 확인함
+- push하면 `.github/workflows/deploy.yml`이 `site/**` 변경을 감지해 GitHub Pages를
+  재배포한다. **최초 1회, 저장소 Settings → Pages → Source를 "GitHub Actions"로
+  수동 설정해야 함** (이후로는 완전 자동)
+
+**일일 전체 실행 순서**: `collect.py` → (Claude Code가 3단계 판단 + 5단계 리포트 작성)
+→ `build_site.py` → `send_email.py --send` → `git_publish.py`
+
+실제 배포 확인됨: https://emo2-bit.github.io/News_project_2/
