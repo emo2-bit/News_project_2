@@ -18,8 +18,34 @@ CATEGORY_COLORS = {
 
 # 사이트 페이지 하단에 한 번만 삽입되는 공용 스크립트.
 # Google Form의 formResponse URL로 no-cors POST를 보내 페이지 이동 없이 처리한다(스펙 4절).
+# 투표 여부는 localStorage에 기록해서, 같은 브라우저로 다시 들어와도 중복 투표를
+# 막고 이미 투표한 기사는 버튼이 비활성 상태로 보이게 한다.
 FEEDBACK_SCRIPT = """
 <script>
+var VOTES_KEY = "semiconductor-news-votes";
+
+function getVotes() {
+  try { return JSON.parse(localStorage.getItem(VOTES_KEY) || "{}"); }
+  catch (e) { return {}; }
+}
+
+function saveVote(articleId, vote) {
+  var votes = getVotes();
+  votes[articleId] = vote;
+  try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch (e) {}
+}
+
+function markVoted(group, vote) {
+  group.querySelectorAll("button").forEach(function (b) { b.disabled = true; b.style.opacity = 0.4; });
+  var label = vote === "up" ? "👍" : "👎";
+  var note = document.createElement("span");
+  note.style.marginLeft = "6px";
+  note.style.color = "#6b7280";
+  note.style.fontSize = "12px";
+  note.textContent = "이미 투표함 (" + label + ")";
+  group.appendChild(note);
+}
+
 function submitVote(articleId, vote, btn) {
   fetch("__FORM_SUBMIT_URL__", {
     method: "POST",
@@ -29,11 +55,17 @@ function submitVote(articleId, vote, btn) {
       "__ENTRY_VOTE__": vote
     })
   });
-  var group = btn.parentElement;
-  group.querySelectorAll("button").forEach(function (b) { b.disabled = true; b.style.opacity = 0.4; });
-  btn.style.opacity = 1;
-  btn.insertAdjacentHTML("afterend", '<span style="margin-left:6px;color:#6b7280;font-size:12px;">감사합니다!</span>');
+  saveVote(articleId, vote);
+  markVoted(btn.parentElement, vote);
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+  var votes = getVotes();
+  document.querySelectorAll("[data-article-id]").forEach(function (group) {
+    var id = group.getAttribute("data-article-id");
+    if (votes[id]) markVoted(group, votes[id]);
+  });
+});
 </script>
 """
 
@@ -74,7 +106,7 @@ def render_article_card(article: dict, include_feedback: bool = False) -> str:
     if include_feedback:
         article_id = _esc(article["id"])
         feedback_html = f"""
-  <div style="margin-top:10px;">
+  <div data-article-id="{article_id}" style="margin-top:10px;">
     <button onclick="submitVote('{article_id}','up',this)"
       style="border:1px solid #e5e7eb;background:#fff;border-radius:6px;padding:4px 10px;
       cursor:pointer;font-size:14px;">👍</button>
