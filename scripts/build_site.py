@@ -8,6 +8,7 @@ AI 판단이 없으므로 Actions에 API 키가 필요 없음).
 
 import json
 import sys
+from datetime import datetime
 from pathlib import Path
 
 if sys.platform == "win32":
@@ -41,6 +42,9 @@ def _page(title: str, date_label: str, body: str, nav: str, feedback_script: str
     <p style="color:#6b7280;font-size:14px;margin-top:0;">{date_label}</p>
     {nav}
     {body}
+    <p style="color:#9ca3af;font-size:12px;margin-top:24px;">
+      마지막 업데이트: {datetime.now().strftime('%Y-%m-%d %H:%M')} KST
+    </p>
   </div>
   {feedback_script}
 </body>
