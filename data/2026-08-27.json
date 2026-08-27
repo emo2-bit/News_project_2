@@ -1,0 +1,455 @@
+{
+  "date": "2026-08-27",
+  "articles": [
+    {
+      "id": "6a3175579f",
+      "title": "추미애 경기지사, 삼성·SK·애플과 반도체 RE100 협력…2030년 10GW 추진",
+      "url": "https://www.etnews.com/20260827000182",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "SK하이닉스가 직접 참석한 재생에너지 협력 간담회지만 메모리 기술·사업과는 간접적 연관"
+    },
+    {
+      "id": "042fca44fb",
+      "title": "반도체 훈풍, 고용·임금으로 번졌다…제조업 일자리 증가세 확대",
+      "url": "https://www.etnews.com/20260827000042",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "반도체 업황이 배경일 뿐 고용·임금 거시지표가 주제로 메모리 사업과 무관"
+    },
+    {
+      "id": "63452aeffd",
+      "title": "코스피, 엔비디아 실적 호조에 2.15% 상승 출발",
+      "url": "https://www.etnews.com/20260827000075",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "단순 증시 시황 기사"
+    },
+    {
+      "id": "4d8a5bcf60",
+      "title": "엔비디아, 분기 매출 962억달러…13분기 연속 신기록",
+      "url": "https://www.etnews.com/20260827000001",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "주요 고객사 엔비디아의 실적으로 AI 반도체·HBM 수요와 직결"
+    },
+    {
+      "id": "9ceb49cd49",
+      "title": "YMTC \"2027년 삼성·SK 제치고 낸드 1위 목표\"",
+      "url": "https://www.etnews.com/20260826000336",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "낸드 경쟁사(YMTC)가 삼성·SK하이닉스를 직접 겨냥한 시장 목표 제시"
+    },
+    {
+      "id": "e5731c4152",
+      "title": "코스피 6800선 반등 마감…금리·유가 안정화에 회복세",
+      "url": "https://www.etnews.com/20260826000329",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "단순 증시 시황 기사"
+    },
+    {
+      "id": "9b916d6df2",
+      "title": "\"한국판 IRA, 직접환급제 필요…못하면 정부가 대안 내라\"",
+      "url": "https://zdnet.co.kr/view/?no=20260827095245",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "low",
+      "reason": "국내생산세액공제 정책 논의로 SK하이닉스는 2023년 적자 사례로만 언급돼 실질 관련성 판단이 애매함"
+    },
+    {
+      "id": "a5ca20d192",
+      "title": "퀄컴, 4세대 오라이온 CPU 공개…모바일 최초 5GHz 달성",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61397",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "모바일 CPU 설계·파운드리 이슈로 메모리 사업과 무관"
+    },
+    {
+      "id": "22a868ebae",
+      "title": "티에스이, 차세대 HBM에 적층 D램 테스트 도입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61400",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "HBM4E 이후 KGSD 테스트 도입 등 HBM 공정기술을 직접 다룸"
+    },
+    {
+      "id": "d7a408f1f9",
+      "title": "아이언디바이스, PCIM서 초소형 GaN 전력구동 반도체 전시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61399",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "로봇용 GaN 전력반도체로 메모리 사업과 무관"
+    },
+    {
+      "id": "d323183cb7",
+      "title": "보스반도체, 핫 칩스서 AI 가속기 '이글-N' 소개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61404",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "차량용 AI 가속기 SoC 소개로 메모리·경쟁사 이슈와 무관"
+    },
+    {
+      "id": "e901623848",
+      "title": "네오셈, 고용량·QLC SSD 전환에 검사장비 급증",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61389",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "SSD(낸드) 고용량화에 따른 검사장비 수요로 메모리 후공정과 간접 연관"
+    },
+    {
+      "id": "b16fdf097b",
+      "title": "스태츠칩팩코리아-KPCA, 반도체 패키징 산학협력 현장체험 열어",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61368",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "OSAT 기업의 대학생 대상 산학협력 행사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "73399532e4",
+      "title": "아드반테스트, 실리콘 포토닉스 '통합 테스트 셀'로 대규모 양산 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61366",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 데이터센터용 테스트 장비 기술이나 메모리 사업과의 연결은 간접적"
+    },
+    {
+      "id": "afec1646d9",
+      "title": "\"반도체 테스트도 '원팀' 필요\"…장비·부품 표준화 속도",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61365",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 반도체 테스트 생태계 표준화 논의로 메모리 사업 연결은 간접적"
+    },
+    {
+      "id": "5334b23b72",
+      "title": "LG화학, 세미콘 타이완 참가…AI 반도체 소재 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61355",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "HBM·AI 반도체용 첨단 패키징 소재를 직접 다룸"
+    },
+    {
+      "id": "d15168ac1e",
+      "title": "엡실론, 첨단 패키징 소재 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61350",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 데이터센터용 전력반도체·패키징 소재로 HBM 언급 없이 간접적 연관"
+    },
+    {
+      "id": "8d82591494",
+      "title": "엔비디아, 성능 2배 높인 '젯슨 오린 나노 2' 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61346",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "엣지 AI 칩 신제품으로 탑재 메모리는 8GB 언급뿐 사업적 연결 약함"
+    },
+    {
+      "id": "3cda4248d8",
+      "title": "해치텍, 상장 첫 날 주가 40% 하락",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61347",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "개별 기업 상장 주가 동향으로 메모리 사업과 무관"
+    },
+    {
+      "id": "e7bd853645",
+      "title": "한은, 기준금리 두달 연속 인상… 강한 성장세 지속 전망 (종합)",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168943",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "거시경제 금리 정책 기사로 반도체는 배경 설명일 뿐"
+    },
+    {
+      "id": "751d401619",
+      "title": "배터리·칩 넘어 로봇·OLED로…삼성·현대차 '3세 동맹' 전방위 확장",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168896",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "배터리·차량용 반도체 협력 확대 소식이나 메모리 사업과는 무관"
+    },
+    {
+      "id": "7e3441ccdd",
+      "title": "'AI 유망주' 선점 나선 증권사… 비상장 투자 1.5배 증가",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168899",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "증권사의 비상장 스타트업 투자 동향으로 AI반도체는 언급 수준"
+    },
+    {
+      "id": "f451caf13d",
+      "title": "코스피, 자사주 매입 훈풍 6800 안착… 반도체주 강세",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168894",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "단순 증시 시황 기사"
+    },
+    {
+      "id": "a757639c10",
+      "title": "메모리값 뛰는데 가격 인상 억제…삼성·애플 '점유율 사수전' 나서",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168888",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "low",
+      "reason": "메모리 가격 상승(칩플레이션) 영향을 다루지만 주제 초점은 스마트폰 가격전략이라 비중 판단이 애매함"
+    },
+    {
+      "id": "10b7abae68",
+      "title": "日 미야기현 \"파악된 바 없다\"…SK하이닉스도 \"일본 공장 미확정\"",
+      "url": "https://www.inews24.com/view/1998898",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스 일본 공장 건설 계획에 대한 직접 보도"
+    },
+    {
+      "id": "fdf4ce5ce1",
+      "title": "엔비디아 \"내년 매출 70% 성장\"…메모리 병목에도 AI 수요 자신[컨콜종합]",
+      "url": "https://www.inews24.com/view/1998767",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "메모리 병목이 AI 수요·엔비디아 실적에 미치는 영향을 직접 언급"
+    },
+    {
+      "id": "f59d3b86e8",
+      "title": "엔비디아 또 '어닝 서프라이즈'…AI는 질주했지만 월가의 눈높이는 더 높아졌다",
+      "url": "https://www.inews24.com/view/1998738",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "엔비디아 실적을 통한 AI 반도체 수요 동향"
+    },
+    {
+      "id": "4331453145",
+      "title": "中 YMTC \"내년 세계 낸드 1위 목표\"…삼성전자·SK하이닉스 추격",
+      "url": "https://www.inews24.com/view/1998661",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "낸드 경쟁사 YMTC의 삼성·SK하이닉스 추격 목표를 직접 보도"
+    },
+    {
+      "id": "589b36f59f",
+      "title": "\"데이터센터 골든타임 3~4년…세액공제·클라우드 규제 손질 시급\"",
+      "url": "https://www.inews24.com/view/1998623",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "AI 데이터센터 세제 정책 논의로 반도체 세액공제율 비교만 언급돼 간접적"
+    },
+    {
+      "id": "e30aabdebf",
+      "title": "SK하이닉스 \"탈탄소, 개별기업만으론 한계\"…ASML도 청정전력 강조",
+      "url": "https://www.inews24.com/view/1998528",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "SK하이닉스가 주요 발언자이나 내용은 탄소감축 ESG 정책으로 공정기술과는 간접적"
+    },
+    {
+      "id": "bb543af267",
+      "title": "삼성전자, 메모리 안에서 AI 연산…LPDDR5X-PIM 성능 공개",
+      "url": "https://www.inews24.com/view/1998327",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 D램(PIM) 신기술 성능 공개로 메모리 기술 직접 관련"
+    },
+    {
+      "id": "9e9ee8a08b",
+      "title": "\"샤오미, 창신메모리 반도체 탑재…거대기업과 동등\" 中매체",
+      "url": "https://www.inews24.com/view/1998220",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "중국 D램 경쟁사 창신메모리(CXMT)의 시장 진입 동향"
+    },
+    {
+      "id": "bf8cf8a961",
+      "title": "엔비디아, 2028년 매출 70% 성장 전망…AI 수요 자신감",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=671913",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "엔비디아 매출 전망을 통한 AI 반도체 수요 동향(엔비디아 실적 보도와 동일 이벤트)"
+    },
+    {
+      "id": "83dab66cb0",
+      "title": "한은, 기준금리 3%로 올렸다…껑충 뛴 경제성장률에 두 달 연속 인상",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154660",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "거시경제 금리 정책 기사로 반도체는 배경 설명일 뿐"
+    },
+    {
+      "id": "f892c40154",
+      "title": "젠슨 황 엔비디아 CEO \"내년 매출 전년비 70%↑...메모리 급등, 수익성 변수\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154655",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "메모리반도체 가격 급등이 엔비디아 수익성 변수로 직접 언급됨(엔비디아 실적 보도와 동일 이벤트)"
+    },
+    {
+      "id": "17e7597e13",
+      "title": "엔비디아, 7월 분기도 '깜짝실적'...젠슨 황 \"AI 변곡점 도달\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154654",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "엔비디아 실적을 통한 AI 반도체 수요 동향(엔비디아 실적 보도와 동일 이벤트)"
+    },
+    {
+      "id": "e9394e3dd2",
+      "title": "삼성, 온디바이스 겨냥 '연산하는 메모리' 공개",
+      "url": "https://www.hankyung.com/article/2026082647571",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 LPDDR5X-PIM 메모리 기술 공개(아이뉴스24 보도와 동일 이벤트)"
+    },
+    {
+      "id": "5daaa68efa",
+      "title": "이엔셀, CAR-T 세포 수율 4배 높인 공정기술 특허 출원",
+      "url": "https://www.hankyung.com/article/202608263543i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "바이오(세포치료제) 공정기술로 반도체와 무관, 키워드 '공정기술'만 우연히 일치"
+    },
+    {
+      "id": "2a765f4aca",
+      "title": "'제지 왕국' 한솔의 변신…반도체로 새 성장엔진 돌린다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721910",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "한솔테크닉스의 반도체 부품가공·검사장비 사업 확장이나 개별 소부장 기업 실적 이슈"
+    },
+    {
+      "id": "1b28d292c9",
+      "title": "엔비디아 또 '어닝 서프라이즈'…삼전닉스 HBM 슈퍼사이클 힘 받는다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721894",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "엔비디아 실적이 삼성·SK하이닉스 HBM 슈퍼사이클에 미치는 영향을 직접 분석"
+    },
+    {
+      "id": "e010aa6af7",
+      "title": "[기자수첩] 노사는 갈등, 중국은 추격…K-소부장 '골든타임' 놓치나",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721896",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "소부장 업계 노사갈등이 삼성·SK하이닉스 공급망에 미치는 영향을 다루나 개별 기업 이슈 중심"
+    },
+    {
+      "id": "408d664870",
+      "title": "AI 고점론 잠재운 엔비디아…반도체株 깨운다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721899",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "엔비디아 실적의 국내 반도체주(삼성·SK) 투자심리 영향을 다루나 증시 반응 중심"
+    },
+    {
+      "id": "3c64344b4d",
+      "title": "한은, 올해 성장률 3.3%로 대폭 상향…\"반도체·내수 회복\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721897",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "거시경제 성장률 전망 기사로 반도체는 배경 설명일 뿐"
+    },
+    {
+      "id": "82555e0557",
+      "title": "ASML코리아, 세 자릿수 채용…반도체 호황 속 엔지니어 인재 확보 총력",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721883",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "장비사 ASML코리아의 채용 확대로 국내 반도체 생산 확대와 간접 연관"
+    },
+    {
+      "id": "5cdea86e4f",
+      "title": "[EBN 데이터센터] 코스피, 엔비디아發 훈풍에 7000선 근접",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721877",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "단순 증시 시황 기사"
+    }
+  ]
+}
