@@ -1,0 +1,435 @@
+{
+  "date": "2026-09-01",
+  "articles": [
+    {
+      "id": "ff561d2f2f",
+      "title": "반도체 호황, 협력사는 낙수효과 없었다",
+      "url": "https://www.etnews.com/20260828000257",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "삼성·SK하이닉스 메모리 소재 1차 협력사 수익성 분석이나 기술적 내용은 아님"
+    },
+    {
+      "id": "ad3f84ebb9",
+      "title": "부지·전력·용수 준비 끝내놓고…최태원 말 한마디만 기다리는 日",
+      "url": "https://www.etnews.com/20260831000331",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "SK하이닉스 일본 생산거점 유치 관련 직접 보도"
+    },
+    {
+      "id": "d506f60f7f",
+      "title": "호남 반도체 전력·용수에 1281억 투입…전기차 보조금 역대 최대",
+      "url": "https://zdnet.co.kr/view/?no=20260831102438",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "삼성 호남 클러스터 인프라 정부 예산이며 메모리 사업과 직접 연결은 약함"
+    },
+    {
+      "id": "9f3d264545",
+      "title": "821조 슈퍼예산 편성...AI·반도체·청년 미래대응 집중",
+      "url": "https://zdnet.co.kr/view/?no=20260901074932",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "국가 예산 전반에 대한 거시 정책 기사, 메모리 반도체 특정 내용 없음"
+    },
+    {
+      "id": "8797b3ff25",
+      "title": "정부, '3대 메가프로젝트'에 내년 4.5조원 투입",
+      "url": "https://zdnet.co.kr/view/?no=20260901093955",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "AI·반도체·데이터센터 정부 예산 정책, 메모리 사업 직접 연결 약함"
+    },
+    {
+      "id": "7538d64164",
+      "title": "최태원 \"일본 반도체 공장 투자 검토 중\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61619",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "SK하이닉스 일본 생산거점 검토 발언, 최태원 회장 직접 인용"
+    },
+    {
+      "id": "7a59e7177a",
+      "title": "HPSP, 신임 각자대표로 김재현 한화세미텍 前 대표 선임",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61583",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "반도체 장비사 인사 소식, 기술·사업 실질 내용은 제한적"
+    },
+    {
+      "id": "2d74ceadbe",
+      "title": "SK하이닉스, 2분기 웨이퍼 구매액 삼성전자 추월",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61536",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스 원재료(웨이퍼) 구매 동향, 생산 확대 시그널 직접 보도"
+    },
+    {
+      "id": "19adf6c5eb",
+      "title": "에코프로비엠, 전고체 배터리 산학연 '원팀' 구축",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61579",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "전고체 배터리 소재 개발로 반도체 메모리와 무관"
+    },
+    {
+      "id": "255ad4ff22",
+      "title": "어플라이드 \"반도체 3D 미세화 기술 자신…HBM·CPO 신소재 개발\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61577",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "장비사의 HBM·패키징용 신소재·3D 스케일링 기술 발표, 메모리 후공정과 직결"
+    },
+    {
+      "id": "090d6d3cd2",
+      "title": "자이스코리아, KPCA서 PCB·패키징 통합 솔루션 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61525",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "패키징 검사장비 전시 소개로 후공정과 간접 연관"
+    },
+    {
+      "id": "da4adc343b",
+      "title": "'TSMC 단골' LG전자…코아시아세미와 협력해 삼성 파운드리서 칩 생산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61518",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "파운드리·팹리스 협력 사례로 메모리 사업과는 직접 관련 낮음"
+    },
+    {
+      "id": "995efab19f",
+      "title": "덕산하이메탈, 반도체 첨단 패키징 국가전략기술 인정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61513",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "패키징 소재(솔더볼) 기업 인증 소식, 메모리 후공정 소부장 공급망과 간접 연관"
+    },
+    {
+      "id": "66b1e578e6",
+      "title": "씨이랩, AI 데이터센터 전담 조직 강화",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61505",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "AI 인프라 소프트웨어 기업 IR로 메모리 반도체와 무관"
+    },
+    {
+      "id": "9a8a5b5b16",
+      "title": "아이에스티이, 2세대 SiCN PECVD 장비 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61487",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "반도체 증착(PECVD) 국산 장비 개발, 공정 기술 측면에서 관련 있으나 고객사 불명"
+    },
+    {
+      "id": "e6b705887b",
+      "title": "인디켐, 공주 반도체 소재 공장 준공…9월 첫 출하",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61490",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "포토레지스트 원재료(모노머) 국내 생산 확대, 소부장 공급망 관련"
+    },
+    {
+      "id": "e306f901c7",
+      "title": "ST, 싱가포르국립대와 엣지 AI 공동연구소 설립",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61491",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 15,
+      "confidence": "medium",
+      "reason": "해외 팹리스의 엣지 AI 반도체 연구로 메모리 사업과 무관"
+    },
+    {
+      "id": "e352fd5771",
+      "title": "엔비디아, 미디어텍에 35억달러 투자… AI 반도체 생태계 확대",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169202",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "주요 고객사 엔비디아의 AI 반도체 생태계 확장 투자, 메모리 수요와 간접 연결"
+    },
+    {
+      "id": "7562bbfbcd",
+      "title": "조선업계 호황에 하투 최대 쟁점된 '성과급 배분'",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169183",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "조선업계 노사 이슈이며 반도체는 비교 사례로만 언급됨"
+    },
+    {
+      "id": "762e94155f",
+      "title": "SK하이닉스, 日 메모리 공장 설립 검토",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169178",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "SK하이닉스 일본 메모리 공장 검토, 블룸버그발 보도"
+    },
+    {
+      "id": "81ab8751b0",
+      "title": "코스피, 3% 급락 딛고 6800선 회복… 삼전닉스 자사주 뒷심",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169169",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 20,
+      "confidence": "medium",
+      "reason": "증시 시황 기사로 삼성·SK하이닉스는 지수 방어 요인으로만 언급"
+    },
+    {
+      "id": "74ae71cd16",
+      "title": "비싸진 노트북에 부담 커지자…삼성·LG, 100만원대 실속형 '출격'",
+      "url": "https://www.inews24.com/view/2000413",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "메모리 가격 급등이 완제품 가격에 미친 영향, 수요 측 간접 파급"
+    },
+    {
+      "id": "0b576e820f",
+      "title": "노트북 가격 부담 커지자…삼성전자, 119만원 '뉴 갤럭시 북6' 출시",
+      "url": "https://www.inews24.com/view/2000386",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "메모리 가격 상승발 완제품 출시 기사, 74ae71cd16과 같은 맥락"
+    },
+    {
+      "id": "a1edb2f75e",
+      "title": "\"반도체는 전력만 있으면 끝?\"…삼성·SK, 이번엔 '물 215만톤'이 과제",
+      "url": "https://www.inews24.com/view/2000245",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "삼성·SK하이닉스 신규 클러스터의 용수 인프라 과제, 팹 운영에 직접 영향"
+    },
+    {
+      "id": "66a0479052",
+      "title": "삼성전자, 400단 넘은 10세대 V낸드 공개",
+      "url": "https://www.inews24.com/view/2000253",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 차세대 낸드 기술 스펙 공개, 낸드 경쟁 동향 직접 관련"
+    },
+    {
+      "id": "6bf94469d5",
+      "title": "美 어플라이드 \"메모리 병목 해법은 3D 스케일링\"⋯韓 협력 강화",
+      "url": "https://www.inews24.com/view/2000175",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "255ad4ff22와 동일 행사 보도, 메모리 병목·3D 스케일링 기술 논의"
+    },
+    {
+      "id": "7b2122be2b",
+      "title": "최태원 \"일본에 반도체 공장 검토…전력·용수 풍부한 곳 고려\"",
+      "url": "https://www.inews24.com/view/2000131",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "SK하이닉스 일본 생산거점 검토, ad3f84ebb9/7538d64164/762e94155f와 동일 이벤트"
+    },
+    {
+      "id": "85df1729d4",
+      "title": "中 CXMT, 美 국방부에 블랙리스트 취소 소송...\"중국군과 무관\"",
+      "url": "https://www.inews24.com/view/2000024",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "중국 D램 경쟁사 CXMT의 미 제재 대응, 경쟁 구도에 직접 영향"
+    },
+    {
+      "id": "5ce970a246",
+      "title": "[재계 머니무브]SK, 스페셜티 이어 실트론 매각…5조 자산재편 속내",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=672236",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "medium",
+      "reason": "SK그룹의 웨이퍼사(SK실트론) 매각을 통한 반도체·AI·HBM 중심 자산재편"
+    },
+    {
+      "id": "f51a8ed24f",
+      "title": "SK에코플랜트, M&A 5년 '친환경 확장→캡티브 안착'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=672331",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "건설·환경 계열사 사업재편 기사로 반도체·AI는 부수적 언급"
+    },
+    {
+      "id": "923ed2bb74",
+      "title": "비투엔, AI 사업 확대 모색…'대미 투자' 연계 기대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=672342",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "중소 AI 소프트웨어 기업 사업 확대 소식, 메모리 반도체와 무관"
+    },
+    {
+      "id": "b07ba0bc90",
+      "title": "[금융 ★들의 궤적] KB 양종희, 비은행·밸류업 잡고 제시한 나침반",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=672328",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "금융지주 CEO 프로필 기사, 반도체는 투자처로 스치듯 언급"
+    },
+    {
+      "id": "c113fc634d",
+      "title": "[AI 대전환 리딩 전략] 삼성전자, HBM4·2나노로 주도권 탈환",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=672249",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자 HBM4·D램 점유율·전략 심층 분석"
+    },
+    {
+      "id": "6c07e62422",
+      "title": "[글로벌] 마이크론도 대만 노조가 변수...성과급 개편 요구, 파업 투표 가능성도",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154819",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "경쟁사 마이크론 대만 노사 갈등, 생산 차질 가능성 있는 리스크 요인"
+    },
+    {
+      "id": "384622724e",
+      "title": "엔비디아도 '울상'...8월 메모리값 상승세 지속",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154792",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "D램·낸드 가격 상승 추세와 3분기 전망, 메모리 사업에 직접적 영향"
+    },
+    {
+      "id": "6b74f2c825",
+      "title": "뉴엔비디아가 된 삼전닉스…\"AI칩 중심은 이제 GPU 아닌 메모리\" [김인엽의 AI 프런티어]",
+      "url": "https://www.hankyung.com/article/202608288777i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "low",
+      "reason": "본문 요약이 비어 있어 제목만으로 판단; 메모리 중심성 논지로 보이나 확인 필요"
+    },
+    {
+      "id": "1572327e41",
+      "title": "내년 예산 820조 '사상 최대'…반도체 호황에 세수 200조 폭증",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722480",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "정부 예산·세수 기사이며 반도체 호황은 배경 설명 수준"
+    },
+    {
+      "id": "f96b811026",
+      "title": "수출 증가분 8할이 반도체…코스피 실적도 '삼전닉스 독주'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722465",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "반도체 수출·삼성전자·SK하이닉스 실적 비중 확대를 다룸"
+    },
+    {
+      "id": "5538170f2b",
+      "title": "[EBN 데이터센터] 반도체 강세 속 코스피 혼조...코스닥은 바이오·이차전지 약세에 하락",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722459",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "장중 시황 단신, SK하이닉스 주가는 등락률 언급 수준"
+    },
+    {
+      "id": "f14c6d66ec",
+      "title": "[1% 초고수의 개장 선택] 'LG전자' 저가매수하고 'SK이노베이션' 차익실현",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722453",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "투자자 매매 동향 단신, SK하이닉스는 차익실현 대상으로만 언급"
+    },
+    {
+      "id": "6b4d188a33",
+      "title": "용인 반도체 국가산단 10월 첫삽…'2028년 팹 착공' 속도전",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722446",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "삼성 시스템반도체 국가산단 공정 착공 소식, 메모리 사업과 직접 연결 약함"
+    },
+    {
+      "id": "27d2176151",
+      "title": "삼성전자 호남 투자 변수 '배치전환' 논란…\"경영판단까지 쟁의 대상 안 돼\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722431",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "삼성 호남 투자 관련 노동법 쟁점, 메모리 기술·사업과는 간접적"
+    },
+    {
+      "id": "eb66e3acfa",
+      "title": "반도체 신화 계속된다…8월 수출 982억 달러 기록",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722442",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "반도체 수출 역대 최대 실적, 메모리 수요 확대와 연결되나 수치 위주"
+    }
+  ]
+}
