@@ -1,0 +1,615 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "id": "de934b106d",
+      "title": "李대통령, 韓佛 협력 넓혔다…삼성전자·미스트랄까지 성과 확산",
+      "url": "https://www.etnews.com/20260909000117",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "low",
+      "reason": "삼성-미스트랄 투자 협력이 언급되나 정상회담·외교 성과가 중심 프레임이라 반도체 사업 실질 비중 판단이 애매함"
+    },
+    {
+      "id": "9ce8b9ef11",
+      "title": "코스피, 개장 초반 7000선 공방…반도체 강세 지속",
+      "url": "https://www.etnews.com/20260909000052",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "코스피 시황 기사, SK하이닉스·삼성전자 언급은 주가 수치뿐"
+    },
+    {
+      "id": "bc93ca8a81",
+      "title": "삼성전자, 미스트랄 AI와 반도체 특화 AI 개발…설계·제조 혁신",
+      "url": "https://www.etnews.com/20260908000385",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "삼성전자가 반도체 설계·제조 업무에 AI모델 도입, 경쟁사 기술 활용 사례로 실질 내용 있음"
+    },
+    {
+      "id": "1358105d0b",
+      "title": "SK하이닉스 \"3D D램에 파운드리 공정 활용\"",
+      "url": "https://zdnet.co.kr/view/?no=20260909103105",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 95,
+      "confidence": "high",
+      "reason": "SK하이닉스가 3D D램 기술 방향(파운드리 공정 활용)을 직접 제시"
+    },
+    {
+      "id": "0332ff1189",
+      "title": "삼성전기·LG이노텍, 'KPCA쇼'서 AI용 대면적·유리기판 기술력 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260909110315",
+      "source": "ZDNet Korea",
+      "category": "other",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AI반도체용 패키지기판 기술이나 메모리 사업과의 연결이 명시적이지 않음"
+    },
+    {
+      "id": "320fe5a0a8",
+      "title": "곽동신 한미반도체 회장, 자사주 7억 또 샀다…누적 702억원",
+      "url": "https://zdnet.co.kr/view/?no=20260909105019",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "HBM 장비사 한미반도체 관련이나 내용은 자사주 매입(지배구조)으로 기술·사업 실질 내용 없음"
+    },
+    {
+      "id": "6f00881294",
+      "title": "삼성 초기업노조, '반도체 노조' 전환 추진…가입자 반도체 부문 한정",
+      "url": "https://zdnet.co.kr/view/?no=20260909101620",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "삼성 DS부문 노조 전환 이슈로 기술·사업과 무관한 노동조합 문제"
+    },
+    {
+      "id": "7d3aedc1cd",
+      "title": "태성, KPCA 쇼 2026서 TGV 공정 장비 3종 알린다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62006",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "유리기판 TGV 공정 장비 전시 소식, 소부장 개별 홍보성 기사"
+    },
+    {
+      "id": "fcfe7f3fdd",
+      "title": "SOCAMM 최대 공급사 심텍, 차세대 AI 기판 기술 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62000",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "AI서버용 메모리모듈(SOCAMM) 기판 기술로 메모리 사업과 연결되나 소부장 관점"
+    },
+    {
+      "id": "fc7e445a25",
+      "title": "앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61967",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "EDA 설계도구 확장 소식, HBM 수출 비중 언급 정도로 메모리 사업과는 간접적"
+    },
+    {
+      "id": "89b7c80bcd",
+      "title": "메타·파네시아, CXL로 데이터센터 연결",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61980",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "CXL 기반 AI데이터센터 구조로 메모리 확장 인터커넥트 기술과 연관되나 간접적"
+    },
+    {
+      "id": "a674e504fd",
+      "title": "세미파이브, 4나노 반도체 첫 양산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61975",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "팹리스 파운드리 양산 소식으로 메모리 사업과는 무관"
+    },
+    {
+      "id": "335708b329",
+      "title": "삼성전자-ASML, D램 제조에 하이 EUV 도입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61969",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자가 하이-NA EUV를 D램 제조에 도입, 메모리 공정기술 직접 관련"
+    },
+    {
+      "id": "a175816ec6",
+      "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61965",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "비전AI 기업의 Arm 생태계 합류 소식으로 메모리·반도체 공정과 무관"
+    },
+    {
+      "id": "7a13d67936",
+      "title": "AP시스템, 딥테크·소부장 투자 펀드 결성",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61958",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "medium",
+      "reason": "소부장 투자펀드 결성 소식으로 구체적 기술 내용 없음"
+    },
+    {
+      "id": "8ed7ed2206",
+      "title": "DN솔루션즈, 첨단산업 공작기계 국산화로 국무총리 표창",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61943",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "공작기계 국산화 표창 소식으로 기술 실질 내용 미미"
+    },
+    {
+      "id": "d1376a1110",
+      "title": "한국도레이과학진흥재단, 과학기술상에 김상규·김윤희 교수 선정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61949",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "과학기술상 시상 소식으로 반도체와 무관"
+    },
+    {
+      "id": "d932fa3471",
+      "title": "KPCA, 대학생과 대만 반도체 패키징 산업현장 연수",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61930",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "대학생 해외연수 프로그램 소식으로 산업 동향과 무관"
+    },
+    {
+      "id": "ac8022fa16",
+      "title": "삼성전자, TSMC '光 반도체 테스트 플랫폼' 그대로 쓴다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61915",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "삼성전자가 TSMC와 동일한 실리콘포토닉스 테스트 플랫폼 채택, 경쟁사 패키징·테스트 기술 동향"
+    },
+    {
+      "id": "2747a7d93b",
+      "title": "고영테크놀러지, 세미콘 타이완 2026서 3D 반도체 검사 솔루션 소개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61923",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "검사장비업체 전시회 홍보성 기사"
+    },
+    {
+      "id": "81232c3816",
+      "title": "제너셈, 하나마이크론 베트남에 후공정 장비 공급...188억 규모",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61919",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "OSAT 후공정 장비 개별 공급계약으로 산업 전반 영향은 제한적"
+    },
+    {
+      "id": "62f4f8497d",
+      "title": "AMD, 한국 피지컬 AI 시장 정조준…반도체 장비·차량·로봇 영토 확장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61882",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "AMD의 피지컬AI 시장전략 소식으로 메모리 사업과 직접 연결 없음"
+    },
+    {
+      "id": "e73d98f7df",
+      "title": "한양이엔지, 삼성전자 평택 P5 클린룸 배관 1480억 수주",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61904",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "삼성전자 평택 공장 클린룸 배관 개별 건설계약"
+    },
+    {
+      "id": "2597bc2b0b",
+      "title": "차세대 AI 기판 기술 경쟁… 삼성전기·LG이노텍, 고부가 시장 공략",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169743",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AI가속기용 패키지기판 경쟁 동향으로 메모리 사업과 간접 연결"
+    },
+    {
+      "id": "7b9f005826",
+      "title": "美반도체 강세에 코스피 1% 상승… 7000선 재탈환",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169750",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "코스피 시황 기사"
+    },
+    {
+      "id": "637899e89d",
+      "title": "SK하이닉스, 미래포럼 개최…AI 시대 메모리 방향성 모색",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169742",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "SK하이닉스 미래포럼에서 AI시대 메모리 방향성 논의, 직접 관련"
+    },
+    {
+      "id": "2528bb969d",
+      "title": "삼성, 日 첨단 패키징 거점 APL 준공…전영현 현장 점검",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169706",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "삼성전자 일본 첨단패키징 R&D 거점 준공, 경쟁사 후공정 투자 동향"
+    },
+    {
+      "id": "d5462c56c3",
+      "title": "한컴·퓨리오사AI, NPU 기반 AX 어플라이언스 개발 추진",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169689",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "NPU기반 AX 어플라이언스 개발 협력 소식으로 메모리 고객사 생태계와는 간접적"
+    },
+    {
+      "id": "773b63a52f",
+      "title": "AI 에이전트가 바꾸는 반도체 설계… 시높시스 “보조 도구서 공동연구자로”",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169707",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI에이전트 기반 반도체 설계 트렌드로 EDA 업계 동향"
+    },
+    {
+      "id": "8299eebc51",
+      "title": "삼성전자 초기업노조, &apos;반도체 노조&apos; 전환 추진…다음 달 6일 총회",
+      "url": "https://www.inews24.com/view/2003561",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "삼성 DS부문 노조 전환 이슈(중복 보도)"
+    },
+    {
+      "id": "234cd83ded",
+      "title": "SK하이닉스 곽노정 &quot;메모리 시장 &apos;곡선도로&apos;…고객 시선서 기회 찾아야&quot;",
+      "url": "https://www.inews24.com/view/2003539",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 CEO가 AI시대 메모리 시장 전략을 직접 언급"
+    },
+    {
+      "id": "40c2ddc92d",
+      "title": "삼성전기, AI 반도체 기판 고도화…2.5D·2.1D·유리기판 공개",
+      "url": "https://www.inews24.com/view/2003506",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AI반도체 기판 고도화 소식(중복 보도)으로 메모리 사업과 간접 연결"
+    },
+    {
+      "id": "b489557286",
+      "title": "LG이노텍, AI 가속기용 FC-BGA 첫 공개…2027년 양산",
+      "url": "https://www.inews24.com/view/2003504",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "LG이노텍 AI가속기용 기판 공개로 소부장 관점"
+    },
+    {
+      "id": "d31f1da9bf",
+      "title": "메모리값에 스마트폰 &apos;선구매&apos;…삼성전자 2Q 출하량 1위",
+      "url": "https://www.inews24.com/view/2003458",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "메모리 가격 상승이 스마트폰 시장에 영향, 메모리 수요·가격 동향과 연결"
+    },
+    {
+      "id": "b87469de1d",
+      "title": "삼성전자, 미스트랄 4.7조 투자 주도…&apos;AI 동맹&apos; 확대",
+      "url": "https://www.inews24.com/view/2003457",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "삼성전자 미스트랄 투자 주도 소식(중복 보도), 반도체 AI동맹 확대"
+    },
+    {
+      "id": "a8567d4d0f",
+      "title": "삼성전자, 日 요코하마에 첨단 패키징 R&D 거점",
+      "url": "https://www.inews24.com/view/2003460",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "삼성전자 일본 패키징 R&D거점 소식(중복 보도)"
+    },
+    {
+      "id": "566f6ce299",
+      "title": "中은 EUV도 막혔는데…삼성·TSMC·인텔, ASML과 &apos;초격차&apos;[종합]",
+      "url": "https://www.inews24.com/view/2003414",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "삼성·TSMC·인텔의 ASML EUV 확보 경쟁, 경쟁사 공정기술 동향 종합"
+    },
+    {
+      "id": "322381fac1",
+      "title": "인텔·ASML, 하이 NA EUV 양산 확대⋯웨이퍼 100만장 적용",
+      "url": "https://www.inews24.com/view/2003394",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "인텔·ASML 하이NA EUV 양산 확대 소식, 경쟁사 공정기술이나 파운드리 중심"
+    },
+    {
+      "id": "41f7249195",
+      "title": "삼성전자, D램 미세화 한계 극복…ASML과 맞손",
+      "url": "https://www.inews24.com/view/2003338",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성전자 D램 미세화에 ASML 하이NA EUV 도입(중복 보도)"
+    },
+    {
+      "id": "4d4b108fdc",
+      "title": "삼성, ‘유럽의 오픈AI’에 베팅…미스트랄 4.7조 투자판 주도",
+      "url": "https://www.inews24.com/view/2003275",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "삼성 미스트랄 투자 주도 소식(중복 보도)"
+    },
+    {
+      "id": "460d1bb5c0",
+      "title": "한컴, NPU 기반 AX 시장 공략 나선다",
+      "url": "https://www.inews24.com/view/2003301",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "NPU기반 AX시장 공략 소식(중복 보도)"
+    },
+    {
+      "id": "f36205d10e",
+      "title": "세미파이브, 삼성 4나노 첫 적용...하이퍼엑셀 데이터센터용 &apos;베르다&apos; 양산",
+      "url": "https://www.inews24.com/view/2003244",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "세미파이브 4나노 양산 소식(중복 보도)으로 파운드리·팹리스 관점"
+    },
+    {
+      "id": "0e6ce2c082",
+      "title": "Arm, 모바일 CSS 2세대·서버 N4 공개…&quot;삼성 2나노 지원&quot;",
+      "url": "https://www.inews24.com/view/2002858",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "Arm 신제품이 삼성 2나노 파운드리 공정 지원을 언급, 경쟁사 파운드리 생태계와 간접 연결"
+    },
+    {
+      "id": "6620679c6e",
+      "title": "中 샤오미, 삼성 폴드8 닮은 &apos;여권형&apos; 18 폴드 공개…220만원부터",
+      "url": "https://www.inews24.com/view/2003008",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "low",
+      "reason": "중국 스마트폰에 LPDDR6 탑재를 언급하나 메모리 기술 동향으로서 실질적 의미인지 단순 스펙 나열인지 판단이 애매함"
+    },
+    {
+      "id": "afa0c8b78b",
+      "title": "비투엔, 리벨리온에 130억 투자…기업용 AI 사업 연계",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673169",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "AI반도체 스타트업 리벨리온 간접투자 소식으로 재무적 투자 중심"
+    },
+    {
+      "id": "31a3a78b10",
+      "title": "고려아연, '희소금속' 투자 옳았다...수익성 개선",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673110",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "희소금속 기업 실적 기사로 반도체와 무관"
+    },
+    {
+      "id": "c244a11d14",
+      "title": "[AI 대전환 리딩 전략] SK하이닉스, HBF로 '풀스택 전략' 강화",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673120",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 95,
+      "confidence": "high",
+      "reason": "SK하이닉스 HBM/HBF 풀스택 전략, 핵심 사업 전략 기사"
+    },
+    {
+      "id": "26825cca63",
+      "title": "삼성, 'AI 신흥강자' 미스트랄에 꽂힌 이유…'DS 혁신·유럽 판로'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673113",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "삼성 미스트랄 투자 배경 분석(중복 보도), DS부문 혁신 목적 명시"
+    },
+    {
+      "id": "b53e8a95d1",
+      "title": "심텍, '2026 서플라이어 데이' 개최…공급망 협력 강화 나선다",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673107",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "기판업체 서플라이어데이 개최 소식으로 공급망 행사성 기사"
+    },
+    {
+      "id": "01e830c4c1",
+      "title": "[글로벌] AI 데이터센터 확산에 메모리 가격 급등...애플도 가격 인상 압박",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155022",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "AI데이터센터發 메모리 가격 급등이 전자제품 가격까지 영향, 메모리 수요·가격 핵심 동향"
+    },
+    {
+      "id": "7975f8782b",
+      "title": "인텔-ASML, 하이 NA EUV 업계 도입 확대 '맞손'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155023",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "인텔·ASML 하이NA EUV 협력 소식(중복 보도)"
+    },
+    {
+      "id": "f16d6e7e3f",
+      "title": "삼성전자·TSMC·ASML, 12인치 포토마스크 도입 '맞손'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155021",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "삼성전자·TSMC·ASML 12인치 포토마스크 컨소시엄, 삼성 D램 공정기술 직접 관련"
+    },
+    {
+      "id": "ac0839c3eb",
+      "title": "한컴, 한컴이노스트림·퓨리오사AI와 3자 업무협약...NPU 기반 AX 시장 공략",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155000",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "NPU기반 AX 3자협약 소식(중복 보도)"
+    },
+    {
+      "id": "9523a52194",
+      "title": "반도체 날자 기업 실적도 날았다…매출 26.7%↑",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723584",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "medium",
+      "reason": "기업경영분석 거시지표로 반도체는 업황 배경 설명 수준"
+    },
+    {
+      "id": "a23a5f82cf",
+      "title": "[EBN 데이터센터] 반도체 대표주 강세...DB하이텍 8%대 급등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723581",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "반도체 주가 시황 기사"
+    },
+    {
+      "id": "c0b009f7e6",
+      "title": "[Tech & Now] 인텔리빅스, IFA서 국산 NPU 기반 재난안전 AI 솔루션 소개 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723566",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "NPU기반 재난안전 AI 솔루션 전시 소식으로 메모리 사업과 무관"
+    },
+    {
+      "id": "a8b926e787",
+      "title": "[EBN 데이터센터] 에스엠벡셀·두산퓨얼셀 상승 탄력...장중 상위주 혼조",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723561",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "증시 시황 기사로 반도체 관련성 낮음"
+    },
+    {
+      "id": "2e7732f56f",
+      "title": "[EBN 데이터센터] 반도체·산업재 강세...코스닥은 반도체 장비·로봇주 두각",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723559",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "반도체 관련주 시황 기사"
+    },
+    {
+      "id": "2142d057bb",
+      "title": "DB하이텍, 8인치 1200V SiC 공정 신뢰성 검증…내년 양산 속도",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723535",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "DB하이텍 SiC 전력반도체 공정 소식으로 파운드리 개별기술이나 메모리와는 무관"
+    },
+    {
+      "id": "b3048cd566",
+      "title": "[EBN 데이터센터] 코스피, 장 초반 7030.65 기록...반도체 강세에 1.09% 상승",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723538",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "코스피 시황 기사"
+    },
+    {
+      "id": "fc0a8327c5",
+      "title": "SK하이닉스 '2026 미래포럼'…AI 메모리 '골든타임' 잡는다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723533",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "SK하이닉스 미래포럼 AI메모리 전략 소식(중복 보도)"
+    }
+  ]
+}
