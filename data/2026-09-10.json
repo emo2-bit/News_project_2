@@ -1,0 +1,505 @@
+{
+  "date": "2026-09-10",
+  "articles": [
+    {
+      "id": "48cc289018",
+      "title": "SK하이닉스 ADR 7% 급등…상장 후 최고가",
+      "url": "https://www.etnews.com/20260910000022",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "SK하이닉스 ADR 급등과 D램·낸드 공급부족 지속 전망(UBS)을 직접 다룸"
+    },
+    {
+      "id": "8346ed8902",
+      "title": "李대통령, 프랑스서 AI·원전 '성과 보따리'…호르무즈 공조도 가닥",
+      "url": "https://www.etnews.com/20260910000015",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "AI·반도체 협력 확대는 외교 성과 언급 수준으로, 메모리 사업과 직접 연결되지 않음"
+    },
+    {
+      "id": "72e1264851",
+      "title": "\"K-팹리스, 해외 PoC 감당 한계\"…마중물 정책 호소",
+      "url": "https://zdnet.co.kr/view/?no=20260910115738",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "AI반도체 팹리스(NPU) 업계의 정책 지원 요구로, 메모리 사업과는 간접적 연관"
+    },
+    {
+      "id": "6ca0e99441",
+      "title": "INFINITIX, 스마트제조혁신센터(SMIC)에 AI-Stack 구축",
+      "url": "https://zdnet.co.kr/view/?no=20260910111002",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "AI 인프라 소프트웨어 구축 소식으로 반도체는 서비스 대상 산업군 언급 수준"
+    },
+    {
+      "id": "166eb5ede2",
+      "title": "SK하이닉스, 이천·청주 용수 재이용 확대...2030년까지 6억t 절감",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62062",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "low",
+      "reason": "SK하이닉스가 직접 언급되지만 내용은 용수절감(ESG) 성과라 메모리 기술·사업과 무관 — 회사 직접언급 기준과 내용 실질성 기준이 충돌하는 경계 사례"
+    },
+    {
+      "id": "8413e147dd",
+      "title": "무라타, AI 반도체용 전력기판 'iPaS' 내년 양산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62051",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "AI반도체용 전력기판 소부장 동향, 패키징 공급망과 간접 연관"
+    },
+    {
+      "id": "ca7d8fe416",
+      "title": "심텍, KPCA 시상식서 3관왕…SOCAMM 양산 공로 인정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62052",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "AI서버용 차세대 메모리모듈(SOCAMM) 양산 공로 시상 — 메모리 후공정과 간접 연관 (같은 KPCA쇼 이벤트를 8a0e9fccae, b4abe2b6fc가 각기 다른 각도로 보도)"
+    },
+    {
+      "id": "2ed290853c",
+      "title": "덕산하이메탈, 글로벌 1위 솔더볼 기술력 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62053",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "AI반도체 패키징용 솔더볼 소재 기술, 메모리 사업과는 간접적"
+    },
+    {
+      "id": "096e5cdecd",
+      "title": "코오롱인더스트리, 김천 mPPO 공장 증설 완료",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62054",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "AI반도체용 저유전 소재 생산라인 증설, 소부장 개별 계약성 뉴스 (c17ca01f23와 동일 이벤트)"
+    },
+    {
+      "id": "6a0b02fb26",
+      "title": "인텍플러스, 반도체·기판 검사 장비 중국 공급...60억 규모",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62046",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "반도체 검사장비 개별 수출계약으로 메모리 사업과 직접 연결 없음"
+    },
+    {
+      "id": "010d8e9ccd",
+      "title": "LG이노텍, 실리콘 커패시터 내장 기판 초격차",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62042",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AI반도체용 FC-BGA 패키징 기판 기술, 후공정 소부장 동향 (b489557286와 동일 이벤트)"
+    },
+    {
+      "id": "a6f425053f",
+      "title": "이노플라즈텍, CNT 도전재 연 100톤 양산체제 구축",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62023",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "배터리 전극 소재 뉴스로 반도체와 무관"
+    },
+    {
+      "id": "66f3fdf64a",
+      "title": "SK키파운드리, 엘모스에 11년간 130나노 파운드리 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62037",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "SK 계열 레거시 파운드리의 차량용 반도체 장기공급계약으로 메모리 사업과는 다른 영역"
+    },
+    {
+      "id": "7f0f780053",
+      "title": "DB하이텍, 8인치 SiC 파운드리 양산 눈앞",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62029",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "SiC 파운드리 양산 준비 소식, 메모리와는 무관한 파운드리 영역 공정기술 동향"
+    },
+    {
+      "id": "e124b25ef8",
+      "title": "\"1초 만에 불량 솎아낸다\"…모나, 배터리 AI 진단 범용 모델 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62020",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "배터리 진단 AI 모델 개발로 반도체와 무관"
+    },
+    {
+      "id": "f41dab8245",
+      "title": "LG화학, 배터리 열폭주 킬러 'SFB' 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62017",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "배터리 열폭주 방지 소재 개발로 반도체와 무관"
+    },
+    {
+      "id": "04cd21536f",
+      "title": "액셀리스, 평택에 반도체 공장 공장 신설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61996",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "반도체 장비(이온주입기) 업체의 한국 생산공장 신설, 소부장 공급망 동향"
+    },
+    {
+      "id": "24f66b9033",
+      "title": "퀄컴-아마존 AI 데이터센터 협력…80조원 규모",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61985",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "AI 데이터센터용 맞춤형 반도체(ASIC) 협력, AI반도체 수요 생태계 동향"
+    },
+    {
+      "id": "7d3aedc1cd",
+      "title": "태성, KPCA 쇼 2026서 TGV 공정 장비 3종 알린다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62006",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "유리기판 공정장비 전시 소개, 패키징 소부장 홍보성 뉴스"
+    },
+    {
+      "id": "fcfe7f3fdd",
+      "title": "SOCAMM 최대 공급사 심텍, 차세대 AI 기판 기술 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62000",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "AI서버용 차세대 메모리모듈(SOCAMM/LPCAMM) 기판 기술 공개, 메모리 후공정과 연관"
+    },
+    {
+      "id": "6cbed57487",
+      "title": "삼성전자-미스트랄 AI, 반도체 설계·제조 특화 AI 만든다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61984",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 반도체 설계·제조 특화 AI 개발 파트너십, 경쟁사 기술전략 동향 (b87469de1d와 동일 이벤트)"
+    },
+    {
+      "id": "fc7e445a25",
+      "title": "앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61967",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "EDA 설계 플랫폼 확장 소식, HBM 수출 비중 언급은 있으나 메모리 사업과 직접 연결은 약함"
+    },
+    {
+      "id": "89b7c80bcd",
+      "title": "메타·파네시아, CXL로 데이터센터 연결",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61980",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "CXL 기반 데이터센터 아키텍처로 메모리 인터커넥트 기술과 연관된 AI 생태계 동향"
+    },
+    {
+      "id": "a674e504fd",
+      "title": "세미파이브, 4나노 반도체 첫 양산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61975",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "삼성 파운드리를 활용한 팹리스 고객사 양산 소식, 메모리 사업과는 간접적"
+    },
+    {
+      "id": "94f37475bc",
+      "title": "반등장서 뒤바뀐 그룹ETF 판도… 두산·한화 뛰고, 현대차 후진",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169778",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "그룹 ETF 시황 뉴스로 반도체는 배경 언급 수준"
+    },
+    {
+      "id": "0c789168c4",
+      "title": "아이폰18 프로, A20 프로 칩 탑재 …\"모바일 컴퓨팅 새 기준\"",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169823",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "애플 자체설계 AP 칩 공개 소식, 2나노 파운드리 공정 언급 등 경쟁 파운드리 동향과 간접 연관"
+    },
+    {
+      "id": "c17ca01f23",
+      "title": "코오롱인더, 반도체 기판 소재 mPPO 생산라인 증설",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169813",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "AI반도체용 저유전 소재 생산라인 증설, 소부장 개별 계약성 뉴스 (096e5cdecd와 동일 이벤트)"
+    },
+    {
+      "id": "024a60bc0b",
+      "title": "잘 나가는 반도체, 9월 노사 분수령…삼성은 노조 재편·하이닉스는 재투표",
+      "url": "https://www.inews24.com/view/2003957",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "SK하이닉스 성과급 관련 조합원 재투표 등 노사 이슈로 기술·사업 전략보다는 인사노무 성격"
+    },
+    {
+      "id": "f0a31e8ad5",
+      "title": "과기정통부, 프랑스와 AI·반도체·양자 협력 강화",
+      "url": "https://www.inews24.com/view/2003579",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "정부간 AI·반도체·양자 협력 MOU로 일반적 정책 성과 발표, 메모리 사업과 직접 연결 없음"
+    },
+    {
+      "id": "d29cc55f9c",
+      "title": "곽동신 한미반도체 회장, 자사주 7억원 추가 매입…누적 702억원",
+      "url": "https://www.inews24.com/view/2003644",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "HBM 장비(TC본더) 공급사 회장의 자사주 매입 소식, 메모리 장비 공급망과 간접 연관"
+    },
+    {
+      "id": "8299eebc51",
+      "title": "삼성전자 초기업노조, '반도체 노조' 전환 추진…다음 달 6일 총회",
+      "url": "https://www.inews24.com/view/2003561",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "경쟁사 삼성전자 노조 조직개편 이슈로 기술·사업 전략과는 무관한 노무 뉴스"
+    },
+    {
+      "id": "234cd83ded",
+      "title": "SK하이닉스 곽노정 \"메모리 시장 '곡선도로'…고객 시선서 기회 찾아야\"",
+      "url": "https://www.inews24.com/view/2003539",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스 사장의 AI시대 메모리 시장 전략 발언을 직접 다룸"
+    },
+    {
+      "id": "40c2ddc92d",
+      "title": "삼성전기, AI 반도체 기판 고도화…2.5D·2.1D·유리기판 공개",
+      "url": "https://www.inews24.com/view/2003506",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "경쟁 생태계의 AI반도체용 차세대 패키지기판 기술 공개, 후공정 소부장 동향"
+    },
+    {
+      "id": "b489557286",
+      "title": "LG이노텍, AI 가속기용 FC-BGA 첫 공개…2027년 양산",
+      "url": "https://www.inews24.com/view/2003504",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AI가속기용 FC-BGA 패키징 기판 공개, 후공정 소부장 동향 (010d8e9ccd와 동일 이벤트)"
+    },
+    {
+      "id": "d31f1da9bf",
+      "title": "메모리값에 스마트폰 '선구매'…삼성전자 2Q 출하량 1위",
+      "url": "https://www.inews24.com/view/2003458",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "메모리 가격 상승이 스마트폰 구매·시장 점유율에 미치는 영향을 다뤄 메모리 시황과 실질적으로 연관"
+    },
+    {
+      "id": "b87469de1d",
+      "title": "삼성전자, 미스트랄 4.7조 투자 주도…'AI 동맹' 확대",
+      "url": "https://www.inews24.com/view/2003457",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 미스트랄 AI 대규모 투자 및 반도체 설계 AI 도입, 경쟁사 기술전략 동향 (6cbed57487와 동일 이벤트)"
+    },
+    {
+      "id": "a8567d4d0f",
+      "title": "삼성전자, 日 요코하마에 첨단 패키징 R&D 거점",
+      "url": "https://www.inews24.com/view/2003460",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "경쟁사 삼성전자의 일본 첨단패키징 R&D 거점 마련, 후공정 경쟁 동향"
+    },
+    {
+      "id": "ca4e98fcd0",
+      "title": "'적자' 애큐온저축은행, 勞 250억 요구에 묵묵부답…한화생명도 침묵",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673252",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 0,
+      "confidence": "high",
+      "reason": "저축은행 매각 노사갈등 뉴스로 반도체와 무관"
+    },
+    {
+      "id": "00f15a009c",
+      "title": "2나노 탑재한 아이폰18…삼성·TSMC, GAA 기술력 '진검승부'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673248",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 71,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자·TSMC의 2나노 파운드리 기술 경쟁과 D램 배치 변경 등 패키징 이슈를 구체적으로 다룸"
+    },
+    {
+      "id": "f994da870a",
+      "title": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673175",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "오픈AI-삼성전자 차세대 칩 생산·보안 협력 확대, AI반도체 고객 생태계 동향"
+    },
+    {
+      "id": "3b58a5ee9a",
+      "title": "초기업노조, '최승호 축출 모의' 부위원장 등 2명 불신임 투표",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673203",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "삼성 노조 내부 정치 갈등으로 기술·사업과 무관"
+    },
+    {
+      "id": "8a0e9fccae",
+      "title": "심텍, KPCA쇼서 AI 기판 기술 공개…산업부 장관상 포함 '3관왕'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673204",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "AI서버용 차세대 기판 기술 공개 및 수상, 메모리 후공정과 간접 연관 (ca7d8fe416와 동일 이벤트)"
+    },
+    {
+      "id": "b4abe2b6fc",
+      "title": "심텍, 'KPCA쇼 2026'서 AI 반도체용 차세대 기판 기술 공개",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673199",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "AI서버·차세대 컴퓨팅용 반도체 기판 기술 공개, 메모리 후공정과 연관 (ca7d8fe416, 8a0e9fccae와 동일 이벤트)"
+    },
+    {
+      "id": "88cb575ffb",
+      "title": "오픈AI 韓 공략 1년...기업용 챗GPT 28배 증가·국내 추론 인프라 추진",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155055",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "오픈AI 국내 추론 인프라 확대 및 삼성·SK 반도체·데이터센터 협력 예고 언급, AI 생태계 수요 동향"
+    },
+    {
+      "id": "01e830c4c1",
+      "title": "[글로벌] AI 데이터센터 확산에 메모리 가격 급등...애플도 가격 인상 압박",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155022",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "AI데이터센터발 메모리 공급부족·가격급등과 전자제품 가격 전이 현상('RAMageddon')을 직접 다룸"
+    },
+    {
+      "id": "21d54c9251",
+      "title": "반도체 벨트 집값 들썩…한은 \"가계대출 다시 늘 수도\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723747",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "반도체 성과급발 부동산 시장 영향 뉴스로 기술·사업과 무관"
+    },
+    {
+      "id": "587e0c8bf0",
+      "title": "한은, 추가 금리인상 열어둬…\"시기·속도 조절\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723745",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "통화정책 뉴스로 반도체 수출 호조는 배경 설명 수준 언급"
+    },
+    {
+      "id": "6ce9abe40e",
+      "title": "[EBN 데이터센터] 시총상위주 장중 약세...반도체·이차전지 눌리고 금융주 선방",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723730",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "일일 증시 시황 뉴스로 반도체는 종목 언급 수준"
+    },
+    {
+      "id": "f015eed5f2",
+      "title": "그로쓰리서치 \"큐알티, 2Q 바닥 통과…하반기 HBM·우주·유리기판 도약\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723718",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "반도체 품질검증 기업의 HBM 관련 실적 전망 리서치 보고서, 소부장 개별기업 동향"
+    },
+    {
+      "id": "b78d36d969",
+      "title": "해성디에스, 'KPCA Show 2026' 참가…반도체 3대 기판 기술력 선봬",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723701",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "반도체 패키징 기판 소부장 기업의 전시 참가 홍보성 뉴스"
+    }
+  ]
+}
