@@ -1,0 +1,345 @@
+{
+  "date": "2026-09-19",
+  "articles": [
+    {
+      "id": "1c1fc67c69",
+      "title": "대전시, 방산 소부장 특화단지 선정…'수입 의존 핵심부품' 국산화 시동",
+      "url": "https://www.etnews.com/20260918000176",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "방위산업 소부장 국산화 정책 기사로 메모리 반도체와 무관"
+    },
+    {
+      "id": "1f057902df",
+      "title": "AI가 밀어올린 스마트폰 가격, 신흥국 인터넷 보급 급제동",
+      "url": "https://zdnet.co.kr/view/?no=20260919084130",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "AI 수요發 메모리 가격 급등이 핵심 소재이나 SK하이닉스·경쟁사 기술 자체는 다루지 않음"
+    },
+    {
+      "id": "8b8036e6a2",
+      "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
+      "url": "https://zdnet.co.kr/view/?no=20260918221337",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "medium",
+      "reason": "AI칩 첨단 패키징(CoWoS-L) 경쟁 구도로 후공정 기술 트렌드와 연결되나 메모리 사업 직접 언급은 없음"
+    },
+    {
+      "id": "119464aad0",
+      "title": "화웨이, 초대형 데이터센터 AI 추론 가속 위한 OceanStor M900 Context Memory Storage 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260919001003",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 33,
+      "confidence": "medium",
+      "reason": "AI 인프라용 메모리 스토리지 제품이나 엔터프라이즈 스토리지 시스템이라 메모리 반도체 사업과는 간접적"
+    },
+    {
+      "id": "25909bcd89",
+      "title": "온세미, 전력모듈 조립 공정 없앤다…웨이퍼에 칩 통째로 집적",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62534",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "전력반도체 패키징 신기술로 공정 개념은 유사하나 메모리와 직접 연관성 낮음"
+    },
+    {
+      "id": "3bc5e07d31",
+      "title": "알파칩스, '빛 반도체' 4종 내년 출하",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62519",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "광통신·광센서 IC로 메모리·공정기술과 무관"
+    },
+    {
+      "id": "c47b335990",
+      "title": "SK하이닉스 손자회사 솔리다임, 美 낸드 공장 구축 검토",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62529",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "SK하이닉스 계열사의 낸드 생산거점 확대 직접 보도"
+    },
+    {
+      "id": "3e676078ce",
+      "title": "아이씨티케이, 지란지교시큐리티와 PQC 전환 사업 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62509",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "보안 반도체(PUF/PQC) 사업으로 메모리와 무관"
+    },
+    {
+      "id": "3b34cb9208",
+      "title": "GDP냐 GDR이냐…램리서치-PSK 특허소송 다음달 선고",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62464",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "장비사(램리서치) 특허소송으로 소부장 공급망과 관련 있으나 메모리 사업과는 간접적"
+    },
+    {
+      "id": "18546192cb",
+      "title": "램리서치-비씨엔씨, 디자인권 침해 범위 재산정…다음달 선고",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62446",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "식각장비 관련 소송으로 소부장 개별 계약·분쟁 성격이라 메모리 사업과 명시적 연결 없음"
+    },
+    {
+      "id": "4844478e85",
+      "title": "픽셀플러스, 미국 팹리스와 AI 로봇 청소기 이미지센서 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62458",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "CMOS 이미지센서 사업으로 메모리와 무관"
+    },
+    {
+      "id": "c24476ef29",
+      "title": "래티스, 양자컴퓨터 해킹 막는 FPGA '마크-N2' 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62436",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "FPGA 신제품으로 메모리·공정기술과 무관"
+    },
+    {
+      "id": "c11659500c",
+      "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62439",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "medium",
+      "reason": "SK하이닉스가 언급되나 협력사 감사행사로 기술·사업 내용은 없는 PR성 기사"
+    },
+    {
+      "id": "2814b3b4d6",
+      "title": "두산, 韓·中에 9700억원 규모 AI CCL 증설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62456",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "AI 데이터센터용 PCB 핵심소재 증설로 소부장 공급망과 관련 있으나 메모리 사업과 직접 연결 없음"
+    },
+    {
+      "id": "c7c9ffc9b8",
+      "title": "구광모 LG 회장 \"AI는 미래 경쟁력 핵심 축\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62433",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "medium",
+      "reason": "LG그룹 AI 투자 전략 발언으로 반도체 소재·기판 언급은 있으나 메모리 사업과는 거리가 있음"
+    },
+    {
+      "id": "d2c7227e8d",
+      "title": "쎄미하우, 소부장 으뜸기업 선정…글로벌 전력반도체 시장 공략 확대",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62431",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "전력반도체(MOSFET) 소부장 기업 선정 소식으로 메모리와 무관"
+    },
+    {
+      "id": "28fc7465f2",
+      "title": "천덕꾸러기 코스닥액티브ETF… 소부장 확대로 모처럼 기지개",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170497",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "ETF 투자 성과를 다루는 증시 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "769afc9800",
+      "title": "일반형 빠진 아이폰18…'메모리 쇼크' 속 프로부터 승부",
+      "url": "https://www.inews24.com/view/2007260",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "메모리 가격 급등이 스마트폰 제품 전략에 미친 영향을 다뤄 메모리 수요·가격 트렌드와 관련"
+    },
+    {
+      "id": "efd310eff0",
+      "title": "SK하이닉스, '연산하는 메모리'로 AI 병목 푼다…\"S램보다 용량 300배\"",
+      "url": "https://www.inews24.com/view/2007037",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 95,
+      "confidence": "high",
+      "reason": "SK하이닉스의 PIM 기술 관련 임원 발표를 직접 다룬 기사"
+    },
+    {
+      "id": "acac5635a2",
+      "title": "앤스로픽이 던진 'AI 브레이크'…삼성·SK HBM 수요 흔드나",
+      "url": "https://www.inews24.com/view/2006449",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "AI 감속론이 삼성·SK하이닉스 HBM 수요에 미칠 영향을 직접 분석"
+    },
+    {
+      "id": "202227b114",
+      "title": "삼성전자 \"zHBM으로 AI 응답속도 10배…가속기 위 메모리 쌓는다\"",
+      "url": "https://www.inews24.com/view/2006539",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 HBM 신기술(zHBM) 발표를 직접 다룸"
+    },
+    {
+      "id": "e0511d3204",
+      "title": "[AI 대전환 리딩 전략] 주성엔지니어링, ALG로 반도체 난제 극복",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673991",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "국내 장비사의 원자층박막성장(증착) 신기술로 반도체 공정 기술과 관련 있으나 메모리 적용 명시 없음"
+    },
+    {
+      "id": "2f9d83fb29",
+      "title": "[SK 인사 시그널]④최태원 'AI·반도체' 올인, 수펙스 C레벨 쇄신",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673988",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "SK그룹 경영진의 SK하이닉스 이동 등 지배구조 변화를 다뤄 사업 방향성과 관련되나 기술·실적 내용은 아님"
+    },
+    {
+      "id": "7615c554db",
+      "title": "[코스닥 루키즈 점검] 액스비스, 수주 쌓았지만…'가동률 회복' 관건",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673959",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "medium",
+      "reason": "이차전지용 레이저 장비 기업이 반도체·로봇 분야로 확장을 검토 중이나 현재 사업은 메모리와 무관"
+    },
+    {
+      "id": "10002ed20d",
+      "title": "[글로벌] 화웨이 AI칩, 없어서 못 판다?…100만개 연결해 엔비디아 추격",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155394",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "AI 반도체 생태계 경쟁 구도(엔비디아 vs 화웨이)로 HBM 고객사 수요와 간접 연관"
+    },
+    {
+      "id": "b02503a573",
+      "title": "DGIST 대학원생, 유럽 반도체학회 수상 쾌거",
+      "url": "https://www.hankyung.com/article/2026091721461",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "low",
+      "reason": "본문이 제공되지 않아 연구 주제가 메모리·공정기술과 관련 있는지 제목만으로는 판단하기 어려움"
+    },
+    {
+      "id": "4bb43263f1",
+      "title": "美 증시 혼조 마감…반도체 강세에 나스닥·S&P500 상승",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724936",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "반도체주 시황을 다룬 증시 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "b7eb07e946",
+      "title": "[서학개미 안테나] 금리 올린 Fed…빅테크 AI 투자, 멈출까 더 달릴까",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724881",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "medium",
+      "reason": "금리 인상이 빅테크 AI 투자에 미칠 영향을 다룬 거시경제 기사로 반도체는 간접 언급"
+    },
+    {
+      "id": "4dc2cbdcd7",
+      "title": "[EBN 오늘(18일) 이슈 종합] 李 대통령 \"대미투자 국익 우선…부동산 공급 늘릴 것\" 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724932",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "medium",
+      "reason": "정치·부동산 이슈 종합 기사로 반도체 생산시설 언급은 부수적"
+    },
+    {
+      "id": "1a4dfa6ead",
+      "title": "해성디에스, 1900억원 신규 설비 투자 및 6800평 부지 매입 추진",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724923",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "차세대 메모리 기판(패키지기판) 생산 확대 투자로 메모리 후공정 소부장과 관련"
+    },
+    {
+      "id": "21b4e618ab",
+      "title": "SK 부회장 3명, SK하이닉스로 전격 이동…배경은",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724907",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "SK그룹 경영진의 SK하이닉스 집중 배치와 HBM 주도권 강화 의도를 다룸"
+    },
+    {
+      "id": "45b0946a15",
+      "title": "외국인 돌아오자 코스피 6900선 바짝…기관도 1.5조 '폭풍매수'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724905",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "코스피 시황 기사로 삼성전자·SK하이닉스는 지수 상승 요인으로만 언급됨"
+    },
+    {
+      "id": "36b48e3a8a",
+      "title": "대만, TSMC 1.4나노 부지 '룽탄 단지' 확장 승인…2030년 착공 목표",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724883",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "경쟁사 TSMC의 첨단공정 파운드리 투자 확대로 파운드리 경쟁 동향에 해당, 메모리 사업과는 간접적"
+    },
+    {
+      "id": "7e24b5425c",
+      "title": "솔리다임, 美 동부에 낸드 생산거점 검토…SK하이닉스, 현지 투자 확대하나",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724886",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "SK하이닉스 계열사 솔리다임의 美 낸드 생산거점 검토를 직접 보도 (디일렉 c47b335990과 동일 사안)"
+    }
+  ]
+}
