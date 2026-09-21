@@ -1,0 +1,315 @@
+{
+  "date": "2026-09-21",
+  "articles": [
+    {
+      "id": "383d06672b",
+      "title": "[창간특집 인터뷰] 김성환 기후부 장관 “AI 시대, 전력수요 3배 가까이 늘 수도…'탈탄소 AI 강국' 만든다”",
+      "url": "https://www.etnews.com/20260915000078",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "AI 전력 정책 인터뷰, 메모리와 직접 연결 없음"
+    },
+    {
+      "id": "30c30692f0",
+      "title": "리스크 떠넘긴 美에 李 “수용 불가”…2000억불 대미 투자 합의 '급제동'",
+      "url": "https://www.etnews.com/20260920000086",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "대미 투자 협상 기사, 반도체는 통상 압박 항목으로만 언급"
+    },
+    {
+      "id": "0a082633b4",
+      "title": "온실가스 감축은 더딘데 AI 전력은 급증…석탄화력 '안보전원' 과제",
+      "url": "https://www.etnews.com/20260918000267",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "AI 전력·석탄발전 정책 이슈, 메모리와 무관"
+    },
+    {
+      "id": "c9e5530275",
+      "title": "\"BOE, 반도체 패키징 전략 분명...삼성·LGD 관심은 중간\"",
+      "url": "https://zdnet.co.kr/view/?no=20260921014801",
+      "source": "ZDNet Korea",
+      "category": "other",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "패널업체의 첨단 패키징 전략 분석, 패키징 동향이나 메모리 직접 연결은 약함"
+    },
+    {
+      "id": "25909bcd89",
+      "title": "온세미, 전력모듈 조립 공정 없앤다…웨이퍼에 칩 통째로 집적",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62534",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "웨이퍼 기반 전력모듈 패키징 기술, 후공정 관점 참고 가치"
+    },
+    {
+      "id": "3bc5e07d31",
+      "title": "알파칩스, '빛 반도체' 4종 내년 출하",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62519",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "광통신·광센서 IC, 메모리와 무관"
+    },
+    {
+      "id": "c47b335990",
+      "title": "SK하이닉스 손자회사 솔리다임, 美 낸드 공장 구축 검토",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62529",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 자회사 솔리다임의 미국 내 낸드 양산 라인 검토"
+    },
+    {
+      "id": "3e676078ce",
+      "title": "아이씨티케이, 지란지교시큐리티와 PQC 전환 사업 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62509",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "양자내성암호 보안 사업 협력, 무관"
+    },
+    {
+      "id": "3b34cb9208",
+      "title": "GDP냐 GDR이냐…램리서치-PSK 특허소송 다음달 선고",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62464",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "램리서치-PSK 식각장비 특허소송 선고 예정, 공정 장비 공급망 변수"
+    },
+    {
+      "id": "18546192cb",
+      "title": "램리서치-비씨엔씨, 디자인권 침해 범위 재산정…다음달 선고",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62446",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "램리서치-비씨엔씨 엣지링 디자인권 소송, 식각 소모품 공급망"
+    },
+    {
+      "id": "4844478e85",
+      "title": "픽셀플러스, 미국 팹리스와 AI 로봇 청소기 이미지센서 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62458",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "이미지센서 개발, 메모리와 무관"
+    },
+    {
+      "id": "c24476ef29",
+      "title": "래티스, 양자컴퓨터 해킹 막는 FPGA '마크-N2' 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62436",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "보안용 FPGA 출시, 메모리 연결 약함"
+    },
+    {
+      "id": "c11659500c",
+      "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62439",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "SK하이닉스 직접 언급, 협력사 상생 행사(사업·기술 영향은 제한적)"
+    },
+    {
+      "id": "2814b3b4d6",
+      "title": "두산, 韓·中에 9700억원 규모 AI CCL 증설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62456",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "AI 데이터센터용 CCL 증설, 소부장 공급망 간접 영향"
+    },
+    {
+      "id": "c7c9ffc9b8",
+      "title": "구광모 LG 회장 \"AI는 미래 경쟁력 핵심 축\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62433",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "LG 회장 AI 투자 주문, 반도체 소재·기판 언급은 부수적"
+    },
+    {
+      "id": "5c22576fca",
+      "title": "PC 넘어 AI 인프라로…그래픽카드 제조사들 AI 서버로 영토 확장 [GPU 시장 재편③]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170496",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "AI발 메모리 수급난 배경의 GPU 카드사 사업 확장, 간접 연관"
+    },
+    {
+      "id": "f6d648191f",
+      "title": "中 CXMT, 5세대 D램 양산 돌입… 삼전·닉스 추격",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170551",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "CXMT 5세대 D램 양산, 삼성·SK하이닉스 경쟁 구도 직접 영향"
+    },
+    {
+      "id": "f21281c1ef",
+      "title": "추석 앞둔 코스피 방향성 탐색… ‘고금리·미중 회담’ 변수 [주간증시전망]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170476",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "증시 주간 전망, 실질적 무관"
+    },
+    {
+      "id": "769afc9800",
+      "title": "일반형 빠진 아이폰18…&apos;메모리 쇼크&apos; 속 프로부터 승부",
+      "url": "https://www.inews24.com/view/2007260",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "메모리 쇼크가 아이폰18 라인업에 영향, 메모리 수요·가격 관련"
+    },
+    {
+      "id": "efd310eff0",
+      "title": "SK하이닉스, &apos;연산하는 메모리&apos;로 AI 병목 푼다…&quot;S램보다 용량 300배&quot;",
+      "url": "https://www.inews24.com/view/2007037",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "SK하이닉스 PIM 기술 전략 직접 소개"
+    },
+    {
+      "id": "e0511d3204",
+      "title": "[AI 대전환 리딩 전략] 주성엔지니어링, ALG로 반도체 난제 극복",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673991",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "주성엔지니어링 ALG 증착 기술, 공정 장비 관점 참고"
+    },
+    {
+      "id": "10002ed20d",
+      "title": "[글로벌] 화웨이 AI칩, 없어서 못 판다?…100만개 연결해 엔비디아 추격",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155394",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "화웨이 AI칩 생산 확대, AI 반도체 수요·HBM 연결 간접적"
+    },
+    {
+      "id": "b02503a573",
+      "title": "DGIST 대학원생, 유럽 반도체학회 수상 쾌거",
+      "url": "https://www.hankyung.com/article/2026091721461",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "대학원생 학회 수상, 무관"
+    },
+    {
+      "id": "0964fa0ebd",
+      "title": "[Tech & Now] 한미반도체, 故 김정기 작품 AI로 재해석…2040 비전 공개 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725016",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "한미반도체 홍보 영상, 사업 실질 내용 부족"
+    },
+    {
+      "id": "2d57131b19",
+      "title": "그로쓰리서치 \"반도체 빅2 쏠림 완화…저평가 중소형주 담을 때\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725011",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성전자·SK하이닉스 수급 쏠림 완화 증시 분석, 투자 관점 기사"
+    },
+    {
+      "id": "4fc4fe0057",
+      "title": "[Tech & Now] 리벨리온, SKT 주요 AI 서비스 4개에 NPU 확대 적용 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725008",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "국내 NPU 스타트업의 SKT 적용 확대, AI 반도체 생태계"
+    },
+    {
+      "id": "27b9322aa0",
+      "title": "한경협, 첨단전략산업 규제개선 과제 41건 건의…\"기업 투자 걸림돌 신속 해소해야\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725002",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "첨단산업 규제개선 건의, 반도체 포함 정책성 기사"
+    },
+    {
+      "id": "f2ac8ed69c",
+      "title": "칠천피 다시 시험대…반도체 훈풍 vs 美 금리 5%",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725000",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "증시 시황, 반도체 강세 언급 정도"
+    },
+    {
+      "id": "4cdcfbac70",
+      "title": "AI·ESS·주주환원에 베팅…새로 꼽힌 '단기 유망주 10선'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724995",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "단기 유망주 투자 기사, 반도체는 키워드로만 등장"
+    },
+    {
+      "id": "0dca529f32",
+      "title": "상반기 임금 3.1% 상승…인상분 3분의 1은 반도체 성과급 영향",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724983",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "low",
+      "reason": "반도체 성과급이 임금 상승에 기여, 업계 이슈이나 사업 연관성 판단 애매"
+    },
+    {
+      "id": "7e66e9075e",
+      "title": "10월 제조업 업황 기대감 확산…반도체·자동차 '청신호'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724978",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "제조업 업황 전망 중 반도체 청신호, 실질 내용 부족해 관련도 경계"
+    }
+  ]
+}
