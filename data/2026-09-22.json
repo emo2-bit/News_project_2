@@ -1,0 +1,335 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "id": "1bf5192605",
+      "title": "한미반도체, AI 반도체 2.5D 패키징 장비 'FC 본더 75' 첫 출하",
+      "url": "https://www.etnews.com/20260922000221",
+      "source": "전자신문",
+      "category": "announcements",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "HBM 후공정과 맞닿은 2.5D 패키징 장비 확대이나 SK하이닉스와 직접 연결은 아님"
+    },
+    {
+      "id": "40e0c94556",
+      "title": "아이폰 디스플레이에 COE·LTPO+ 도입 늦어진다",
+      "url": "https://www.etnews.com/20260922000179",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "메모리 가격 폭등이 배경으로만 언급될 뿐 본문은 디스플레이 기술 지연이 핵심"
+    },
+    {
+      "id": "d6108e5a9c",
+      "title": "\"대한민국엔 반도체 거점 기관 없다…국가R&D는 파편화\"",
+      "url": "https://zdnet.co.kr/view/?no=20260922112358",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "반도체 산업 전반의 R&D 정책 이슈로 메모리 사업과의 직접 연결은 없음"
+    },
+    {
+      "id": "70ed748afc",
+      "title": "글로벌테크놀로지, ADST와 마이크로 LED 양산 생태계 구축",
+      "url": "https://zdnet.co.kr/view/?no=20260922094535",
+      "source": "ZDNet Korea",
+      "category": "announcements",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "LED 구동칩 및 마이크로 LED 분야로 메모리·HBM과 무관"
+    },
+    {
+      "id": "acebeba5de",
+      "title": "한미글로벌, SK하이닉스 웨스트라피엣 공장 PM 맡았다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62629",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "SK하이닉스 미국 HBM 패키징 생산거점 건설 프로젝트를 직접 다룸"
+    },
+    {
+      "id": "ecde2c80be",
+      "title": "제이앤티씨, 김천에 3470억 투자…TGV 유리기판 공장 신설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62616",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "AI·HPC용 첨단 패키징 소재(유리기판) 공급망 확대이나 메모리 사업과 명시적 연결은 없음"
+    },
+    {
+      "id": "a07e0db339",
+      "title": "이에스티, 증권신고서 제출...\"유리기판·올레도스로 시장 확대\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62625",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "소부장 기업 IPO 공시로 기술·사업 내용보다 자본시장 절차가 핵심"
+    },
+    {
+      "id": "67f1240aff",
+      "title": "곽노정 \"메모리 없는 AI 산업 없다...용인·미국서 기술 우위\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62626",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 대표가 직접 AI 메모리 수요·생산거점 전략을 언급"
+    },
+    {
+      "id": "bc6e430b3b",
+      "title": "수퍼게이트, KAI와 국책으로 드론용 AI 칩 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62627",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "드론용 AI 반도체 개발로 파운드리는 삼성전자, 메모리와는 무관"
+    },
+    {
+      "id": "bb3f461756",
+      "title": "글로벌테크놀로지, 차량용 반도체로 외연 확장...전장사향 제품 양산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62562",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "차량용 조명 반도체 양산 소식으로 메모리·HBM과 무관"
+    },
+    {
+      "id": "5c3c56970b",
+      "title": "엠아이티, 코스닥 상장예비심사 청구...기술특례상장 추진",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62581",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "반도체 검사장비 기업의 IPO 절차 소식으로 메모리 공정과는 간접적 관련"
+    },
+    {
+      "id": "9001e49762",
+      "title": "삼성SDI, 반도체용 '고방열 EMC'로 장영실상 수상",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62558",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "반도체 패키징 소재 기술상이나 삼성SDI 소재사업으로 메모리 공정과 직접 연결은 약함"
+    },
+    {
+      "id": "922e5db5a9",
+      "title": "[알림] '휴머노이드를 움직이는 반도체' 테크 콘퍼런스",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62561",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "행사 안내성 기사로 실질적 기술·사업 판단 대상이 아님"
+    },
+    {
+      "id": "25909bcd89",
+      "title": "온세미, 전력모듈 조립 공정 없앤다…웨이퍼에 칩 통째로 집적",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62534",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "전력반도체 패키징 기술로 메모리·HBM 공정과는 무관"
+    },
+    {
+      "id": "3bc5e07d31",
+      "title": "알파칩스, '빛 반도체' 4종 내년 출하",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62519",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "광통신·광센서 IC 사업으로 메모리 사업과 무관"
+    },
+    {
+      "id": "c47b335990",
+      "title": "SK하이닉스 손자회사 솔리다임, 美 낸드 공장 구축 검토",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62529",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "SK하이닉스 계열사의 낸드 생산거점 신설 검토를 직접 다룸"
+    },
+    {
+      "id": "059ab986da",
+      "title": "AMD 시총 1조달러 돌파… 美기술주 나란히 급등",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170652",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "경쟁 반도체기업 주가 소식이나 메모리 사업과 직접 연결은 없는 증시 기사"
+    },
+    {
+      "id": "eebd168454",
+      "title": "[개장] 코스피, 美 훈풍에 7100선… 삼전·닉스 3% 올라",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170650",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "단순 증시 시황 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "4b964e34d3",
+      "title": "반도체 수출 역대 최대에… 삼전닉스 주가도 '껑충'",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170618",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "메모리 업황 개선 기대를 언급하나 핵심은 수출 실적·주가 시황"
+    },
+    {
+      "id": "6b483fd50a",
+      "title": "[마감] 코스피, 8일 만에 7천선 탈환… 반도체 지수 견인",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170616",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "단순 증시 마감 시황 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "e8f7d5b2bd",
+      "title": "에이직랜드, TSMC 북미 포럼서 AI ASIC 역량 공개…파두 칩도 전시",
+      "url": "https://www.inews24.com/view/2008019",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "TSMC 생태계 행사에서의 AI ASIC 역량 소개인데 본문이 짧게 끊겨 파운드리 경쟁 구도에 대한 실질적 시사점 판단이 어려움"
+    },
+    {
+      "id": "b8c88d4cb3",
+      "title": "AI가 바꾼 공식…\"메모리 공급난, 몇 분기로 안 끝난다\"",
+      "url": "https://www.inews24.com/view/2007933",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "AI發 메모리 반도체 공급부족 장기화 전망을 정면으로 다룸"
+    },
+    {
+      "id": "7a1ae0187b",
+      "title": "리벨리온 AI칩, SKT 서비스 4곳에 확대…하루 1400만건 처리",
+      "url": "https://www.inews24.com/view/2007682",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "국산 AI 반도체(NPU) 생태계 확대 소식이나 메모리 사업과는 간접적"
+    },
+    {
+      "id": "2a81fd454e",
+      "title": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\"",
+      "url": "https://www.inews24.com/view/2007660",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 대표의 HBM·차세대 메모리 전략 발언을 직접 다룸(디일렉 67f1240aff와 동일 이벤트)"
+    },
+    {
+      "id": "7c9097d626",
+      "title": "한미반도체, 故 김정기 작품 AI 영상으로 재탄생…2040년 미래 담아",
+      "url": "https://www.inews24.com/view/2007644",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "예술 콘텐츠 홍보성 기사로 기술·사업 내용과 무관"
+    },
+    {
+      "id": "02406c0c0b",
+      "title": "[코스닥 루키즈 점검] 져스텍, 반도체 중심 체질 전환…모션사업 확장",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674177",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "HBM 수주 확대를 언급하는 반도체 장비용 모션시스템 공급사 동향"
+    },
+    {
+      "id": "894e8a9e5f",
+      "title": "[AI 대전환 리딩 전략] 한미반도체, HBM·2.5D 패키징 승부수",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674181",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "HBM·2.5D 패키징 장비 경쟁력을 다룬 분석 기사(같은 날 전자신문 1bf5192605와 같은 회사 관련 소식)"
+    },
+    {
+      "id": "cf2053f256",
+      "title": "엠아이티, 코스닥 예심 청구...삼성증권과 IPO 본격화",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674162",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "반도체 검사장비 기업 IPO 소식(디일렉 5c3c56970b와 동일 이벤트)"
+    },
+    {
+      "id": "b1dd449d8a",
+      "title": "드림텍, 인도법인에 351억 채무보증…'생산설비 증설' 목적",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674132",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "low",
+      "reason": "메모리 모듈 라인 증설이 배경으로 언급되나 기사 핵심은 재무적 채무보증이라 사업적 의미의 비중을 판단하기 어려움"
+    },
+    {
+      "id": "ac2d8388da",
+      "title": "\"반도체·배터리가 곁가지?\"…거래소, 韓 주도주 중심 산업분류 대수술",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725303",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "증권시장 산업분류체계 개편 소식으로 기술·사업 내용과 무관"
+    },
+    {
+      "id": "a1bcbadd04",
+      "title": "재계 총수, 나흘 추석에도 '경영 시계'…AI·美투자 해법 찾는다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725276",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "삼성·SK의 AI 반도체·데이터센터 투자를 언급하나 그룹 전반의 경영 구상을 다루는 포괄 기사"
+    },
+    {
+      "id": "41b79a8786",
+      "title": "[EBN 데이터센터] 삼성전자·전선주·PCB 강세...코스피 거래대금 상위 종목에 매수세 집중",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725272",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "단순 증시 거래대금 시황 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "b7170a53f8",
+      "title": "[EBN 데이터센터] 반도체가 끌고 금융은 쉬고...코스피 대형주 강세, 코스닥은 반도체 장비주 부각",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725269",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "단순 증시 시황 기사로 기술·사업 내용 없음"
+    }
+  ]
+}
