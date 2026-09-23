@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "id": "fafbbaefb5",
+      "title": "9월 소비심리 한 달 만에 반등…소득 기대↑·금리 전망 3년來 최고",
+      "url": "https://www.etnews.com/20260923000012",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "소비자심리지수/금리 전망이 본론이며 반도체 수출은 배경 언급 수준"
+    },
+    {
+      "id": "20b3c4b4b2",
+      "title": "PCB 회로, 이제 '3D 프린팅'으로…티엘비 선폭 60㎛급 양산 기술 확보",
+      "url": "https://www.etnews.com/20260922000293",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "반도체용 PCB 공정 신기술이나 메모리 사업과의 연결은 명시적이지 않음"
+    },
+    {
+      "id": "20420935bd",
+      "title": "AI도 사람처럼 '경험치' 쌓아 연산 줄일 수 있을까",
+      "url": "https://zdnet.co.kr/view/?no=20260923103051",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "low",
+      "reason": "AI 반도체/데이터센터 전력 문제를 배경으로 깔지만 본문이 잘려 실제로 AI 알고리즘 연구 중심 기사인지 반도체 업계 기사인지 판단 근거 부족"
+    },
+    {
+      "id": "146b9fcc9a",
+      "title": "삼성전자, 최신 퀄컴칩서 차세대 'LPDDR6' 업계 최초 검증 완료",
+      "url": "https://zdnet.co.kr/view/?no=20260923093534",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자의 차세대 D램(LPDDR6) 기술 검증 소식으로 메모리 경쟁 동향 직결"
+    },
+    {
+      "id": "d51c782070",
+      "title": "[스냅드래곤 서밋] 퀄컴, 스마트폰 칩에 데이터센터용 HBC 심었다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62685",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "LPDDR 기반 메모리·AI 연산 결합 기술이나 고객사 칩 설계 관점이라 메모리 사업 영향은 간접적"
+    },
+    {
+      "id": "051b4e5b48",
+      "title": "SKC, 앱솔릭스 지분 82%로 확대…어플라이드머티어리얼즈 실권주 추가 인수",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62680",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "반도체 유리기판 소부장 개별 투자 소식으로 패키징 공급망과 관련 있으나 메모리 사업 연결은 간접적"
+    },
+    {
+      "id": "67b2e5cc59",
+      "title": "수출입은행, AI 반도체 기업 '딥엑스' 직접투자 검토",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62653",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "엣지 AI NPU 스타트업 투자 소식으로 메모리·HBM 사업과의 연결이 없음"
+    },
+    {
+      "id": "45921d4e8a",
+      "title": "리베스트·강원대, 차세대 배터리 소재·공정 기술 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62668",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 4,
+      "confidence": "high",
+      "reason": "배터리 소재 협력으로 반도체와 무관"
+    },
+    {
+      "id": "59c71730f2",
+      "title": "[알림] 선단공정과 패키징을 넘다…반도체 '검사·계측' 미래를 엿보다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62663",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "반도체 공정 트렌드를 다루지만 행사 안내성 [알림] 기사라 뉴스성 판단(관련도 40 경계)이 애매함"
+    },
+    {
+      "id": "cc1bf18dfd",
+      "title": "메타 '뮤즈', 챗GPT보다 빠른 성장세…에이전틱 AI 비서 주효",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62657",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "medium",
+      "reason": "AI 서비스·주가 얘기가 본론이며 반도체 언급은 부수적"
+    },
+    {
+      "id": "f5da2d1a76",
+      "title": "글로벌테크놀로지, 성호전자 자회사 ADST와 마이크로 LED 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62655",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "medium",
+      "reason": "마이크로LED·디스플레이 후공정 협력으로 메모리 사업과 무관"
+    },
+    {
+      "id": "acebeba5de",
+      "title": "한미글로벌, SK하이닉스 웨스트라피엣 공장 PM 맡았다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62629",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 76,
+      "confidence": "high",
+      "reason": "SK하이닉스 HBM 패키징 미국 공장 건설 소식으로 직접 관련"
+    },
+    {
+      "id": "ecde2c80be",
+      "title": "제이앤티씨, 김천에 3470억 투자…TGV 유리기판 공장 신설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62616",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 46,
+      "confidence": "medium",
+      "reason": "AI·HPC 반도체용 유리기판 소부장 투자로 패키징 공급망과 관련하나 메모리 사업 직접 연결은 아님"
+    },
+    {
+      "id": "23772d1ba8",
+      "title": "[개장] 美 반도체 강세에 코스피 1% 상승… 7100선 재탈환",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170762",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "증시 시황 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "db6a46dd66",
+      "title": "中 알리바바, 성능 3배 높인 AI 칩 공개",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170720",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "AI 칩 GPU 메모리 대역폭 확대를 언급하나 메모리 반도체 자체보다 알리바바 AI칩 성능이 중심"
+    },
+    {
+      "id": "642926cd70",
+      "title": "딥엑스 김녹원 대표, 美서 \"CES 2027, 피지컬 AI 중심 무대 될 것\"",
+      "url": "https://www.inews24.com/view/2008678",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 18,
+      "confidence": "medium",
+      "reason": "AI반도체 기업 대표의 전망 발언으로 메모리 사업과의 연결이 약함"
+    },
+    {
+      "id": "8dcce86a7a",
+      "title": "D램·AI칩 동시에 치고 올라오는 中…삼성·SK 추격 가속",
+      "url": "https://www.inews24.com/view/2008428",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "중국 CXMT D램 추격과 삼성·SK하이닉스 대응을 다뤄 경쟁사 동향과 직결"
+    },
+    {
+      "id": "ffb79445ce",
+      "title": "'반도체 강국' 한국, 연구용 300㎜ 팹은 부족…\"국가 반도체 연구소 필요\"",
+      "url": "https://www.inews24.com/view/2008345",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "반도체 연구 인프라 정책 이슈로 업계 전반에 영향은 있으나 메모리 사업과 명시적 연결은 없음"
+    },
+    {
+      "id": "e22a1e022a",
+      "title": "산업부, 日 홋카이도와 반도체 협력 교류회…11월 삿포로 포럼",
+      "url": "https://www.inews24.com/view/2008281",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "medium",
+      "reason": "정부간 반도체 협력 교류회로 메모리 사업과의 관련성이 낮음"
+    },
+    {
+      "id": "42c4ce0503",
+      "title": "한미반도체, AI 반도체용 2.5D 패키징 'FC 본더 75' 첫 출하",
+      "url": "https://www.inews24.com/view/2008160",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 64,
+      "confidence": "high",
+      "reason": "HBM 중심 패키징 장비사가 AI 반도체용 2.5D 장비를 출하한 소식으로 후공정 공급망과 관련"
+    },
+    {
+      "id": "e8f7d5b2bd",
+      "title": "에이직랜드, TSMC 북미 포럼서 AI ASIC 역량 공개…파두 칩도 전시",
+      "url": "https://www.inews24.com/view/2008019",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "파운드리 경쟁사 TSMC 생태계 행사 소식으로 메모리 사업과의 연결은 간접적"
+    },
+    {
+      "id": "b8c88d4cb3",
+      "title": "AI가 바꾼 공식…\"메모리 공급난, 몇 분기로 안 끝난다\"",
+      "url": "https://www.inews24.com/view/2007933",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "AI發 메모리 반도체 공급 부족 장기화 전망을 직접 다룸"
+    },
+    {
+      "id": "49695f3c8e",
+      "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674327",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "SK하이닉스가 언급되나 인사제도 변화로 메모리 기술·사업과 무관"
+    },
+    {
+      "id": "565d81c2d8",
+      "title": "삼성 LPDDR6, 퀄컴 차세대 스냅드래곤서 업계 첫 검증",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674325",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자 LPDDR6 검증 소식 (ZDNet Korea 146b9fcc9a와 동일 이벤트)"
+    },
+    {
+      "id": "1b9ddbb40f",
+      "title": "LG에너지솔루션, 자원 선순환 체계 강화…재활용·재사용 확대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674295",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "배터리 리사이클 소식으로 반도체와 무관"
+    },
+    {
+      "id": "8c8b931fe1",
+      "title": "[메자닌 투자파일] 파인디앤씨, OLED 식각 신사업에 130억 베팅",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674262",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "medium",
+      "reason": "OLED 글라스 식각 사업으로 반도체 공정(식각) 키워드는 걸리나 디스플레이용이며 본문은 CB 발행 등 재무 이슈 중심"
+    },
+    {
+      "id": "82501edb3c",
+      "title": "'공정의 빈틈' 메우는 멜콘, 코스닥 발판으로 EUV 정조준 [현장+]",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674247",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 44,
+      "confidence": "medium",
+      "reason": "반도체 포토공정(EUV) 환경제어 장비업체 IPO 소식으로 공정 소부장과 관련하나 메모리 사업 직접 연결은 없음"
+    },
+    {
+      "id": "f2fb18da2e",
+      "title": "[AI 대전환 리딩 전략]삼성D, 고성능·초저전력 OLED 초격차 선도",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674203",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 14,
+      "confidence": "high",
+      "reason": "삼성디스플레이 OLED 기술 기사로 반도체(메모리)와 무관"
+    },
+    {
+      "id": "3ea9b44f34",
+      "title": "[카드뉴스] 프린터 기술이 AI·로봇으로...엡손의 정밀기술이 향하는 '다음 10년'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155502",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "엡손 프린터·로보틱스 사업 전략으로 반도체와 무관"
+    },
+    {
+      "id": "3e1d901ada",
+      "title": "[글로벌] AMD도 '1조달러 클럽'…엔비디아 독주하던 AI칩 시장 달라진다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155499",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "주요 고객사군인 AI 반도체 생태계(AMD·엔비디아) 시장 판도 변화로 메모리 수요와 간접 연결"
+    },
+    {
+      "id": "e0c6f3d53b",
+      "title": "연휴 앞두고도 외국인은 샀다…다시 불붙은 '삼전닉스'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725549",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "수급 동향 중심의 증시 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "59e3ff25ef",
+      "title": "같은 삼성전자 맞나…\"35만원\" vs \"63만원\" 증권가 극과 극",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725546",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 34,
+      "confidence": "medium",
+      "reason": "목표주가 논쟁이 본론이나 메모리 업황 장기화 여부가 근거로 제시됨"
+    },
+    {
+      "id": "94fc27daa9",
+      "title": "[EBN 데이터센터] 반도체 대표주(생산) 혼조...삼성전자 강세, SK하이닉스 숨 고르기",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725547",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "주가 시황 요약으로 기술·사업 내용 없음"
+    },
+    {
+      "id": "a7f785a959",
+      "title": "삼성전자, 퀄컴 스냅드래곤 8 플랫폼서 'LPDDR6' 검증 성공",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725521",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자 LPDDR6 검증 소식 (ZDNet Korea/블로터와 동일 이벤트)"
+    },
+    {
+      "id": "ec6d5405b8",
+      "title": "[EBN 데이터센터] 코스피 대형주 혼조...코스닥은 장비·이차전지 중심 상승",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725513",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "증시 시황 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "d6e002fc4e",
+      "title": "[EBN 데이터센터] 코스피, 반도체 대형주 강세 힘입어 7100대 출발",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725491",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "증시 시황 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "129c506fa1",
+      "title": "[EBN 데이터센터] 코스피, 장 초반 7116.62 상승 출발...외국인·기관 동반 순매수",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725489",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "증시 시황 기사로 기술·사업 내용 없음"
+    }
+  ]
+}
