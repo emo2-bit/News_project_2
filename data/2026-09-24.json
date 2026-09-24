@@ -1,0 +1,365 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "id": "aefa017672",
+      "title": "李대통령, 美 월가 큰손에 '韓 투자' 세일즈…“자본·외환시장 지속 개혁”",
+      "url": "https://www.etnews.com/20260924000008",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "대통령 투자 서밋 기사로 반도체는 투자 분야 나열 중 하나일 뿐"
+    },
+    {
+      "id": "69918d21cf",
+      "title": "943만원? 반도체 호황에 월급 초격차…“직장인 97.5%는 419만원도 안돼”",
+      "url": "https://www.etnews.com/20260923000153",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "반도체 성과급이 임금 통계를 끌어올렸다는 노동·임금 기사로 기술·사업 내용 없음"
+    },
+    {
+      "id": "4c0c754a0b",
+      "title": "AI發 메모리 호황에 D램 가치, TSMC 첨단 공정 추월",
+      "url": "https://zdnet.co.kr/view/?no=20260924090839",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "AI발 D램 가격 급등으로 단위면적당 D램 가치가 TSMC N2/N3 웨이퍼를 추월했다는 메모리 업황 분석"
+    },
+    {
+      "id": "e1317c04aa",
+      "title": "\"1GB 모델을 125MB로\"…퀄컴, '1비트 AI'로 웨어러블 메모리 장벽 깬다",
+      "url": "https://zdnet.co.kr/view/?no=20260924110259",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "퀄컴 1비트 양자화로 웨어러블 메모리 사용량 1/8 축소 — 메모리 수요 측 영향인지 단순 SW 최적화인지 판단 애매"
+    },
+    {
+      "id": "a5a4a05b60",
+      "title": "디지타임스 \"TSMC, 내년 웨이퍼 가격 3~6% 인상\"",
+      "url": "https://zdnet.co.kr/view/?no=20260924070304",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "TSMC 내년 웨이퍼 가격 3~6% 인상 전망 — 파운드리 업황으로 메모리와는 간접 연결"
+    },
+    {
+      "id": "abffc192af",
+      "title": "마이크로소프트, 서피스 랩톱 13형·프로 12형 2세대 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260924075558",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "서피스 신제품 공개로 메모리는 사양 언급 수준"
+    },
+    {
+      "id": "37ccabdf17",
+      "title": "메모리값 고공행진에 유럽 PC 시장도 '위축'",
+      "url": "https://zdnet.co.kr/view/?no=20260924085155",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "메모리 가격 상승이 유럽 PC 수요를 위축시킨다는 메모리 가격·수요 영향 분석"
+    },
+    {
+      "id": "f5301b89cc",
+      "title": "모빌린트, 2세대 칩 양산 6개월 밀렸다...매출 전망도 '반토막'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62731",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "국내 NPU 팹리스 양산 지연 기사로 메모리·공정과 무관"
+    },
+    {
+      "id": "7940583169",
+      "title": "[스냅드래곤 서밋] 퀄컴 스냅드래곤 전량 TSMC 생산…삼성 파운드리 여지 남겨",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62754",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "퀄컴 2나노 AP 전량 TSMC 생산, 삼성 파운드리 여지 — 파운드리 경쟁 동향"
+    },
+    {
+      "id": "229b20d209",
+      "title": "심텍, BT 레진 기판으로 FC-BGA 시장 진입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62673",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "심텍 BT 레진 슬림 FC-BGA로 패키지기판 시장 진입 — 패키징 소부장이나 메모리 연결은 SSD 컨트롤러 수준"
+    },
+    {
+      "id": "d51c782070",
+      "title": "[스냅드래곤 서밋] 퀄컴, 스마트폰 칩에 데이터센터용 HBC 심었다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62685",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "퀄컴 HBC가 여러 장의 LPDDR을 묶어 메모리·AI 연산을 밀착 — 모바일 D램 수요와 연결되나 간접적"
+    },
+    {
+      "id": "051b4e5b48",
+      "title": "SKC, 앱솔릭스 지분 82%로 확대…어플라이드머티어리얼즈 실권주 추가 인수",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62680",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "high",
+      "reason": "SKC 유리기판 자회사 앱솔릭스 지분 확대 — 차세대 패키징 기판 공급망 (전일 보도 재수집)"
+    },
+    {
+      "id": "28aa80ecf9",
+      "title": "과거 추석 후 첫날 거래대금 17% 증가… 미중 회담·유가 변수",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170748",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "추석 연휴 후 증시 전망 시황 기사"
+    },
+    {
+      "id": "e51471f576",
+      "title": "스냅드래곤 8 엘리트 6세대 출격… “AI 성능 강화·듀얼 플래그십 전략” [스냅드래곤 서밋 2026]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170838",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "스냅드래곤 8 엘리트 6세대 AP 소개 — 메모리 효율 NPU 언급은 있으나 고객사 제품 소개 중심"
+    },
+    {
+      "id": "53c9e37226",
+      "title": "[마감] 코스피, 추석 연휴 앞두고 관망… 7100선 내줘",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170806",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 마감 시황, 반도체주는 등락 언급뿐"
+    },
+    {
+      "id": "87bfc716f7",
+      "title": "추석에도 24시간 풀가동…삼성·SK·LG 공장 못 쉬는 이유",
+      "url": "https://www.inews24.com/view/2008069",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "SK하이닉스·삼성 반도체 라인 추석 24시간 가동 — 직접 언급되나 기술·사업 실질 내용은 가동 현황 수준"
+    },
+    {
+      "id": "88758edbf4",
+      "title": "[스냅드래곤 서밋 2026] 퀄컴 &quot;삼성·TSMC 모두 중요한 파트너…2나노 신제품은 TSMC&quot; [Q&amp;A]",
+      "url": "https://www.inews24.com/view/2008915",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "퀄컴 Q&A: 삼성·TSMC 모두 파트너, 2나노 신제품은 TSMC — 파운드리 경쟁 동향"
+    },
+    {
+      "id": "83ccbf5518",
+      "title": "[사이드B] 선풍기 칩부터 직접 만든다는 인도…한국 반도체가 10년 전 中 떠올린 이유",
+      "url": "https://www.inews24.com/view/2008617",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "인도 범용 반도체 팹리스 부상 — 국내 팹리스 관점 기사로 메모리와 무관"
+    },
+    {
+      "id": "642926cd70",
+      "title": "딥엑스 김녹원 대표, 美서 &quot;CES 2027, 피지컬 AI 중심 무대 될 것&quot;",
+      "url": "https://www.inews24.com/view/2008678",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "딥엑스 대표의 CES 2027 전망 발언, 인물 동정 성격"
+    },
+    {
+      "id": "2520dd9b7b",
+      "title": "삼성전자 메모리 LPDDR6, 퀄컴 차세대 AP서 세계 최초 검증",
+      "url": "https://www.inews24.com/view/2008730",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자 LPDDR6가 퀄컴 차세대 AP에서 업계 최초 검증 — 모바일 D램 경쟁 동향"
+    },
+    {
+      "id": "8dcce86a7a",
+      "title": "D램·AI칩 동시에 치고 올라오는 中…삼성·SK 추격 가속",
+      "url": "https://www.inews24.com/view/2008428",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "CXMT 5세대 D램 등 중국 메모리 업체의 삼성·SK하이닉스 추격 동향 (전일 보도 재수집)"
+    },
+    {
+      "id": "ffb79445ce",
+      "title": "&apos;반도체 강국&apos; 한국, 연구용 300㎜ 팹은 부족…&quot;국가 반도체 연구소 필요&quot;",
+      "url": "https://www.inews24.com/view/2008345",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "국내 연구용 300mm 팹 부족·국가 반도체 연구소 필요 — 공정 연구 인프라 정책 이슈"
+    },
+    {
+      "id": "e22a1e022a",
+      "title": "산업부, 日 홋카이도와 반도체 협력 교류회…11월 삿포로 포럼",
+      "url": "https://www.inews24.com/view/2008281",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "산업부 한·일 홋카이도 반도체 협력 교류회 — 행사성 정책 기사"
+    },
+    {
+      "id": "42c4ce0503",
+      "title": "한미반도체, AI 반도체용 2.5D 패키징 &apos;FC 본더 75&apos; 첫 출하",
+      "url": "https://www.inews24.com/view/2008160",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "한미반도체 2.5D 패키징용 FC 본더 첫 출하 — HBM 장비사의 시스템반도체 확장 (전일 보도 재수집)"
+    },
+    {
+      "id": "49695f3c8e",
+      "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674327",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "low",
+      "reason": "삼성·SK하이닉스 인사 체계 전환(AI·HBM 인재 평가) — 직접 언급되나 기술·사업이 아닌 인사 제도라 관련도 판단 애매"
+    },
+    {
+      "id": "565d81c2d8",
+      "title": "삼성 LPDDR6, 퀄컴 차세대 스냅드래곤서 업계 첫 검증",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674325",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "경쟁사 삼성 16GB LPDDR6, 퀄컴 스냅드래곤서 10.7Gbps 업계 첫 검증 (전일 보도 재수집)"
+    },
+    {
+      "id": "1b9ddbb40f",
+      "title": "LG에너지솔루션, 자원 선순환 체계 강화…재활용·재사용 확대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674295",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "배터리 재활용 기사로 반도체와 무관"
+    },
+    {
+      "id": "bda17d8825",
+      "title": "로봇 AI 추론 7배 빨라졌다...택배 물류센터선 RFM 실증 시작",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155544",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "로봇 AI 모델 최적화·물류 실증 기사로 메모리와 무관"
+    },
+    {
+      "id": "eecfa56894",
+      "title": "[스냅드래곤서밋] 퀄컴 \"2나노 스냅드래곤8, TSMC 제조\"...삼성전자는?",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155532",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "퀄컴 2나노 AP 전량 TSMC, 삼성은 파운드리 진입 실패했으나 LPDDR6 인증은 최초 통과"
+    },
+    {
+      "id": "3ea9b44f34",
+      "title": "[카드뉴스] 프린터 기술이 AI·로봇으로...엡손의 정밀기술이 향하는 '다음 10년'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155502",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "엡손 성장 전략 카드뉴스로 반도체는 타깃 시장 나열 수준"
+    },
+    {
+      "id": "3e1d901ada",
+      "title": "[글로벌] AMD도 '1조달러 클럽'…엔비디아 독주하던 AI칩 시장 달라진다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155499",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "AMD 시총 1조달러 돌파 — AI 가속기 생태계 다변화는 HBM 고객 저변과 간접 연결"
+    },
+    {
+      "id": "298f19594b",
+      "title": "[EBN 데이터센터] 뉴욕증시, 기술주 중심 매물에 일제히 하락...나스닥 1.13%↓",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725592",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "뉴욕증시 시황"
+    },
+    {
+      "id": "2519a75dd1",
+      "title": "中 D램 공세 거세진다…범용은 추격, HBM은 삼성·SK 우위",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725438",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "CXMT 5세대 D램 양산으로 범용 D램 추격, HBM은 삼성·SK하이닉스 우위 유지 분석"
+    },
+    {
+      "id": "2d2e92c8e7",
+      "title": "[EBN 오늘(23일) 이슈 종합] 연휴 앞두고도 다시 불붙은 '삼전닉스' 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725591",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "'삼전닉스' 주가 강세 등 일일 이슈 종합 — 증시 시황"
+    },
+    {
+      "id": "3e7f5c59d4",
+      "title": "[EBN 데이터센터] 코스피, '기관' 사자에 0.9% 상승…반도체 대형주 강세",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725581",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 시황"
+    },
+    {
+      "id": "21f3f4d5a8",
+      "title": "반도체 잘되니 은행주까지 뛴다…외국계가 콕 집은 '이 종목'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725551",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "반도체 호황 온기로 은행주 상승 — 금융 종목 기사"
+    }
+  ]
+}
