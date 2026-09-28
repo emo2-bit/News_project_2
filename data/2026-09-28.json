@@ -1,0 +1,335 @@
+{
+  "date": "2026-09-28",
+  "articles": [
+    {
+      "id": "0aeb86437c",
+      "title": "SK하이닉스, TSMC 행사서 차세대 AI 메모리 총출동",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725866",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 95,
+      "confidence": "high",
+      "reason": "SK하이닉스, TSMC OIP에서 HBM·서버 D램·SOCAMM2·eSSD 공개 — 자사 직접"
+    },
+    {
+      "id": "f39fcd5dea",
+      "title": "삼성·SK하이닉스, 3분기 190조 육박...또 사상 최대",
+      "url": "https://www.inews24.com/view/2009539",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성·SK하이닉스 3분기 사상 최대 실적 전망 — HBM·서버 D램 수요 직접"
+    },
+    {
+      "id": "cb7ffd59da",
+      "title": "'분기 영업익 100조' 시대 연다…삼성전자, HBM4 타고 사상 최대 실적 눈앞",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155591",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성전자 분기 영업익 100조 전망, HBM4로 추격 — 경쟁사 메모리 실적·HBM 동향 직접"
+    },
+    {
+      "id": "20ceb60463",
+      "title": "퀄컴과 길어진 협상…HBM4가 바꾼 삼성전자 파운드리 셈법",
+      "url": "https://www.inews24.com/view/2009542",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "삼성-퀄컴 2나노 협상 장기화, HBM4 호조가 파운드리 협상 셈법에 영향 — 경쟁사 사업 전략"
+    },
+    {
+      "id": "857fe683af",
+      "title": "ASML, 상반기 유럽 매출 비중 0%, 한국이 43%로 1위",
+      "url": "https://zdnet.co.kr/view/?no=20260928143952",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "ASML 매출 중 한국 비중 43% 1위 — 국내 메모리 업체의 노광장비 투자 확대를 간접 반영"
+    },
+    {
+      "id": "716bda644e",
+      "title": "[스냅드래곤서밋] 니틴 쿠마르 퀄컴 부사장 \"메모리 급등, AI PC 대중화 변수...멀티 OS로 대응\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155584",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "퀄컴 \"메모리 가격 급등이 AI PC 대중화 변수\" — 메모리 가격의 수요 측 영향"
+    },
+    {
+      "id": "389e66fcf2",
+      "title": "[스냅드래곤 서밋] 퀄컴, 삼성 2나노 공정 사전 평가…파운드리 협력 '솔솔'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62790",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "퀄컴, 삼성 파운드리 2나노 사전 평가 — 경쟁사 파운드리 동향, 메모리와 간접적"
+    },
+    {
+      "id": "7940583169",
+      "title": "[스냅드래곤 서밋] 퀄컴 스냅드래곤 전량 TSMC 생산…삼성 파운드리 여지 남겨",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62754",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "퀄컴 2나노 스냅드래곤 전량 TSMC 생산 — 파운드리 경쟁 동향"
+    },
+    {
+      "id": "55edcb7710",
+      "title": "1500원대→1370원…삼성·SK 실적에 &apos;환율 역풍&apos;",
+      "url": "https://www.inews24.com/view/2008989",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "환율 하락이 삼성·SK하이닉스 원화 실적에 부담 — 실적 변수이나 기술·사업과는 간접적"
+    },
+    {
+      "id": "be052ad7b3",
+      "title": "수출 절반이 반도체인데, 그 절반은 중국행…커지는 &apos;쏠림 리스크&apos;",
+      "url": "https://www.inews24.com/view/2008942",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "반도체 수출의 절반이 중국행 쏠림 리스크 — 메모리 가격 상승 배경의 수출 구조"
+    },
+    {
+      "id": "1bcfea3058",
+      "title": "AI 훈풍 올라탄 삼에스코리아…FOSB 생산능력 2배↑",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61762",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "웨이퍼 운송용 FOSB 생산능력 2배 — 소재·부품 공급망, 고객사 수요 증가 반영"
+    },
+    {
+      "id": "0b0a4db1f4",
+      "title": "주주환원·중복상장 불만에… SK하이닉스에 등 돌린 개미들",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170933",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "low",
+      "reason": "SK하이닉스 개인 순매도 — 증시 기사지만 솔리다임 상장·주주환원 등 사업 이슈가 섞여 있어 경계 사례"
+    },
+    {
+      "id": "036868646b",
+      "title": "中 정부, 알리바바·바이트댄스에 엔비디아 GPU 구매 허용 가닥",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170914",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "중국, 엔비디아 RTX 프로 5500 구매 허용 가닥 — 고객사 AI 반도체 수출 규제 동향"
+    },
+    {
+      "id": "a8ac069fbf",
+      "title": "[스냅드래곤 서밋 2026] 퀄컴 &quot;삼성은 최강 파트너&quot;…삼성 파운드리 2나노 도입 검토 [인터뷰]",
+      "url": "https://www.inews24.com/view/2009066",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "퀄컴 인터뷰, 삼성 파운드리 2나노 도입 검토 — 파운드리 경쟁"
+    },
+    {
+      "id": "88758edbf4",
+      "title": "[스냅드래곤 서밋 2026] 퀄컴 &quot;삼성·TSMC 모두 중요한 파트너…2나노 신제품은 TSMC&quot; [Q&amp;A]",
+      "url": "https://www.inews24.com/view/2008915",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "퀄컴, 삼성·TSMC 모두 파트너 언급 — 파운드리 경쟁"
+    },
+    {
+      "id": "1f21d2f7d5",
+      "title": "[스냅드래곤 서밋] 퀄컴 \"1비트 AI 모델, 용량·원가 줄이고 정확도는 유지\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62773",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "퀄컴 1비트 AI 모델로 메모리 용량 1/8 — 온디바이스 메모리 수요 감소 요인인지 웨어러블 한정 기술인지 판단 애매"
+    },
+    {
+      "id": "b80939d947",
+      "title": "6mm 칩 하나로 120A…인피니언, AI 가속기 전원칩 샘플 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62856",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 가속기용 전원칩 신제품 — AI 반도체 주변 부품으로 메모리와 연결 약함"
+    },
+    {
+      "id": "87bfc716f7",
+      "title": "추석에도 24시간 풀가동…삼성·SK·LG 공장 못 쉬는 이유",
+      "url": "https://www.inews24.com/view/2008069",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "추석 연휴 반도체·디스플레이 공장 24시간 가동 — 일반 산업 기사"
+    },
+    {
+      "id": "f5301b89cc",
+      "title": "모빌린트, 2세대 칩 양산 6개월 밀렸다...매출 전망도 '반토막'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62731",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "국내 NPU 스타트업 양산 지연 — AI 칩 팹리스 개별 이슈로 메모리 연결 약함"
+    },
+    {
+      "id": "5539a578a9",
+      "title": "[삼성 인사 시그널]① 수천조 투자 앞둔 삼성…무르익는 이재용 복귀",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674484",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "이재용 회장 사내이사 복귀 전망 — 인사·지배구조 기사"
+    },
+    {
+      "id": "436c693f64",
+      "title": "[차이나 풍향계] 중국 AI주 휘청…엔비디아 칩 허용 소식에 되레 '직격탄'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725857",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "중국 AI주 급락 — 증시 기사이나 엔비디아 칩 허용 등 AI 반도체 규제 맥락 포함"
+    },
+    {
+      "id": "942288d04e",
+      "title": "콴델라, 韓 아시아 허브로 키운다…양자 제조 컨소시엄 추진",
+      "url": "https://www.etnews.com/20260928000300",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "프랑스 양자컴퓨팅 기업의 한국 제조 컨소시엄 — 메모리 사업과 무관"
+    },
+    {
+      "id": "83ccbf5518",
+      "title": "[사이드B] 선풍기 칩부터 직접 만든다는 인도…한국 반도체가 10년 전 中 떠올린 이유",
+      "url": "https://www.inews24.com/view/2008617",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "인도 범용 반도체 팹리스 성장 — 메모리와 무관"
+    },
+    {
+      "id": "9faacba758",
+      "title": "삼성전자 DX노조 새 위원장에 손용호…DS 공동교섭 요구 본격화",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725831",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "삼성전자 DX노조 위원장 선출 — 노무 이슈"
+    },
+    {
+      "id": "f6fb7fb947",
+      "title": "마이크로칩, 48V 시스템용 전력 감시칩 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62843",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "48V 전력 감시칩 출시 — 전력반도체 제품 소식으로 메모리 무관"
+    },
+    {
+      "id": "db954a726f",
+      "title": "Arm, AI 앱 개발 쉽게…&apos;AI 포털&apos; 공개",
+      "url": "https://www.inews24.com/view/2009397",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "Arm AI 개발 포털 공개 — 소프트웨어 도구로 무관"
+    },
+    {
+      "id": "49e787dbef",
+      "title": "[스냅드래곤 서밋 2026] MS, &apos;X2 플러스&apos; 탑재 노트북 &apos;서피스&apos; 공개…AI 속도 95%↑",
+      "url": "https://www.inews24.com/view/2009020",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "MS 서피스 신제품 — PC 완제품 소식"
+    },
+    {
+      "id": "7d036ab2b3",
+      "title": "[개장] 코스피, 추석 연휴 뒤 숨고르기… 반도체주 약세",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170908",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 개장 시황 — 증시 기사"
+    },
+    {
+      "id": "6a720f45ef",
+      "title": "빅테크 품은 아이씨티케이, 'PUF 기반' 양자보안칩 개발 가속화",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674450",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "PUF 기반 양자보안칩 개발 — 보안칩으로 무관"
+    },
+    {
+      "id": "974c3ed4ca",
+      "title": "골드만삭스·블랙록 \"글로벌 금리 인상에도 韓 펀더멘털 견고\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725867",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "금융위원장-글로벌 IB 면담 — 금융 기사"
+    },
+    {
+      "id": "24756fab34",
+      "title": "[EBN 데이터센터] 코스피 6889.74로 급락 마감...외국인·기관 동반 매도에 대형 반도체주 약세",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725864",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 급락 마감 시황 — 증시 기사"
+    },
+    {
+      "id": "45ba0223be",
+      "title": "中 OLED 인바 내재화…원재료부터 패널까지 '메이드 인 차이나'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62732",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "중국 OLED FMM용 인바 내재화 — 디스플레이 공급망으로 무관"
+    },
+    {
+      "id": "1d936b3cac",
+      "title": "유럽 배터리 업계, 한국에 'SOS'…제이알에너지솔루션과 협력 논의",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62769",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "유럽 배터리 기업 협력 — 배터리 업계로 무관"
+    }
+  ]
+}
