@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-30",
+  "articles": [
+    {
+      "id": "13cc36813a",
+      "title": "SK하이닉스, 윈팩에 패키징 외주 다시 맡긴다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62922",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "SK하이닉스가 윈팩에 DDR4·DDR5 플립칩 패키징 외주를 4년 만에 재개 — 직접 관련"
+    },
+    {
+      "id": "b45fbe9656",
+      "title": "내년 HBM 평균가격 121% 뛴다…GPU 업계 '12단→8단' 검토",
+      "url": "https://www.inews24.com/view/2010143",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "내년 HBM 평균가격 121% 상승 전망과 GPU 업계 12단→8단 검토 — HBM 수요·가격 핵심 동향"
+    },
+    {
+      "id": "e5eae44f46",
+      "title": "마이크론 실적에 삼성·SK 촉각…'D램 몸값·HBM 세대교체' 관건",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674604",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 실적 발표 앞두고 D램 가격·HBM 세대교체 관전 포인트 — 경쟁사 실적, SK하이닉스 직접 언급"
+    },
+    {
+      "id": "f39fcd5dea",
+      "title": "삼성·SK하이닉스, 3분기 영업익 190조 육박...또 사상 최대",
+      "url": "https://www.inews24.com/view/2009539",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "삼성·SK하이닉스 3분기 영업익 190조 육박 전망 — HBM·서버 D램 수요가 견인"
+    },
+    {
+      "id": "800d6841b7",
+      "title": "SK하이닉스, 협력사 R&D 실패 부담도 나눈다…'원팀' 25년",
+      "url": "https://www.inews24.com/view/2010045",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "SK하이닉스 협력사 R&D 실패 부담 공유 상생 프로그램 — 소부장 공급망 정책 직접 관련"
+    },
+    {
+      "id": "f6658501a9",
+      "title": "키옥시아도 합류…어플라이드와 손잡는 글로벌 메모리 강자들",
+      "url": "https://www.inews24.com/view/2010354",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 76,
+      "confidence": "high",
+      "reason": "키옥시아 합류로 삼성·SK하이닉스·마이크론 등 메모리 3사 모두 어플라이드 EPIC 협력 — SK하이닉스 언급"
+    },
+    {
+      "id": "a5991f83a8",
+      "title": "어플라이드-키옥시아, 에픽 센터 참여…차세대 메모리 공동개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63007",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 74,
+      "confidence": "high",
+      "reason": "키옥시아가 어플라이드 EPIC 센터에 합류해 차세대 메모리 구조·소재 공동개발 — 경쟁사+장비 공급망"
+    },
+    {
+      "id": "54a8413cd5",
+      "title": "심텍, SK하이닉스 우수협력사 선정…AI 기판 경쟁력 입증",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674629",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 73,
+      "confidence": "high",
+      "reason": "심텍, SK하이닉스 파트너스데이 우수협력사 선정 — SOCAMM2 기판 대응"
+    },
+    {
+      "id": "6832c16e9d",
+      "title": "고영, SOCAMM2 검 장비 추가 수주",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63000",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "국내 메모리 기업 대상 SOCAMM2 검사장비 추가 수주 — 고객사가 SK하이닉스일 가능성, 명시되지 않음"
+    },
+    {
+      "id": "20ceb60463",
+      "title": "퀄컴과 길어진 협상…HBM4가 바꾼 삼성전자 파운드리 셈법",
+      "url": "https://www.inews24.com/view/2009542",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "medium",
+      "reason": "삼성-퀄컴 2나노 협상 지연 배경에 HBM4 베이스다이 파운드리 수요 — 파운드리 기사지만 HBM 연결 명시"
+    },
+    {
+      "id": "4f6197b0a8",
+      "title": "한미반도체 “후공정 장비 MSVP 세계 1위”…핵심 부품 국산화 5년 만",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171085",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "한미반도체 MSVP(패키지 절단·검사 장비) 세계 1위 — D램·낸드·HBM 후공정 장비"
+    },
+    {
+      "id": "4f4cf39f33",
+      "title": "ASM, PECVD 신기술 '플로어블 카본' 공개...CMP 생략 가능",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62979",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "ASM, CMP 생략 가능한 PECVD 플로어블 카본 공개 — 고종횡비 갭필 증착 공정 기술로 메모리 공정에도 적용 가능성"
+    },
+    {
+      "id": "adcc79f96c",
+      "title": "삼성전자 \"2029년 파운드리 고객사 4배·HPC 매출 비중 66%로 확대\"",
+      "url": "https://www.inews24.com/view/2010113",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "삼성 파운드리 2029년 고객사 4배·HPC 비중 66% 목표 — 경쟁사 파운드리 전략"
+    },
+    {
+      "id": "830a207278",
+      "title": "필옵틱스, 2mm 유리기판용 TGV 장비 수주",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62912",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "필옵틱스 유리기판 TGV 장비 수주 — 차세대 패키징 기판 기술"
+    },
+    {
+      "id": "56938ab586",
+      "title": "삼성전자, 에이전틱 AI 활용 확대…DX·DS 적용 사례 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63002",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성 AI 포럼에서 DS부문 반도체 설계·제조 AI 적용 사례 공개 — 경쟁사 공정 혁신 관점 간접 관련"
+    },
+    {
+      "id": "6220788ea2",
+      "title": "아스플로, 세계 3대 반도체 장비 美L사 품질감사 통과…10월부터 부품 출하",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62957",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "아스플로가 Lam Research(추정)의 부품 공급사 품질감사 통과 — 장비 공급망 소식"
+    },
+    {
+      "id": "3ee0ad2cfc",
+      "title": "삼성전자 ‘삼성 AI 포럼 2026’ 개최… 에이전틱 AI 활용 논의",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171078",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "삼성 AI 포럼 2026 개최(디일렉과 동일 이벤트) — 반도체 설계·제조 AI 적용 간접 관련"
+    },
+    {
+      "id": "3a69b2d433",
+      "title": "OCI, 전북 반도체 소재 특화단지 앵커기업 참여",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62925",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "OCI 전북 반도체 화학소재 특화단지 앵커기업 참여 — 소재 공급망·정책 성격"
+    },
+    {
+      "id": "3b2a736734",
+      "title": "반도체 호황에 올해 초과 세수 '역대 최대'…63조 더 걷힌다",
+      "url": "https://www.etnews.com/20260930000162",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "반도체 호황에 따른 초과 세수 전망 — 업황 호조의 간접 지표일 뿐 메모리 기술·사업 내용은 없음"
+    },
+    {
+      "id": "50a37b6ed6",
+      "title": "AMD, 11조원에 'AI 대모' 품었다…칩 넘어 'AI 두뇌'까지",
+      "url": "https://www.inews24.com/view/2010030",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "AMD의 월드랩스 11조원 인수 — AI 반도체 고객사 동향이나 HBM 수요와의 연결은 간접적"
+    },
+    {
+      "id": "bba944b53a",
+      "title": "[글로벌] 엔비디아 추격법 바꾼 AMD.. 'AI 대모' 회사에 11조원 베팅한다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155663",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 36,
+      "confidence": "medium",
+      "reason": "AMD 월드랩스 인수(아이뉴스24와 동일 이벤트) — AI 반도체 생태계 간접 관련"
+    },
+    {
+      "id": "e98f223315",
+      "title": "세미파이브, 美 AI 팹리스 703억 '잭팟'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62938",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "세미파이브 미국 AI 팹리스 ASIC 개발 계약 — 디자인하우스 개별 계약으로 메모리와 간접적"
+    },
+    {
+      "id": "2a5329707b",
+      "title": "세미파이브, 美 팹리스와 703억원 AI칩 계약 '역대 최대'",
+      "url": "https://www.inews24.com/view/2010065",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "세미파이브 703억원 AI칩 계약(디일렉과 동일 이벤트) — 메모리와 간접적"
+    },
+    {
+      "id": "2bc1f0803f",
+      "title": "코오롱생명과학, 김천공장 생산설비 증설…내년 상반기 가동",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726169",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "low",
+      "reason": "코오롱생명과학 PPO(저유전 소재) 증설 — AI 반도체 기판용 소재라 공급망 연결 가능성은 있으나 메모리 패키징 적용 여부 불명확"
+    },
+    {
+      "id": "7ec02c4297",
+      "title": "204조원 쏜다…엔비디아, 美 사상 최대 자사주 매입",
+      "url": "https://www.inews24.com/view/2009784",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "low",
+      "reason": "엔비디아 204조원 자사주 매입 — 주주환원 재무 기사로 보이나 주요 HBM 고객사 현금력·투자 여력 시사, 본문 부족으로 판단 애매"
+    },
+    {
+      "id": "990f7b8f54",
+      "title": "서울대, AI 반도체 인재 키운다...6년간 석박사급 110명 양성",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62982",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "서울대 AI 반도체 인재양성 연구소 개소 — 교육·정책성 소식"
+    },
+    {
+      "id": "f42f5c48b9",
+      "title": "보스반도체, Arm 생태계 합류...피지컬 AI 칩 개발 속도",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62980",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "high",
+      "reason": "보스반도체 Arm 피지컬 AI 생태계 합류 — 팹리스 개별 소식으로 메모리와 무관"
+    },
+    {
+      "id": "7022894fd7",
+      "title": "현대모비스, 차량용 반도체 국산화·SDV 전환 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63003",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "현대모비스 차량용 반도체 국산화 MOU로 메모리 사업과 거리 멂"
+    },
+    {
+      "id": "805d822ba2",
+      "title": "아라산, 타이베이 MIPI 회원사 모임에서 업계 최초 MIPI SWI3S™ IP 시연",
+      "url": "https://zdnet.co.kr/view/?no=20260930111003",
+      "source": "ZDNet Korea",
+      "category": "announcements",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "모바일·자동차 SoC용 MIPI 인터페이스 IP 시연 보도자료로 메모리와 무관"
+    },
+    {
+      "id": "cdbc6f797e",
+      "title": "테스토코리아, 평택에 '측정 체험센터' 개소",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62936",
+      "source": "디일렉",
+      "category": "announcements",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "측정기기 업체 평택 체험센터 개소 — 반도체 클러스터 인접성 언급뿐"
+    },
+    {
+      "id": "c49837daeb",
+      "title": "[삼성 인사 시그널]②사업지원실 2년 차…'박학규식 인사'에 쏠린 눈",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674618",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "삼성 사장단 인사 전망 — 인물 동정성 기사"
+    },
+    {
+      "id": "cdf9f0283a",
+      "title": "원자력연구원 \"방사선 이차전지·반도체 기술 개발 본격 추진\"",
+      "url": "https://zdnet.co.kr/view/?no=20260930100942",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "원자력연구원 방사선 기술 연구 방향 발표, 반도체는 부수적 언급"
+    },
+    {
+      "id": "dcd9bbae76",
+      "title": "[개장] 美반도체주 반등에 코스피 1% 상승… 6900선 회복",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171088",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "코스피 개장 시황 — 증시 기사"
+    },
+    {
+      "id": "b6b08d904e",
+      "title": "추석 연휴 돈 몰렸다…서학개미, 美 빅테크·반도체 쓸어담아",
+      "url": "https://www.etnews.com/20260930000177",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "서학개미 미국 기술주 순매수 증시 기사로 메모리 사업과 실질적 연관 없음"
+    },
+    {
+      "id": "ac56c3e1cd",
+      "title": "레노버, 가상화 인프라 현대화 솔루션군 발표",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62933",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "레노버 HCI 가상화 솔루션 발표 — '인메모리' 키워드 우연 매칭"
+    },
+    {
+      "id": "f0ae7d7a12",
+      "title": "[EBN 데이터센터] 반도체·방산·조선은 강세...금융·자동차는 숨고르기",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726141",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "업종별 증시 시황 — SK하이닉스 주가 언급뿐"
+    },
+    {
+      "id": "678bcc50bd",
+      "title": "[EBN 데이터센터] 코스피, 외국인 매수에 6923.51 상승 출발...반도체 강세",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726128",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 장초반 시황 — 증시 기사"
+    }
+  ]
+}
