@@ -1,0 +1,495 @@
+{
+  "date": "2026-09-29",
+  "articles": [
+    {
+      "id": "edc46bf82f",
+      "title": "SK하이닉스, TSMC와 HBM5 검증...2년 연속 올해 파트너 수상",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62873",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 95,
+      "confidence": "high",
+      "reason": "SK하이닉스, TSMC CoWoS 기반 HBM5 검증으로 2년 연속 올해의 파트너상 수상"
+    },
+    {
+      "id": "68870519ff",
+      "title": "SK하이닉스, TSMC 기술 행사서 차세대 AI 메모리 공개",
+      "url": "https://www.etnews.com/20260928000352",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "SK하이닉스가 TSMC OIP에서 HBM·서버 D램·eSSD 등 차세대 AI 메모리 공개"
+    },
+    {
+      "id": "f39fcd5dea",
+      "title": "삼성·SK하이닉스, 3분기 영업익 190조 육박...또 사상 최대",
+      "url": "https://www.inews24.com/view/2009539",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "삼성·SK하이닉스 3분기 영업익 190조 육박 전망 — HBM·서버 D램 수요가 실적 견인"
+    },
+    {
+      "id": "feba73e9a4",
+      "title": "SKIET 품고 솔리다임 美 상장 노크…SK의 두갈래 자회사 셈범",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674529",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "SK하이닉스 낸드 자회사 솔리다임의 미국 상장 검토 — 낸드 사업 구조 변화"
+    },
+    {
+      "id": "b74ec9a01f",
+      "title": "TSMC, 대만서 최첨단 패키징 공장 5곳 추가 건설",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170958",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "medium",
+      "reason": "TSMC 자이단지 첨단 패키징 공장 5곳 추가 — CoWoS 증설로 HBM 수요와 연결되나 간접적"
+    },
+    {
+      "id": "20ceb60463",
+      "title": "퀄컴과 길어진 협상…HBM4가 바꾼 삼성전자 파운드리 셈법",
+      "url": "https://www.inews24.com/view/2009542",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "medium",
+      "reason": "삼성-퀄컴 2나노 협상 장기화 배경에 HBM4 베이스다이 생산 등 파운드리 셈법 변화"
+    },
+    {
+      "id": "55edcb7710",
+      "title": "1500원대→1370원…삼성·SK 실적에 &apos;환율 역풍&apos;",
+      "url": "https://www.inews24.com/view/2008989",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "low",
+      "reason": "SK하이닉스 직접 언급이나 환율 하락의 원화 환산 실적 영향이라는 재무 이슈 — 관련도 구간 판단이 애매"
+    },
+    {
+      "id": "6692d4a690",
+      "title": "삼성전기, 세종에 4.2조 투자… AI 서버용 반도체 기판 증설",
+      "url": "https://www.etnews.com/20260928000389",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "삼성전기 AI 서버용 FC-BGA 4.27조 증설 — 패키징 기판 공급망 동향, 메모리 직접 연결은 아님"
+    },
+    {
+      "id": "de4b6993fa",
+      "title": "삼성전기, AI 반도체 패키지‧기판에 6.7조 투자",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62871",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "삼성전기 세종·베트남 패키지기판 6.78조 투자 — ABF FC-BGA 확대, 패키징 공급망"
+    },
+    {
+      "id": "8761dc6a14",
+      "title": "삼성전기, 세종에 4.3조 투입해 AI 기판 라인 증설",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170970",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "삼성전기 세종 AI 기판 라인 4.27조 증설 — 빅테크 고객 자금지원 기반 패키징 기판 투자"
+    },
+    {
+      "id": "46661b7091",
+      "title": "삼성전기, 세종사업장에 4조2700억 투자…AI 반도체 기판 승부수",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674562",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "삼성전기 세종 FC-BGA 4.27조 투자 — AI 반도체 기판 공급망"
+    },
+    {
+      "id": "243ed0d954",
+      "title": "슈퍼마이크로, 엔비디아 베라 루빈 NVL72 랙 출하 개시",
+      "url": "https://zdnet.co.kr/view/?no=20260929121003",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "슈퍼마이크로 베라 루빈 NVL72 랙 출하 — HBM4 탑재 AI 서버 수요 신호이나 보도자료성"
+    },
+    {
+      "id": "389e66fcf2",
+      "title": "[스냅드래곤 서밋] 퀄컴, 삼성 2나노 공정 사전 평가…파운드리 협력 '솔솔'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62790",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "퀄컴, 삼성 파운드리 2나노 사전 평가 — 경쟁사 파운드리 동향"
+    },
+    {
+      "id": "a8ac069fbf",
+      "title": "[스냅드래곤 서밋 2026] 퀄컴 &quot;삼성은 최강 파트너&quot;…삼성 파운드리 2나노 도입 검토 [인터뷰]",
+      "url": "https://www.inews24.com/view/2009066",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "퀄컴 인터뷰 — 삼성 파운드리 2나노 도입 검토, 경쟁사 파운드리 동향"
+    },
+    {
+      "id": "be052ad7b3",
+      "title": "수출 절반이 반도체인데, 그 절반은 중국행…커지는 &apos;쏠림 리스크&apos;",
+      "url": "https://www.inews24.com/view/2008942",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "반도체 수출 비중·중국 쏠림 리스크 — 메모리 가격 상승 기반 수출 구조 분석"
+    },
+    {
+      "id": "9d3e86971e",
+      "title": "ISC, AI 반도체 수요 잡는다…1000억 투입해 생산능력 대폭 확대",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725957",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "ISC 테스트 소켓 1000억 투자 — AI 반도체 후공정 소부장 증설"
+    },
+    {
+      "id": "1bcfea3058",
+      "title": "AI 훈풍 올라탄 삼에스코리아…FOSB 생산능력 2배↑",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61762",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "웨이퍼 운송 캐리어(FOSB) 생산능력 2배 확대 — 소재·부품 공급망, 고객사 비공개"
+    },
+    {
+      "id": "f263c4698f",
+      "title": "'30조' 역대급 배당 막차에도…삼성전자 외국인 매도 폭탄 왜?",
+      "url": "https://www.etnews.com/20260928000395",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성전자 주가 급락 시황 기사지만 투자자 관심이 메모리 업황·실적 전망에 쏠렸다는 맥락 포함"
+    },
+    {
+      "id": "564f5c40dd",
+      "title": "DB하이텍 파운드리 단가 최대 30%↑…中 주문에 행복한 비명",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62785",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "DB하이텍 8인치 파운드리 가격 인상 — 레거시 파운드리 수급, 메모리와 간접적"
+    },
+    {
+      "id": "62dc526bf2",
+      "title": "TSMC 계열 뱅가드, 싱가포르에 '제2 반도체 공장' 건설 검토",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170975",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "TSMC 계열 뱅가드·NXP 합작 싱가포르 2공장 검토 — 파운드리 증설 동향"
+    },
+    {
+      "id": "27117bf78c",
+      "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674584",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성 6개사 헬릭스 AI 데이터센터 투자 — 경쟁사의 AI 인프라 사업 확장"
+    },
+    {
+      "id": "2fac019307",
+      "title": "삼성 6개사, 美 AI 인프라 기업 '헬릭스'에 10억달러 투자",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155647",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성 관계사 헬릭스 10억달러 투자 — 경쟁사 AI 인프라 확장"
+    },
+    {
+      "id": "933fe310b4",
+      "title": "SK, 반도체 초호황에 재무체력 회복…차입 부담 '뚝'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725959",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "SK㈜ 재무 개선 — SK하이닉스 메모리 호황 실적이 배경이나 지주사 재무 이슈"
+    },
+    {
+      "id": "805409ff20",
+      "title": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰…8686억원 규모",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725934",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "용인 첨단시스템반도체 국가산단 조성공사 낙찰 — 반도체 클러스터 인프라"
+    },
+    {
+      "id": "9928024819",
+      "title": "美 국채금리 쇼크…'AI 투자→반도체' 성장고리 흔들리나",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725944",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "미 국채금리 급등이 AI 투자→반도체 성장 고리에 부담 — 거시 변수, 메모리 수요와 간접 연결"
+    },
+    {
+      "id": "c92c875407",
+      "title": "中, AI·반도체 핵심 인력 '가족'까지 출국 통제 확대",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170978",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "중국 AI·반도체 핵심 인력 출국 통제 확대 — 정책 이슈, 메모리 직접 연관 약함"
+    },
+    {
+      "id": "5517a819d7",
+      "title": "최태원 회장, 젠슨 황 '밴 플리트 상' 축하…\"한미 AI 동맹, 데이터센터로 확대\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725984",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "최태원 회장의 젠슨 황 수상 축하 — 인물 동정성이나 SK-엔비디아 AI 협력 강조가 담겨 경계 사례"
+    },
+    {
+      "id": "b80939d947",
+      "title": "6mm 칩 하나로 120A…인피니언, AI 가속기 전원칩 샘플 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62856",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "인피니언 AI 가속기용 전원칩 신제품 — AI 반도체 주변 부품으로 메모리 연관 약함"
+    },
+    {
+      "id": "11616737db",
+      "title": "AMD, 3D 영상 월드랩스 11조원에 인수",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170984",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AMD의 AI 스타트업 월드랩스 인수 — AI 소프트웨어 투자로 메모리 연관 약함"
+    },
+    {
+      "id": "d4808918ff",
+      "title": "성과급 불씨 남은 삼성전자…전영현 ‘집안 단속’ 노태문 ‘소통 총력’",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170945",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "삼성전자 성과급 갈등 — 메모리 호황 실적 전망 언급되나 인사·조직 이슈 중심"
+    },
+    {
+      "id": "7ec02c4297",
+      "title": "204조원 쏜다…엔비디아, 美 사상 최대 자사주 매입",
+      "url": "https://www.inews24.com/view/2009784",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "엔비디아 1500억달러 자사주 매입 — 주주환원 이슈, 수요 신호로는 약함"
+    },
+    {
+      "id": "ba710d66ad",
+      "title": "엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674575",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "엔비디아 자사주 추가 매입 — 주주환원 이슈"
+    },
+    {
+      "id": "cfe2beceda",
+      "title": "[서학개미 안테나] AMD, 'AI 대모' 페이페이 리의 월드 랩스 8.2조원에 품는다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725925",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AMD 월드랩스 인수 — AI 모델 투자로 메모리 연관 약함"
+    },
+    {
+      "id": "d97d5d7946",
+      "title": "기술유출 표적 반도체인데…중소업체 도면 \"기껏해야 비밀번호\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62729",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "보안업체 파수AI의 반도체 고객 영업 확대 — 기술유출 이슈 언급하나 실질 관련 낮음"
+    },
+    {
+      "id": "e3fab7305d",
+      "title": "[개장] 코스피 약보합… 美 금리 급등, AI 투자 속도조절 우려",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170992",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "코스피 개장 시황 — AI 투자 속도조절 우려 언급뿐"
+    },
+    {
+      "id": "b52de8c080",
+      "title": "서울대 AI반도체 혁신연구소 개소…산학 협력 통해 핵심인재 양성",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725853",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "서울대 AI반도체 혁신연구소 개소 — 인재 양성 정책, 메모리 연관 약함"
+    },
+    {
+      "id": "16378fca33",
+      "title": "코스피, 7천피 붕괴 이어 6900선 아래로…외국인 3.2조 '팔자'",
+      "url": "https://www.etnews.com/20260928000355",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "코스피 증시 시황 — 반도체주 약세 언급뿐 기술·사업 내용 없음"
+    },
+    {
+      "id": "cf1dadf777",
+      "title": "삼성전자, 뉴욕 타임스스퀘어에 젠슨 황 수상 축하 영상",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170989",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "삼성전자의 젠슨 황 수상 축하 영상 송출 — 홍보성 동정 기사"
+    },
+    {
+      "id": "223a0d624f",
+      "title": "[마감] 美 금리급등發 반도체 약세… 코스피 2.7% ‘뚝’",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170954",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "코스피 마감 시황 — 금리 급등발 반도체주 약세"
+    },
+    {
+      "id": "fb5679f371",
+      "title": "[서학개미 안테나] 금리 오르는데 AI는 달린다…이번주 주목할 글로벌 ETF",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725943",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "해외 ETF 투자 전략 — 마이크론 실적 발표 일정 언급뿐"
+    },
+    {
+      "id": "f6fb7fb947",
+      "title": "마이크로칩, 48V 시스템용 전력 감시칩 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62843",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "마이크로칩 48V 전력 모니터 칩 출시 — 메모리·공정과 무관"
+    },
+    {
+      "id": "62a3bf4e9e",
+      "title": "[EBN 데이터센터] 코스피, 외국인 매도에 6870.02로 약세 출발...반도체 선방에도 낙폭 방어 제한",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725949",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "코스피 장초반 시황 — 무관"
+    },
+    {
+      "id": "45ba0223be",
+      "title": "中 OLED 인바 내재화…원재료부터 패널까지 '메이드 인 차이나'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62732",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "중국 OLED FMM용 인바 내재화 — 디스플레이 소재로 메모리 무관"
+    },
+    {
+      "id": "db954a726f",
+      "title": "Arm, AI 앱 개발 쉽게…&apos;AI 포털&apos; 공개",
+      "url": "https://www.inews24.com/view/2009397",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "Arm AI 앱 개발 포털 공개 — 소프트웨어 도구로 메모리 무관"
+    },
+    {
+      "id": "37e207a451",
+      "title": "브릴스, 소프트웨어 중심 피지컬 AI 청사진 제시",
+      "url": "https://zdnet.co.kr/view/?no=20260929102005",
+      "source": "ZDNet Korea",
+      "category": "other",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "로봇 플랫폼 기업의 피지컬 AI 전시 — 메모리·공정과 무관"
+    },
+    {
+      "id": "49e787dbef",
+      "title": "[스냅드래곤 서밋 2026] MS, &apos;X2 플러스&apos; 탑재 노트북 &apos;서피스&apos; 공개…AI 속도 95%↑",
+      "url": "https://www.inews24.com/view/2009020",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "MS 서피스 신제품 — PC 제품 기사로 무관"
+    },
+    {
+      "id": "9293b47794",
+      "title": "비투엔, 앤씨앤 경영권 인수…차량용 영상·반도체로 사업 확장",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674568",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "비투엔의 차량용 영상기기 업체 인수 — 무관"
+    },
+    {
+      "id": "1d936b3cac",
+      "title": "유럽 배터리 업계, 한국에 'SOS'…제이알에너지솔루션과 협력 논의",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62769",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "유럽 배터리 위탁생산 협력 — 반도체와 무관"
+    },
+    {
+      "id": "9a5a86b4c2",
+      "title": "中 '차세대 배터리 육성책' 가동…韓 8조 맞불 '차세대 패권' 격화",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725972",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "한중 차세대 배터리 경쟁 — 반도체와 무관"
+    }
+  ]
+}
