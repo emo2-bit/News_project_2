@@ -1,0 +1,405 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "id": "099001c6b3",
+      "title": "이재용 뉴욕 이어 런던 '갈라 외교'…반도체 핵심 파트너 CEO 한자리에 모였다",
+      "url": "https://www.etnews.com/20261001000156",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "이재용 회장이 런던 갈라에서 ASML 등 반도체 핵심 파트너 CEO와 회동 — 공급망 네트워크 관점은 있으나 문화행사 성격이 강함"
+    },
+    {
+      "id": "ca3116c88c",
+      "title": "마이크론, 실적·전망 모두 시장 예상 상회…내년 실적도 자신",
+      "url": "https://www.etnews.com/20261001000014",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "경쟁사 마이크론 FY26 4Q 사상 최대 실적·가이던스 상회 — AI 메모리 수요 직접 지표"
+    },
+    {
+      "id": "81c76b5e6c",
+      "title": "반도체 수출, 단일품목 첫 600억 달러…9월 수출 1200억 달러 역대 최대",
+      "url": "https://zdnet.co.kr/view/?no=20261001113208",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "반도체 단일품목 수출 첫 600억달러 — 메모리 호황이 견인한 거시 지표, 업계 전반 영향"
+    },
+    {
+      "id": "aaf3506c68",
+      "title": "노타, 멀티모달 AI도 경량화…GPU 메모리 47% 절감",
+      "url": "https://zdnet.co.kr/view/?no=20261001112709",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "AI 모델 경량화로 GPU 메모리 사용량 절감한 SW 연구 — 메모리 반도체 사업과 무관"
+    },
+    {
+      "id": "c3ed5dce3f",
+      "title": "ICTK, 위드네트웍스 인수…PQC·PUF 결합 '3축 보안 사업' 본격화",
+      "url": "https://zdnet.co.kr/view/?no=20261001102036",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "보안칩 팹리스의 네트워크 보안기업 인수 — 메모리·공정과 무관"
+    },
+    {
+      "id": "e7a3f3fc6d",
+      "title": "마이크론, 또 역대급 실적…2030년까지 매출 35% 이미 계약",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63067",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "마이크론 연간 D램 매출 1000억달러 돌파·2030년까지 매출 35% 장기계약 — 경쟁사 메모리 사업 핵심 동향"
+    },
+    {
+      "id": "d6f493c770",
+      "title": "D램·낸드 가격 9월에도 사상 최고…상승폭은 감소",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63057",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "D램·낸드 9월 고정가 사상 최고, 4분기 상승률 전망 13~18%로 상향 — 메모리 가격 직접 지표"
+    },
+    {
+      "id": "1bd00c1562",
+      "title": "LB세미콘, 구미 전력반도체 후공정 설비 증설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63058",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "OSAT 업체의 전력반도체 후공정 라인 증설 — 후공정이지만 메모리와 연결은 약함"
+    },
+    {
+      "id": "68b4ef18c4",
+      "title": "JSR, 충북 오창에 EUV MOR 공장 준공",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63051",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "high",
+      "reason": "JSR EUV용 금속산화물 레지스트(MOR) 국내 공장 준공 — D램 EUV 공정 소재 공급망"
+    },
+    {
+      "id": "082341627d",
+      "title": "리사 수 AMD CEO 내달 방한…국내 NPU 업체와 회동",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63046",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "리사 수 AMD CEO 방한·국내 NPU 업체 회동 — AI 반도체 생태계 이슈, 메모리 연결은 간접적"
+    },
+    {
+      "id": "16b9ad4303",
+      "title": "코오롱생명과학, 반도체 소재 PPO 생산능력 확대",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63045",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 반도체 기판용 저유전 소재 PPO 증설 — 소재 공급망이나 메모리 공정과 거리가 있음"
+    },
+    {
+      "id": "adf45688fe",
+      "title": "퀄컴, 대만 아이스타트텍 EDA 툴 도입…AI로 수율↑",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63025",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "퀄컴 SoC에 대만 AI 기반 EDA 툴 도입 — 로직 설계 영역으로 메모리와 거리가 멂"
+    },
+    {
+      "id": "dfcb6ea731",
+      "title": "디스플레이 1세대 기업 신도기연, 반도체 패키징 영토 확장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62972",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "디스플레이 장비사 신도기연의 반도체 패키징 신사업 확장 — 패키징 소부장 개별 동향"
+    },
+    {
+      "id": "f6e2967759",
+      "title": "온세미, 2030년 매출 110억달러 목표…자동차 넘어 AI 데이터센터로",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63014",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "온세미 전력반도체 중장기 매출 목표 — 메모리 사업과 무관"
+    },
+    {
+      "id": "a5991f83a8",
+      "title": "어플라이드-키옥시아, 에픽 센터 참여…차세대 메모리 공동개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63007",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "어플라이드-키옥시아 EPIC 센터에서 차세대 메모리 구조·소재 공동개발 — 경쟁사 메모리 기술·장비 공급망 직접 관련"
+    },
+    {
+      "id": "56938ab586",
+      "title": "삼성전자, 에이전틱 AI 활용 확대…DX·DS 적용 사례 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63002",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "삼성 AI 포럼에서 DS부문 반도체 설계·제조 AI 적용 사례 공개 — 경쟁사 공정 운영 참고, 기술 디테일은 제한적"
+    },
+    {
+      "id": "6832c16e9d",
+      "title": "고영, SOCAMM2 검 장비 추가 수주",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63000",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "고영, 국내 메모리 기업에서 SOCAMM2 검사장비 추가 수주 — 고객사가 SK하이닉스일 가능성 있으나 비공개"
+    },
+    {
+      "id": "7022894fd7",
+      "title": "현대모비스, 차량용 반도체 국산화·SDV 전환 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63003",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "현대모비스 차량용 반도체 국산화 MOU — 메모리와 무관"
+    },
+    {
+      "id": "4c52baded4",
+      "title": "반도체 수출 6백억弗 돌파 장비주 강세… 삼전닉스는 약세",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171210",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "반도체 장비주·삼성/SK하이닉스 주가 장중 시황 — 증시 기사"
+    },
+    {
+      "id": "8c960e90e5",
+      "title": "“예술·문화 보존해 나눠야”…이재용, 英 ‘KH 컬렉션’서 민간 외교",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171204",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "이재용 KH컬렉션 민간외교 — 반도체 파트너 협력 언급이 있으나 기사 중심은 문화·나눔 철학이라 관련성 판단이 애매함"
+    },
+    {
+      "id": "19ce716de9",
+      "title": "AI 메모리 호황에 ‘사상 최대’…마이크론, 분기 영업익 59조",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171180",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 분기 영업이익 59조원 사상 최대 — 경쟁사 메모리 실적"
+    },
+    {
+      "id": "073b10427a",
+      "title": "AI가 밀어올린 반도체 수출… 9월 600달러 돌파",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171202",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "AI 반도체 수요로 9월 반도체 수출 600억달러 돌파 — 업계 거시 지표"
+    },
+    {
+      "id": "e787c85631",
+      "title": "반도체 수출 600억달러 첫 돌파…9월 전체 수출도 '역대 최대'",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171200",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "반도체 수출 600억달러 첫 돌파·전체 수출 역대 최대 — 업계 거시 지표"
+    },
+    {
+      "id": "981e4b0697",
+      "title": "韓·美 스튜디오 시너지… CJ ENM, 국제 에미상 후보 2편 배출",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171184",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "CJ ENM 국제 에미상 후보 — 반도체와 무관"
+    },
+    {
+      "id": "ef7322761a",
+      "title": "가격 고민에 본질 놓친 보급형 PC 시장 [줌인IT]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171168",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "AI발 메모리 수급난으로 보급형 PC 시장 위축 — 메모리 가격의 다운스트림 영향"
+    },
+    {
+      "id": "067dfc883c",
+      "title": "DS·DX로 나뉜 삼전 전사근로자대표…노노갈등 새 국면",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171121",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "삼성전자 DS·DX 근로자대표 노노갈등 — 경쟁사 내부 노무 이슈, 기술·사업과 거리"
+    },
+    {
+      "id": "a5f360a5b5",
+      "title": "마이크론 \"초과 현금은 자사주 매입\"…12월부터 주주환원 확대",
+      "url": "https://www.inews24.com/view/2010695",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "마이크론 초과 현금 자사주 매입 확대 — 경쟁사 재무 전략, 기술·수급과는 간접"
+    },
+    {
+      "id": "b395234b85",
+      "title": "\"내년 물량 75% 벌써 찼다\"…마이크론이 본 '메모리 품귀'의 끝",
+      "url": "https://www.inews24.com/view/2010693",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 내년 생산물량 75% 이미 약정 — 메모리 품귀 장기화 신호"
+    },
+    {
+      "id": "1104c44df0",
+      "title": "마이크론, 4분기 매출 73조…1년 새 4.8배 '사상 최대'",
+      "url": "https://www.inews24.com/view/2010691",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 4분기 매출 73조원 사상 최대 — 경쟁사 메모리 실적"
+    },
+    {
+      "id": "9e891e05b8",
+      "title": "리사 수 AMD CEO, 7개월 만에 방한...국산 NPU 기업 만날 듯",
+      "url": "https://www.inews24.com/view/2010632",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "리사 수 AMD CEO 방한·국산 NPU 기업 회동 — AI 반도체 생태계, 메모리 연결 간접"
+    },
+    {
+      "id": "7a5380e4fd",
+      "title": "'이건희 컬렉션' 참석한 이재용, 런던서 문화외교…미래 사업 협력 모색",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674790",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "이재용 런던 문화외교로 글로벌 반도체 파트너와 협력 전선 다짐 — 동일 이벤트, 공급망 네트워크 관점의 간접 관련"
+    },
+    {
+      "id": "7d4b7cd3aa",
+      "title": "진코스텍, 하이드로겔 양산 노하우 ‘진입장벽’…\"中 협력 요청도 거절\"",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674748",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "하이드로겔 양산 기업 상장 — '수율' 키워드가 우연히 걸림, 무관"
+    },
+    {
+      "id": "e1aa978d69",
+      "title": "\"자고 나니 'X100VI' 30만원 올랐다\"...후지필름 코리아, 카메라 7종 가격 기습 인상",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155764",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "low",
+      "reason": "후지필름 카메라 가격 인상 사유로 반도체 부품가 상승 언급 — 메모리 가격 파급 사례로 볼지 단순 소비자 기사로 볼지 애매"
+    },
+    {
+      "id": "369fbbfa30",
+      "title": "'메모리 정점론'에 선 그은 마이크론...\"2027년 물량 75% 약정, 2028년도 빠듯\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155742",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "마이크론 '메모리 정점론' 반박, 2027년 물량 75% 약정·2028년도 빠듯 — 메모리 사이클 핵심 전망"
+    },
+    {
+      "id": "bd594d4106",
+      "title": "현금 싸들고 메모리 줄 선 고객사...마이크론 \"2028년에도 공급 제약\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155741",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "마이크론 전략적 고객계약 26건, 고객사 현금 예치까지 — 메모리 장기계약 구조 변화"
+    },
+    {
+      "id": "cc6810b975",
+      "title": "마이크론, AI 메모리 호황에 매출 379% 급증...\"수급 균형 시점 가늠 어려워\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155740",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 매출 379% 급증·수급 균형 시점 가늠 어려움 — 경쟁사 실적과 수급 전망"
+    },
+    {
+      "id": "701184f506",
+      "title": "[글로벌] 엔비디아, GPU 담보대출에 보험까지...AI DC 자금조달 더 쉽게 만든다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155720",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "엔비디아 GPU 담보대출·보험 연계로 AI DC 자금조달 지원 — AI 인프라 투자 지속성(HBM 수요)과 간접 연결"
+    },
+    {
+      "id": "9206f37f31",
+      "title": "SK하이닉스 \"솔리다임 자본 활용 방안 미정…최우선 기준은 주주가치\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726365",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스, 솔리다임 자본 활용 방안 미정·주주가치 최우선 입장 — SK하이닉스 낸드 자회사 직접 이슈"
+    },
+    {
+      "id": "1a8e9ce64d",
+      "title": "그로쓰리서치 \"태성, 수주액 2200억 달성…본격 실적 성장 진입\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726346",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 반도체용 기판 장비업체 태성 수주 급증 리서치 — 기판 장비, 메모리와 간접"
+    },
+    {
+      "id": "96bfdde840",
+      "title": "코스피 6700선 후퇴…美 장기금리 급등에 외국인·기관 '팔자'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726341",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "코스피 장 초반 하락 시황 — 증시 기사"
+    }
+  ]
+}
