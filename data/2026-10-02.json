@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-02",
+  "articles": [
+    {
+      "id": "62431f49a4",
+      "title": "석 달 만에 '사상 최대'…'60조' 마이크론, 다음은 '190조' 삼전닉스",
+      "url": "https://www.etnews.com/20261001000501",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 사상 최대 분기 실적 후 시장 시선이 삼성전자·SK하이닉스 실적으로 이동 — 메모리 슈퍼사이클 직접 다룸"
+    },
+    {
+      "id": "e931cc3b90",
+      "title": "AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다",
+      "url": "https://www.etnews.com/20261001000279",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "AI 가전용 저가 MCU·TinyML 칩 수요 — 메모리·공정과 무관한 온디바이스 AI 시장 기사"
+    },
+    {
+      "id": "03019580dc",
+      "title": "[AI 고속도로] \"中서 못 구하니 해외로\"…텐센트, 오라클서 AI칩 10만개 확보",
+      "url": "https://zdnet.co.kr/view/?no=20261002104307",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "텐센트가 오라클 해외 데이터센터에서 AI칩 10만개 확보 — AI 반도체 수요·수출규제 맥락이나 메모리와 간접"
+    },
+    {
+      "id": "d89ee56a08",
+      "title": "[기자수첩] 5000억 '디스플레이 팹'이 제 값을 하려면",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62707",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "디스플레이혁신공정센터 운영 지속성 기자수첩 — 디스플레이 분야, 반도체 메모리와 무관"
+    },
+    {
+      "id": "c1011a0105",
+      "title": "LPKF, 90억 규모 유리기판 장비 공급 임박",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63147",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "LPKF, 아시아 패키징 업체에 유리기판 LIDE 장비 LOI — 차세대 패키징 기판 소부장, 메모리 연결은 간접"
+    },
+    {
+      "id": "cbb7e7bff8",
+      "title": "마이크론 \"NVHBM, 자체 베이스다이 빠져도 수익성↑\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63114",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "마이크론 엔비디아 커스텀 NVHBM·HBM4E에 파운드리 베이스다이 적용 — 경쟁사 HBM 기술 전략 변화 직접 다룸"
+    },
+    {
+      "id": "fa8586a4ae",
+      "title": "한국알콜그룹, 주정 회사서 '반도체 소재 순환 밸류체인' 대전환",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63126",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "한국알콜그룹 반도체 소재(전구체·식각액 등) 밸류체인 전환 — 국내 소재 공급망, 메모리 연결은 간접"
+    },
+    {
+      "id": "6cef0fe542",
+      "title": "몽고DB, '아틀라스 에이전트 엔진' 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63115",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "몽고DB AI 에이전트 플랫폼 출시 — '메모리'는 소프트웨어 메모리 레이어 의미, 반도체와 무관"
+    },
+    {
+      "id": "1fa336fab5",
+      "title": "무라타 전기·광학·열 통합 CPO 로드맵 공개…AI 인터커넥트 패권 정조준",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63059",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "무라타 CPO(공동패키징광학) 로드맵 — AI 데이터센터 인터커넥트 패키징 기술, 메모리와 간접"
+    },
+    {
+      "id": "672091dd68",
+      "title": "세미파이브, 대동·모빌린트 농업 로봇용 AI 칩 설계",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63085",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "세미파이브, 농업 로봇용 AI 칩 설계 계약 — 디자인하우스 개별 계약, 메모리와 무관"
+    },
+    {
+      "id": "df6d0d3292",
+      "title": "'이건희 컬렉션' 참석한 이재용, 런던서 첨단기업 수장들과 만나",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63072",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "이재용 회장 런던 갈라에서 ASML 등 파트너 CEO와 교류 — 공급망 네트워크 관점은 있으나 문화행사 성격"
+    },
+    {
+      "id": "e7a3f3fc6d",
+      "title": "마이크론, 또 역대급 실적…2030년까지 매출 35% 이미 계약",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63067",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "마이크론 FY26 연간 매출 1332억달러·D램 매출 1000억달러 돌파·2030년 매출 35% 계약 — 경쟁사 실적 직접"
+    },
+    {
+      "id": "d6f493c770",
+      "title": "D램·낸드 가격 9월에도 사상 최고…상승폭은 감소",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63057",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "D램·낸드 9월 고정가 사상 최고, 4Q 범용 D램 상승률 전망 13~18%로 상향 — 메모리 가격 핵심 지표"
+    },
+    {
+      "id": "1bd00c1562",
+      "title": "LB세미콘, 구미 전력반도체 후공정 설비 증설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63058",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "LB세미콘 구미 전력반도체 후공정 증설 MOU — 후공정(OSAT)이나 전력반도체로 메모리와 거리 있음"
+    },
+    {
+      "id": "ae2b89bb8c",
+      "title": "TSMC, 美 텍사스에 수십조 규모 신공장 증설 저울질",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171291",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "TSMC 텍사스 수십조 규모 신공장 검토 — 파운드리 경쟁사 증설, HBM 베이스다이·CoWoS 생태계에 간접 영향"
+    },
+    {
+      "id": "977a71496b",
+      "title": "브로드컴, 앤트로픽에 420억달러 빌려주고 AI칩 공급",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171296",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "브로드컴, 앤트로픽에 420억달러 대출하며 AI칩 공급 확대 — 커스텀 AI칩 수요(HBM 수요처) 간접 신호"
+    },
+    {
+      "id": "93349502de",
+      "title": "“DS 웃고 DX 울고”… 마이크론이 예고한 메모리 공급난에 삼전 희비",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171229",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "medium",
+      "reason": "메모리 가격 상승에 삼성 DS 실적 개선·DX 원가 부담 — 경쟁사 메모리 사업 영향이나 초점은 완제품 수익성"
+    },
+    {
+      "id": "225eb603ec",
+      "title": "[마감] 코스피, 삼전닉스 반등에 6900선 회복",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171245",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 마감 시황 — 반도체주 강세 언급뿐인 증시 기사"
+    },
+    {
+      "id": "367236843a",
+      "title": "넷리스트, 마이크론 HBM4 정조준…엔비디아·구글도 ITC 제소",
+      "url": "https://www.inews24.com/view/2010936",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "넷리스트, 마이크론 HBM3E·HBM4·HBM4E 특허침해로 ITC 제소, 엔비디아·구글도 대상 — HBM 경쟁사 법적 리스크"
+    },
+    {
+      "id": "e532dfd59d",
+      "title": "세미파이브, 모빌린트와 로봇용 AI 반도체 개발 계약 체결",
+      "url": "https://www.inews24.com/view/2011030",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "세미파이브-모빌린트 로봇용 AI 반도체 턴키 계약 — 디자인하우스 개별 계약, 메모리와 무관"
+    },
+    {
+      "id": "a5f360a5b5",
+      "title": "마이크론 &quot;초과 현금은 자사주 매입&quot;…12월부터 주주환원 확대",
+      "url": "https://www.inews24.com/view/2010695",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "마이크론 초과 현금으로 12월부터 자사주 매입 확대 — 경쟁사 재무 정책, 기술·수급과는 간접"
+    },
+    {
+      "id": "b395234b85",
+      "title": "&quot;내년 물량 75% 벌써 찼다&quot;…마이크론이 본 &apos;메모리 품귀&apos;의 끝",
+      "url": "https://www.inews24.com/view/2010693",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 2027년 물량 75% 이상 약정, 메모리 품귀 심화 전망 — 메모리 수급 직접 지표"
+    },
+    {
+      "id": "1104c44df0",
+      "title": "마이크론, 4분기 매출 73조…1년 새 4.8배 &apos;사상 최대&apos;",
+      "url": "https://www.inews24.com/view/2010691",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 FY26 4Q 매출 542억달러(전년 대비 4.8배) 사상 최대 — 경쟁사 실적 직접"
+    },
+    {
+      "id": "7ef21937c4",
+      "title": "세미파이브, 로봇용 AI 반도체 개발 속도...고객사 다변화 나선다",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674880",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "세미파이브 로봇용 AI 반도체 수주로 고객 다변화 — 디자인하우스 사업 기사, 메모리와 무관"
+    },
+    {
+      "id": "7d2257fb84",
+      "title": "[삼성 인사 시그널]④ DS엔 보상·DX는 쇄신…'차등인사' 예고",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674812",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "low",
+      "reason": "삼성 정기인사 전망 — 인물 동정 성격이나 HBM4 개발·고객대응 성과 반영 언급이 있어 경쟁사 메모리 조직 동향으로도 읽힘"
+    },
+    {
+      "id": "7da7db9752",
+      "title": "'반도체 신화' 삼성전자·SK하이닉스, 올해 영업익 650兆 파죽지세",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=674808",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "삼성전자·SK하이닉스 올해 합산 영업익 650조원 전망 — SK하이닉스 직접 언급, 메모리 호황 실적"
+    },
+    {
+      "id": "df8eafe901",
+      "title": "한국 경제 '삼중위기' 돌파할 산업 AI 전환...열쇠는 '분산형 AI'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155795",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "분산형 AI 산업 전환 보고서 — 정책·산업 일반론, 메모리와 무관"
+    },
+    {
+      "id": "656928f784",
+      "title": "[글로벌] AI칩만으론 부족하다...딥시크·화웨이, '쿠다' 대항 생태계 구축",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155782",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "딥시크·화웨이, 어센드 칩용 CUDA 대항 소프트웨어 생태계 구축 — 중국 AI칩 생태계, 메모리와 간접"
+    },
+    {
+      "id": "3242e5ec25",
+      "title": "[KBW 26] '한국 반도체도 토큰화'…로빈후드, 韓 금융사와 협업 가능성 열었다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155773",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "로빈후드 한국 자산 토큰화 협업 가능성 — '반도체 토큰화'는 투자상품 비유, 반도체 산업과 무관"
+    },
+    {
+      "id": "e1aa978d69",
+      "title": "\"자고 나니 'X100VI' 30만원 올랐다\"...후지필름 코리아, 카메라 7종 가격 기습 인상",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155764",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "low",
+      "reason": "후지필름 카메라 가격 인상 사유로 반도체 부품가 상승 언급 — 메모리 가격 다운스트림 전가 사례인지, 단순 소비자 가격 기사인지 경계"
+    },
+    {
+      "id": "369fbbfa30",
+      "title": "'메모리 정점론'에 선 그은 마이크론...\"2027년 물량 75% 약정, 2028년도 빠듯\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155742",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "마이크론 2027년 물량 75% 약정·2028년도 공급 빠듯 — '메모리 정점론' 반박, 수급 전망 직접"
+    },
+    {
+      "id": "bd594d4106",
+      "title": "현금 싸들고 메모리 줄 선 고객사...마이크론 \"2028년에도 공급 제약\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155741",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 고객사 현금 예치·의무 구매 장기계약(SCA 26건) — 메모리 공급계약 구조 변화 직접"
+    },
+    {
+      "id": "a0528d6393",
+      "title": "삼성전자, 2Q D램 시장 3분기 연속 1위…SK하이닉스·마이크론 격차 1%P",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726548",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "2Q D램 점유율 삼성 38%·SK하이닉스 25%·마이크론 24%·CXMT 10% — SK하이닉스 점유율 하락 직접 다룸"
+    },
+    {
+      "id": "c40e530e17",
+      "title": "산업부, CPTPP 제조업 간담회…'반도체·배터리' 수출효과 점검",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726504",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "산업부 CPTPP 가입 관련 반도체·배터리 업계 간담회 — 통상정책, 메모리 사업 영향은 미미"
+    },
+    {
+      "id": "97723bd381",
+      "title": "코스피, 美 고용 경계감에 하락 출발…외국인 1600억 순매도",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726517",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "코스피 장 초반 하락 시황 — 증시 기사"
+    },
+    {
+      "id": "52f4faafa3",
+      "title": "코스닥 달구는 소부장·바이오…대형주서 중소형주로 수급 확산",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726492",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "medium",
+      "reason": "코스닥 반도체 소부장주 강세 순환매 — 증시 수급 기사"
+    },
+    {
+      "id": "ec3e5c1ac5",
+      "title": "美 금리 발작에도 실적이 버팀목…코스피, 반도체 선전 기대",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726490",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "미 금리 변동 속 코스피 전망 — 증시 시황 기사"
+    }
+  ]
+}
