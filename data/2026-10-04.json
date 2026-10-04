@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-04",
+  "articles": [
+    {
+      "id": "cbb7e7bff8",
+      "title": "마이크론 \"NVHBM, 자체 베이스다이 빠져도 수익성↑\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63114",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "마이크론 엔비디아 커스텀 NVHBM·HBM4E에 파운드리 베이스다이 채택 — 경쟁사 HBM 기술·전략 직접 다룸"
+    },
+    {
+      "id": "1d9b8df728",
+      "title": "'메모리 풍향계' 마이크론 호실적… 삼성·SK 3분기 실적 '파란불'",
+      "url": "https://zdnet.co.kr/view/?no=20261002212844",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "마이크론 분기 호실적을 근거로 삼성·SK하이닉스 3분기 역대급 실적 전망 — 메모리 업황 직접 다룸"
+    },
+    {
+      "id": "367236843a",
+      "title": "넷리스트, 마이크론 HBM4 정조준…엔비디아·구글도 ITC 제소",
+      "url": "https://www.inews24.com/view/2010936",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "넷리스트, 마이크론 HBM3E·HBM4·HBM4E 특허침해 ITC 제소(엔비디아·구글 포함) — 경쟁사 HBM 사업 리스크 직접 다룸"
+    },
+    {
+      "id": "9a89e7696c",
+      "title": "SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63206",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "SK하이닉스 미국 인디애나 첨단 패키징 공장 클린룸 등 1477억 계약 — SK하이닉스 직접 언급, 다만 주 내용은 협력사 수주"
+    },
+    {
+      "id": "299185e8b2",
+      "title": "어플라이드-베시, 에픽 센터서 하이브리드 본딩 공동개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63168",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "high",
+      "reason": "어플라이드·베시 하이브리드 본딩 공동개발 — 차세대 HBM 적층 핵심 공정 장비 동향"
+    },
+    {
+      "id": "5c1eb3fc3b",
+      "title": "삼성전자 \"AI 반도체 미세화, 다시 소재로\"⋯유전체·신소재 중요성 커져",
+      "url": "https://www.inews24.com/view/2011580",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "삼성전자 'AI 반도체 미세화 한계, 유전체·신소재가 관건' — 공정 소재 기술 방향, 메모리 공정과도 연관"
+    },
+    {
+      "id": "84b845a542",
+      "title": "엔비디아, 메모리 64GB 탑재 'DGX 스파크' 이달 출시",
+      "url": "https://zdnet.co.kr/view/?no=20261003235013",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "엔비디아 DGX 스파크 파생모델 LPDDR5X 통합메모리 128→64GB 축소 — 고객사 제품의 메모리 탑재량 변화로 메모리 수요와 간접 연결"
+    },
+    {
+      "id": "f9458a6b65",
+      "title": "용인 과학축제에 펼쳐진 '반도체 도시'…삼성전자 팹 2029년 가동",
+      "url": "https://www.inews24.com/view/2011679",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "삼성전자 360조 용인 반도체 클러스터 팹 2029년 가동 — 경쟁사 생산능력 투자 일정"
+    },
+    {
+      "id": "7d04ad5278",
+      "title": "삼성전자, 엑시노스 2700 물량 10% 늘려 양산 돌입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63219",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "삼성 엑시노스 2700 파운드리 양산 물량 10% 확대 — 경쟁사 파운드리·AP 동향이나 메모리와 직접 연결은 약함"
+    },
+    {
+      "id": "c1011a0105",
+      "title": "LPKF, 90억 규모 유리기판 장비 공급 임박",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63147",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "high",
+      "reason": "LPKF 유리기판용 LIDE 장비 공급 LOI — 첨단 패키징 소부장 개별 계약"
+    },
+    {
+      "id": "fa8586a4ae",
+      "title": "한국알콜그룹, 주정 회사서 '반도체 소재 순환 밸류체인' 대전환",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63126",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "한국알콜그룹 반도체 소재 밸류체인 전환 — 소재 공급망 기업 동향, 메모리 연결은 간접적"
+    },
+    {
+      "id": "1fa336fab5",
+      "title": "무라타 전기·광학·열 통합 CPO 로드맵 공개…AI 인터커넥트 패권 정조준",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63059",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "무라타 CPO(공동패키징광학) 로드맵 — AI 데이터센터 인터커넥트·패키징 기술이나 메모리와 직접 연결 약함"
+    },
+    {
+      "id": "21db63861a",
+      "title": "아이폰18 프로 흥행…애플, 中 스마트폰 점유율 33%로 1위",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171359",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "low",
+      "reason": "아이폰18 중국 점유율 1위 기사지만 '메모리 가격 상승으로 中 스마트폰 판매 17% 감소' 언급 — 주제는 스마트폰이나 메모리 가격의 수요 영향 시사점이 있어 경계 사례"
+    },
+    {
+      "id": "656928f784",
+      "title": "[글로벌] AI칩만으론 부족하다...딥시크·화웨이, '쿠다' 대항 생태계 구축",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155782",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "딥시크·화웨이 어센드 칩용 쿠다 대항 SW 생태계 — 중국 AI 반도체 자립, 엔비디아 수요에 장기 영향"
+    },
+    {
+      "id": "a18db491cc",
+      "title": "반도체 IP 업계, 'K-온디바이스 국책 과제' 수혜 시작",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63218",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "K-온디바이스 AI 국책과제로 반도체 IP 업체 수주 — 설계 IP 업계 이야기로 메모리·공정과 거리 있음"
+    },
+    {
+      "id": "672091dd68",
+      "title": "세미파이브, 대동·모빌린트 농업 로봇용 AI 칩 설계",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63085",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "세미파이브 농업 로봇용 AI 칩 설계 수주 — 디자인하우스 개별 계약으로 메모리와 무관"
+    },
+    {
+      "id": "e532dfd59d",
+      "title": "세미파이브, 모빌린트와 로봇용 AI 반도체 개발 계약 체결",
+      "url": "https://www.inews24.com/view/2011030",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "세미파이브·모빌린트 로봇용 AI 반도체 턴키 개발 계약 — 디일렉 보도와 동일 이벤트, 메모리와 무관"
+    },
+    {
+      "id": "3bf4a34774",
+      "title": "[글로벌] 구글, AI칩 우주로 쐈다... '우주 데이터센터' 실험 본격화",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155813",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "구글 TPU 탑재 위성 발사 '우주 데이터센터' 실험 — AI 인프라 화제성 기사로 메모리 연결 미미"
+    },
+    {
+      "id": "08598fd697",
+      "title": "글로벌D램 [이주의 상장ETF]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171365",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "medium",
+      "reason": "글로벌 D램 ETF 상장 소개 — 금융상품 정보로 기술·사업 내용은 없음"
+    },
+    {
+      "id": "df8eafe901",
+      "title": "한국 경제 '삼중위기' 돌파할 산업 AI 전환...열쇠는 '분산형 AI'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155795",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "분산형 AI 산업 전환 보고서 — 정책·경제 담론으로 반도체 직접 내용 없음"
+    },
+    {
+      "id": "04886597d4",
+      "title": "영주시, 베어링·경량소재 산업 키운다…국가산단 기업 유치 나서",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171382",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "영주시 베어링·경량소재 산단 기업유치 — SK스페셜티 언급만 있을 뿐 무관"
+    },
+    {
+      "id": "d89ee56a08",
+      "title": "[기자수첩] 5000억 '디스플레이 팹'이 제 값을 하려면",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62707",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "디스플레이 혁신공정센터 운영 지속성 기자수첩 — 디스플레이 분야로 무관"
+    },
+    {
+      "id": "9ac62c27b4",
+      "title": "한중엔시에스, 산업부 '월드클래스 플러스' 선정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63184",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "ESS 냉각 시스템 개발 과제 선정 — 반도체와 무관"
+    },
+    {
+      "id": "6cef0fe542",
+      "title": "몽고DB, '아틀라스 에이전트 엔진' 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63115",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "몽고DB AI 에이전트 플랫폼 — '메모리'가 소프트웨어 의미로 걸린 노이즈"
+    }
+  ]
+}
