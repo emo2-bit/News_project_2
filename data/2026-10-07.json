@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-07",
+  "articles": [
+    {
+      "id": "a2b56de6fb",
+      "title": "삼성 DS 수억대 성과급, 내년 3월 말 자사주로 지급…'주총 변수'는 남았다",
+      "url": "https://www.etnews.com/20261007000386",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "삼성 DS 성과급 자사주 지급 — 경쟁사 보상·인재 유지 이슈로 업계 인력 경쟁엔 간접 영향 있으나 기술·사업 내용은 없어 관련성 판단이 애매함"
+    },
+    {
+      "id": "aec7cb4162",
+      "title": "리사 수 AMD 회장 “'한국 AI 연구센터' 연내 설립…연구원 수백명 채용”",
+      "url": "https://www.etnews.com/20261007000261",
+      "source": "전자신문",
+      "category": "other",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "AMD 한국 AI 연구센터 설립 — HBM 고객사의 국내 투자지만 메모리 사업과 직접 연결은 명시되지 않음"
+    },
+    {
+      "id": "dc051e71e6",
+      "title": "젠스파크 \"AI는 도구 아닌 팀원…궁극적 목표는 'AI 운영 회사'\"",
+      "url": "https://zdnet.co.kr/view/?no=20261007151457",
+      "source": "ZDNet Korea",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "AI 에이전트 스타트업 조직 전략 — '메모리'는 AI 에이전트 기능 의미로 반도체와 무관"
+    },
+    {
+      "id": "70bdab5bf6",
+      "title": "\"서버 구축부터 추론까지\"…망고부스트, AI 풀스택 생태계 확장",
+      "url": "https://zdnet.co.kr/view/?no=20261007135055",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "망고부스트 DPU·AI 서버 풀스택 — AI 인프라 일반, 메모리·공정과 연결 약함"
+    },
+    {
+      "id": "b90e612f2f",
+      "title": "지멘스-TSMC, 반도체 설계에 에이전틱 AI 적용",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63389",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "지멘스-TSMC 에이전틱 AI 기반 EDA(DRC) 자동화 — 파운드리 설계 생태계, 메모리와는 간접"
+    },
+    {
+      "id": "dd2e3c631b",
+      "title": "어플라이드-인텔, 차세대 반도체 제조 기술 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63388",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "어플라이드-인텔 EPIC 센터 FEOL·BEOL·패키징 공동 R&D — 핵심 장비사 공정기술 동향"
+    },
+    {
+      "id": "7e3c85a07c",
+      "title": "보스반도체, 미라이즈테크놀로지와 차량용 칩렛 기술 개발 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63384",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "보스반도체 차량용 칩렛 연결기술 협력 — 차량 SoC 분야로 메모리와 거리 멂"
+    },
+    {
+      "id": "df2398e701",
+      "title": "넥스틴, SK하이닉스에 검사장비 공급...254.4억 규모",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63317",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "넥스틴, SK하이닉스에 254억원 규모 전공정 웨이퍼 검사장비 공급 — SK하이닉스 직접 언급 공급망 계약"
+    },
+    {
+      "id": "683478a39c",
+      "title": "12시간을 분 단위 단축…제이앤티씨, 유리기판 충진기술 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63298",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "제이앤티씨 유리기판 TGV 구리 충진 시간 단축·양산 공급 — 차세대 패키징 기판 소재 기술"
+    },
+    {
+      "id": "204711008d",
+      "title": "헨켈, HBM 등 첨단 패키징 소재 한자리에 소개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63275",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "헨켈 HBM·첨단 패키징용 언더필·몰딩 소재 공개 — HBM 후공정 소재 공급망"
+    },
+    {
+      "id": "d782ae03ef",
+      "title": "마이크로칩-나비타스, AI 서버 800V 전력 레퍼런스 디자인 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63297",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "AI 서버 800V 전력변환 레퍼런스 디자인 — 전력반도체 영역으로 메모리와 무관"
+    },
+    {
+      "id": "008c23ea76",
+      "title": "두산로보틱스, 피지컬 AI 협동로봇 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63268",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "두산로보틱스 피지컬 AI 협동로봇 국책과제 — 로봇 사업으로 반도체 키워드만 걸림"
+    },
+    {
+      "id": "af89cc1ca0",
+      "title": "美 나스닥, 금리부담 넘어 연일 사상 최고… AI 랠리 어디까지",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171546",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "나스닥 사상 최고치 증시 시황 — 반도체 수요 언급은 배경 수준"
+    },
+    {
+      "id": "c3f83c0bf7",
+      "title": "마이크론, 넷리스트에 6억달러 지급 합의…특허 분쟁 매듭",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171534",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "마이크론, HBM 포함 넷리스트 특허 라이선스로 6억달러 지급 합의 — 경쟁사 메모리 IP 분쟁 종결"
+    },
+    {
+      "id": "859cbd49cb",
+      "title": "삼성전자 3Q 영업익, 전년比 9배 전망…‘반도체 마진 정점’ 우려도",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171526",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "삼성전자 3Q 영업익 9배 전망·'메모리 마진 정점' 우려 — 경쟁사 실적과 메모리 가격 사이클 직접 다룸"
+    },
+    {
+      "id": "853a99b5c0",
+      "title": "정부·AMD, AI 연구센터 연내 설립…국산 반도체 협력 확대",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171496",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "정부·AMD 이기종 컴퓨팅 인프라·AI 연구센터 — AI 반도체 정책, 메모리와는 간접"
+    },
+    {
+      "id": "15aa17f1c2",
+      "title": "국감 나온 삼성전자 노조위원장…성과급 형평성·회계 의혹 집중 질의 [국감2026]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171523",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "국감 삼성전자 노조위원장 성과급·노조 운영 질의 — 노사 이슈로 기술·사업과 무관"
+    },
+    {
+      "id": "507c27f6ef",
+      "title": "광주 반도체 2030년 양산 목표…공장 부지·기반시설 가능할까",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171484",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "광주 반도체 클러스터 2030 양산 목표·부지 과제 — SK하이닉스 투자처지만 인프라·정책 중심"
+    },
+    {
+      "id": "d9be33b290",
+      "title": "‘車’에서 ‘IT’로…AI가 삼킨 반도체 대란 [칩플레이션①]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171470",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "AI 데이터센터 웨이퍼 쏠림발 '칩플레이션' 전방산업 확산 — 메모리 가격 상승 영향 간접 다룸"
+    },
+    {
+      "id": "dbeeda8109",
+      "title": "삼성전자 HBM, 내년 &apos;1위&apos; 올라서나…10월 가격 협상도 주도",
+      "url": "https://www.inews24.com/view/2012406",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "삼성전자 HBM 내년 가격·출하량 동시 확대로 1위 가능성, 10월 가격협상 주도 — SK하이닉스 HBM 경쟁 구도 직결"
+    },
+    {
+      "id": "e86301648e",
+      "title": "어플라이드-인텔, EPIC서 반도체 협력 확대…3D 패키징도 공동개발",
+      "url": "https://www.inews24.com/view/2012494",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "어플라이드-인텔 EPIC 협력, 3D 패키징 공동개발 — 장비사 공정·패키징 기술 동향"
+    },
+    {
+      "id": "b7ea57f41e",
+      "title": "과기정통부, AMD와 국산 AI 반도체 협력 확대…14개사 글로벌 진출 지원",
+      "url": "https://www.inews24.com/view/2012529",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "high",
+      "reason": "과기정통부-AMD 국산 AI 반도체 14개사 협력 — NPU 생태계 정책, 메모리와 간접"
+    },
+    {
+      "id": "b68a070aa0",
+      "title": "LG이노텍, 美서 HBM 적용 패키지 특허 공개…AI 기판 IP 넓힌다",
+      "url": "https://www.inews24.com/view/2012216",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "LG이노텍 HBM·인터포저 적용 반도체 패키지 특허 공개 — 기판사 HBM 패키징 진입 가능성, 실사업 연결은 불확실"
+    },
+    {
+      "id": "87fffadd3e",
+      "title": "리사 수 AMD CEO 7개월 만에 방한…韓 NPU·게이밍과 협력 확대",
+      "url": "https://www.inews24.com/view/2012135",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "high",
+      "reason": "리사 수 AMD CEO 방한, 국산 NPU 협력 — AI 반도체 생태계 동향"
+    },
+    {
+      "id": "df576296d0",
+      "title": "전남광주시, 삼성 평택 두 번째 방문…전력·용수가 호남 반도체 변수",
+      "url": "https://www.inews24.com/view/2012094",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "호남권 반도체 클러스터 전력·용수 과제 — 삼성·SK하이닉스 참여 클러스터 인프라 이슈"
+    },
+    {
+      "id": "70e0e11d5d",
+      "title": "엔비디아 &apos;그록 우회 인수&apos; 소송전…주주들 &quot;수십억달러 손실&quot;",
+      "url": "https://www.inews24.com/view/2012066",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "엔비디아-그록 라이선스 계약 주주 소송 — 법적 분쟁으로 메모리 수요와 무관"
+    },
+    {
+      "id": "b3e8d8acd3",
+      "title": "헨켈, 반도체대전서 AI·HBM용 첨단 패키징 소재 선봬",
+      "url": "https://www.inews24.com/view/2012053",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 63,
+      "confidence": "high",
+      "reason": "헨켈 AI·HBM용 패키징 소재(열·휨 제어) 소개 — HBM 후공정 소재 공급망"
+    },
+    {
+      "id": "8dc2edcd71",
+      "title": "한미반도체, 삼성전기서 245억 장비 수주…첫 대형 발주",
+      "url": "https://www.inews24.com/view/2011908",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "한미반도체, 삼성전기서 245억 후공정 장비 수주 — SK하이닉스 TC본더 공급사의 고객 다변화, 메모리와 연결은 간접"
+    },
+    {
+      "id": "5643300062",
+      "title": "AMD 리사 수 방한…한국에 'AI 연구센터' 세우고 수백명 채용한다",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675145",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "AMD 리사 수 방한, 한국 AI 연구센터·이기종 컴퓨팅 — AI 반도체 생태계 정책"
+    },
+    {
+      "id": "943a0d80ea",
+      "title": "'책임경영' 곽동신 한미반도체 회장, 지분 추가 매입…올해만 167억",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675162",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 22,
+      "confidence": "high",
+      "reason": "한미반도체 회장 자사주 매입 — 지분 변동 동정 기사"
+    },
+    {
+      "id": "13dd4e1405",
+      "title": "[국감 26] 배경훈 \"AIDC·피지컬AI·반도체 집중 지원...'모두의 AI' 연내 출시\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155857",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "과기정통부 장관 국감 AIDC·피지컬AI·반도체 지원 — 정책 총론으로 반도체 구체 내용 부족"
+    },
+    {
+      "id": "d6cf75aab5",
+      "title": "[초격차 수호⑤] 中 뒤엔 국가가 있다…K-반도체는 '각자도생'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727013",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "중국 메모리 업체 국가지원 속 K-반도체 기술·인재 유출 위협 — 메모리 경쟁 구도 기획기사"
+    },
+    {
+      "id": "2967eb5898",
+      "title": "삼성전자, 8일 '실적보다 수급' 변수…ETF·옵션·자사주 겹친다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727028",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "삼성전자 실적발표일 ETF 리밸런싱·옵션 수급 — 증시 수급 분석"
+    },
+    {
+      "id": "fc11fe2bae",
+      "title": "[운용 & Now] 신한자산운용, 글로벌 메모리·장비 투자 ETF 신규 상장",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727015",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "글로벌 메모리 ETF 신규 상장 — 금융상품 소개"
+    },
+    {
+      "id": "fc3f694d10",
+      "title": "[서학개미 안테나] 서학개미 美주식 보유액 2000억달러 재돌파…한 달간 가장 많이 산 종목은 'SOXL'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726984",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "서학개미 미국주식 보유액·SOXL 매수 — 투자 동향"
+    }
+  ]
+}
