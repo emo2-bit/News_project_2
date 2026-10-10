@@ -1,0 +1,515 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "id": "0c39ddfde6",
+      "title": "광주 부지 찾은 SK그룹 최태원 회장, “호남권 반도체 클러스터 속도감 있게”",
+      "url": "https://www.etnews.com/20261009000054",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "SK하이닉스 경영진 동행, 호남권 신규 팹 클러스터 추진 — 생산능력 확대 직결"
+    },
+    {
+      "id": "60fe627296",
+      "title": "엔비디아 넘어선 '분기 영업익 100조' 삼성전자…내년 전망도 밝은데 주가만 반대로 간다",
+      "url": "https://www.etnews.com/20261009000007",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "경쟁사 삼성전자 3Q 영업익 107조, AI발 메모리 호황과 내년 전망"
+    },
+    {
+      "id": "a075bba23d",
+      "title": "100달러 비싸진 아이폰18프로, 수요부진 논쟁 붙었다",
+      "url": "https://zdnet.co.kr/view/?no=20261010081310",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "메모리 가격 상승이 아이폰 가격·부품 주문에 미친 영향 — 전방 수요 간접 지표"
+    },
+    {
+      "id": "030ee5c325",
+      "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진",
+      "url": "https://zdnet.co.kr/view/?no=20261009223603",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "EDA 기업 시놉시스의 중국 AI 협력 — 설계 생태계 이슈로 메모리와 간접적"
+    },
+    {
+      "id": "1b54994958",
+      "title": "[기경학회 기후&에너지 칼럼] 전력수급기본계획은 왜 빗나갈까",
+      "url": "https://zdnet.co.kr/view/?no=20261009223352",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "전력수급계획 칼럼, 반도체는 전력수요 배경으로만 언급"
+    },
+    {
+      "id": "665e45d0d6",
+      "title": "최태원 \"호남 반도체 팹, 용인 3분의 2 규모 검토...속도감 있게 추진\"",
+      "url": "https://zdnet.co.kr/view/?no=20261009163220",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "최태원 '광주 팹 용인 3분의 2 규모 검토' — SK하이닉스 신규 생산기지 규모 언급"
+    },
+    {
+      "id": "ec1e9c9976",
+      "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향",
+      "url": "https://zdnet.co.kr/view/?no=20261009114316",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "메모리 가격 급등으로 삼성 스마트폰 출하 목표 하향 — 수요 위축 신호"
+    },
+    {
+      "id": "8ab36cb835",
+      "title": "광주 간 최태원 \"용수 전력 늦어도 착공\"... 美시설 반환이 변수",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63512",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "SK하이닉스 광주 클러스터 착공 방침과 미군 시설 반환 변수"
+    },
+    {
+      "id": "4b37f507db",
+      "title": "비씨엔씨, 램리서치 디자인권 침해 소송 사실상 패소",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63501",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "램리서치 식각용 엣지링 디자인권 소송 — 식각 부품 공급망 이슈"
+    },
+    {
+      "id": "abe80133c4",
+      "title": "테라뷰, 유리기판 TGV 검사장비 기술 검증 본격화",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63474",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "유리기판 TGV 검사장비 PoC — 차세대 패키징 소부장, 메모리 연결은 간접적"
+    },
+    {
+      "id": "c59961f317",
+      "title": "반도체 세정장비에 AI 심는다…미스릴, S사와 제품화 계약",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63448",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "세정장비 AI 적용 계약 — 공정 장비 개별 계약, 고객사 불명"
+    },
+    {
+      "id": "be4877ba1e",
+      "title": "램리서치, 국내서 반도체 장비용 챔버 1만5000호기 출하",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63460",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "램리서치 국내 챔버 1만5000호기 출하 — 식각·증착 장비 공급망"
+    },
+    {
+      "id": "d5102a18d4",
+      "title": "전력반도체 업계, 데이터센터 전력공급장치 효율 높여서 대응",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63444",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "데이터센터 전력반도체 효율 연구 — 메모리·공정과 거리 있음"
+    },
+    {
+      "id": "ba9ffd6a4d",
+      "title": "전력반도체 생태계 구축에 산학연 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63437",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "전력반도체 산학연 MOU — 메모리 사업과 무관"
+    },
+    {
+      "id": "2cb4b520ca",
+      "title": "미쓰도요, 독일 드레스덴에 반도체 계측센터 개소",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63430",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "미쓰도요 유럽 계측센터 — 계측 공급망이지만 국내 메모리와 연결 약함"
+    },
+    {
+      "id": "c5cd4d7a17",
+      "title": "전기먹는 하마 데이터센터…SiC·GaN 전력반도체 역할 부각",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63426",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "SiC·GaN 전력반도체 — 메모리 직무 관점과 무관"
+    },
+    {
+      "id": "f09b737619",
+      "title": "리사 수 \"한국과 3~5년 중장기 파트너십 구축\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63420",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "AMD CEO, 삼성·SK하이닉스와 3~5년 중장기 메모리 협력 언급"
+    },
+    {
+      "id": "e30a307956",
+      "title": "갤럭시북6·그램북으로 만나는 최신 보급형 CPU ‘와일드캣 레이크’ [권용만의 긱랩]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171699",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "보급형 노트북 CPU 리뷰, 메모리 가격은 배경 언급"
+    },
+    {
+      "id": "44047a4625",
+      "title": "같은 삼전인데 메모리 12억, 폰 0원? 내후년 성과급 격차 ‘넘사벽’",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171695",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "삼성 메모리 vs MX 성과급 격차 — 메모리 호황의 파급이나 인사 이슈 중심"
+    },
+    {
+      "id": "52ceb4b98a",
+      "title": "최태원, 광주 반도체 부지 첫 방문…“전력·용수 늦어도 먼저 착공”",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171744",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "최태원 광주 부지 첫 방문, 전력·용수 늦어도 선착공 — SK하이닉스 팹 계획"
+    },
+    {
+      "id": "ba000129f5",
+      "title": "리사 수 이어 매디슨 황도 방한…넓어지는 AI 협력",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171626",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "medium",
+      "reason": "AMD·엔비디아 경영진 연쇄 방한, SK하이닉스 HBM 공급 협력 맥락"
+    },
+    {
+      "id": "7fc3a54d89",
+      "title": "엔비디아 HBM4 &apos;8단 축소설&apos;에 반론…삼성·SK하이닉스 호황 지속 전망",
+      "url": "https://www.inews24.com/view/2013343",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "엔비디아 HBM4 8단 축소설 반론 — SK하이닉스 HBM 수요 직결"
+    },
+    {
+      "id": "16bd13ee9e",
+      "title": "TSMC, 3분기 매출 62.7조원 &apos;사상 최대&apos;…시장 전망치 웃돌아",
+      "url": "https://www.inews24.com/view/2013226",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "TSMC 3Q 사상 최대 매출 — AI 반도체 수요 지표, 파운드리"
+    },
+    {
+      "id": "49e920933f",
+      "title": "케이블TV 업계, 이재명 대통령에 공개서한…&quot;지역미디어에 관심 가져달라&quot;",
+      "url": "https://www.inews24.com/view/2013152",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "케이블TV 정책 이슈, 반도체 무관"
+    },
+    {
+      "id": "b9d07c294e",
+      "title": "램리서치 팀 아처 CEO &quot;韓 반도체 협력 더 강화&quot;…전용펀드 출범",
+      "url": "https://www.inews24.com/view/2013090",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "램리서치 한국 협력 강화·스타트업 펀드 — 식각 장비 공급망"
+    },
+    {
+      "id": "988c31b69e",
+      "title": "SK하이닉스, AI 환경연구소 설립…최태원 &quot;반도체 친환경 전환 앞장&quot;",
+      "url": "https://www.inews24.com/view/2013049",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "SK하이닉스 AI 환경연구소 설립 추진 — 반도체 생산 친환경 전환"
+    },
+    {
+      "id": "2c58889186",
+      "title": "정보 저장되는 &apos;찰나&apos;…무슨 일이 일어날까 [지금은 과학]",
+      "url": "https://www.inews24.com/view/2013036",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "low",
+      "reason": "KAIST 차세대 메모리 소재 저장 메커니즘 연구 — 기초연구라 양산 기술과의 연결 판단 어려움"
+    },
+    {
+      "id": "61e9a24262",
+      "title": "AMD 리사 수, 삼성서 3시간16분…전영현과 &apos;AI 동맹&apos; 확대 논의[종합]",
+      "url": "https://www.inews24.com/view/2012923",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "AMD-삼성 HBM 중심 협력을 파운드리로 확대 논의 — 경쟁사 HBM 고객 관계"
+    },
+    {
+      "id": "5d4129a989",
+      "title": "AMD 리사 수, 전영현과 재회…삼성전자와 AI 반도체 협력 논의",
+      "url": "https://www.inews24.com/view/2012864",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "medium",
+      "reason": "리사 수-전영현 회동 예고 기사, 같은 이벤트의 선행 보도"
+    },
+    {
+      "id": "dbeeda8109",
+      "title": "삼성전자 HBM, 내년 &apos;1위&apos; 올라서나…10월 가격 협상도 주도",
+      "url": "https://www.inews24.com/view/2012406",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "삼성 HBM 내년 1위 전망, 10월 가격 협상 주도 — SK하이닉스 HBM 점유율 직결"
+    },
+    {
+      "id": "e86301648e",
+      "title": "어플라이드-인텔, EPIC서 반도체 협력 확대…3D 패키징도 공동개발",
+      "url": "https://www.inews24.com/view/2012494",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "어플라이드-인텔 FEOL·배선·3D 패키징 공동개발 — 공정 기술 동향"
+    },
+    {
+      "id": "b7ea57f41e",
+      "title": "과기정통부, AMD와 국산 AI 반도체 협력 확대…14개사 글로벌 진출 지원",
+      "url": "https://www.inews24.com/view/2012529",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "과기정통부-AMD 국산 AI 반도체 협력 — NPU 생태계 정책, 메모리와 간접"
+    },
+    {
+      "id": "dd17eb9f4a",
+      "title": "최태원 SK 회장 \"광주 공장 최대한 빨리 짓겠다\"…용인과 병행 검토",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675377",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "최태원 광주 공장 조기 건설, 용인과 병행 검토 — SK하이닉스 캐파 확대"
+    },
+    {
+      "id": "010afa6524",
+      "title": "나라스페이스 위성, 누리호와 양방향 교신…우주용 반도체 성능 시험",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675359",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "우주용 반도체 위성 교신 — 무관"
+    },
+    {
+      "id": "72e72d4217",
+      "title": "비투엔, 앤씨앤 인수 마무리…넥스트칩과 반도체 시너지 기대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675350",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "비투엔 지분 인수, 차량용 영상 반도체 — 무관"
+    },
+    {
+      "id": "2be9e0707f",
+      "title": "로보테크닉 홍콩 상장…성호전자, '광통신·반도체' 밸류체인 부각",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675356",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "광통신 장비 상장 관련 증시 기사 — 무관"
+    },
+    {
+      "id": "4ee78c8fcf",
+      "title": "다이나믹솔루션, 기업부설연구소 인정서 취득…울산 신공장 연계 R&D·사업화 가속",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675277",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "실리카슬러리 무기소재 연구소 — 주 용도가 CCL 필러로 공정 소재 연결 약함"
+    },
+    {
+      "id": "2922e1529e",
+      "title": "삼성전자, DS 힘입어 신기록 달성했지만…DX 수익성 회복은 ‘과제’",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675261",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성 DS 110조 영업익 추산, HBM 공급 확대·메모리 단가 상승"
+    },
+    {
+      "id": "7d3ee0ed9d",
+      "title": "광주 찾은 최태원 SK그룹 회장 \"호남 반도체 클러스터 최대한 빨리 건설\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155962",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "최태원 광주 부지 방문 — SK하이닉스 호남 클러스터"
+    },
+    {
+      "id": "5a2357dca8",
+      "title": "델, 엔비디아 RTX 스파크 탑재 'XPS 16' 공개...노트북서 AI 모델 직접 구동",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155945",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "엔비디아 칩 탑재 노트북 출시 — 제품 소개"
+    },
+    {
+      "id": "ab22b0b7b7",
+      "title": "'분기 영업익 100조' 새 역사 쓴 삼성전자…AI 메모리로 세계 기록 갈아치웠다(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155934",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "삼성 분기 영업익 100조 종합 — HBM·범용 D램·낸드 동반 수요"
+    },
+    {
+      "id": "0b69b5133a",
+      "title": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직",
+      "url": "https://www.hankyung.com/article/202610080150g",
+      "source": "한국경제",
+      "category": "other",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "반도체 경력직 채용 시장 기사, 본문 없음 — 업계 인력 이슈인지 단순 채용 동정인지 판단 어려움"
+    },
+    {
+      "id": "f61db006e7",
+      "title": "[EBN 오늘(9일) 이슈 종합] 최태원 \"전력·용수 늦어져도 먼저 착공\"…호남 반도체 산단 '속도전' 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727286",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "medium",
+      "reason": "EBN 일일 이슈 종합 — 최태원 광주·SK하이닉스 수익성 포함, 개별 기사 중복"
+    },
+    {
+      "id": "0fa464ebd9",
+      "title": "\"삼전닉스처럼 성과급 달라\"…마이크론 대만 노조 99% 파업 찬성",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727285",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "마이크론 대만 노조 파업권 확보 — 경쟁사 생산 차질 가능성"
+    },
+    {
+      "id": "2d93d4f5cf",
+      "title": "\"12년 앞당겨도 부족\"…최태원, 광주 찾아 '용인과 병행 건설' 시사",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727284",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "최태원 '12년 앞당겨도 부족' 용인·광주 병행 건설 시사"
+    },
+    {
+      "id": "1ca739bb17",
+      "title": "\"팔면 80% 남는다\"…HBM 날개 단 SK하이닉스, 역대급 수익성 예고",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727276",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "SK하이닉스 3Q 영업이익률 80% 육박 전망, 28~29일 실적 발표"
+    },
+    {
+      "id": "cc9370364b",
+      "title": "SK하이닉스 솔리다임, 美 상장 본격화…'13조 조달' 기대 속 주주가치 훼손 우려",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727270",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 자회사 솔리다임 美 IPO 주관사 선정 — eSSD 수요·낸드 사업"
+    },
+    {
+      "id": "c0f634d19e",
+      "title": "AI가 키운 반도체 호황…TSMC·마이크론·中 '총공세'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727261",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "TSMC·마이크론·중국 메모리 추격 — 마이크론-SK하이닉스 D램 격차 축소"
+    },
+    {
+      "id": "6f43339b48",
+      "title": "AI 거품론에 美 반도체주 급락…韓日 증시 '먹구름'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727254",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "AI 거품론에 반도체주 급락 — 증시 시황 중심"
+    },
+    {
+      "id": "92925ebdd3",
+      "title": "케이블TV, 방발기금 취소소송…\"징수율 동결 부당\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727222",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "케이블TV 방발기금 소송 — 무관"
+    },
+    {
+      "id": "75b8dbf36c",
+      "title": "최태원 SK 회장, 9일 호남 반도체 클러스터 부지 첫 방문…투자 계획 점검",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727250",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "최태원 광주 부지 방문 예고 — 같은 이벤트 선행 보도"
+    }
+  ]
+}
