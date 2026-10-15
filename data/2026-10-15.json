@@ -1,0 +1,535 @@
+{
+  "date": "2026-10-15",
+  "articles": [
+    {
+      "id": "b2e33677aa",
+      "title": "안현 SK하이닉스 사장 \"HBF 최종 규격 내년 1월 확정\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63687",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "안현 SK하이닉스 사장, OCP HBF 최종 규격 내년 1월 확정 — 자사 차세대 AI 메모리 로드맵"
+    },
+    {
+      "id": "41538f933a",
+      "title": "안현 SK하이닉스 사장 \"3D 적층 D램·HBF로 AI 메모리 병목 해결\"",
+      "url": "https://www.inews24.com/view/2014896",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "안현 SK하이닉스 사장 SEDEX 기조연설 — 3D 적층 D램·HBF로 AI 메모리 병목 해결"
+    },
+    {
+      "id": "6b735f137d",
+      "title": "낸드가 AI 연산...SK하이닉스, 3D FeNAND A-CiM 연구 성과 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63722",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "SK하이닉스, 3D FeNAND 기반 아날로그 CiM 연구 성과 IEEE 발표 — 자사 차세대 낸드 기술"
+    },
+    {
+      "id": "68aa093594",
+      "title": "中 창신메모리 ‘4F²’ 기술 도입에 삼성전자도 “개발 중”",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172048",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성 송재혁 CTO, CXMT 이어 4F² D램 개발 중 확인 — 차세대 D램 셀 구조 경쟁"
+    },
+    {
+      "id": "eab4d97d0d",
+      "title": "中이 띄운 차세대 D램 '4F²'…삼성도 개발하냐는 질문에 송재혁 \"그렇다\"",
+      "url": "https://www.inews24.com/view/2015041",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성 송재혁 CTO 4F² D램 개발 확인 — 차세대 D램 셀 구조 경쟁 (IT조선과 동일 이벤트)"
+    },
+    {
+      "id": "c214d50437",
+      "title": "삼성·SK, HBM4E 앞세워 AI 메모리 기술 경쟁…반도체대전 개막",
+      "url": "https://www.inews24.com/view/2014912",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성·SK, SEDEX서 HBM4E 나란히 공개 — HBM 차세대 제품 경쟁"
+    },
+    {
+      "id": "d569e6b7d7",
+      "title": "中 YMTC, IPO로 삼성·SK 추격 가속…낸드 출하량 세계 3위",
+      "url": "https://www.inews24.com/view/2015173",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "中 YMTC 낸드 출하량 세계 3위·IPO 추진 — 낸드 경쟁사 추격"
+    },
+    {
+      "id": "bbd118cf12",
+      "title": "'광주·용인' 동시 건설 검토에 솔리다임 상장까지…바빠진 SK하이닉스",
+      "url": "https://www.inews24.com/view/2014389",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "SK하이닉스 광주·용인 동시 건설 검토·솔리다임 상장 — 자사 투자 전략 (전일 보도 재수집)"
+    },
+    {
+      "id": "25877c439b",
+      "title": "삼성전자 \"차세대 메모리 핵심은 속도·확장·영속\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63658",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "삼성전자 OCP 차세대 메모리 3대 전략(HBM5·커스텀 HBM·zHBM·PIM) — 경쟁사 메모리 로드맵 (전일 보도 재수집)"
+    },
+    {
+      "id": "2c238f7e15",
+      "title": "삼성전자, SEDEX서 용인 반도체 청사진 공개…HBM4E도 선봬",
+      "url": "https://www.inews24.com/view/2014785",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "삼성전자 SEDEX서 HBM4E·용인 청사진 공개 — 경쟁사 메모리 제품·투자 (전일 보도 재수집)"
+    },
+    {
+      "id": "9ecad276c4",
+      "title": "AMD 차세대 서버 CPU에 LPDDR5X…저전력 D램 수요 확대",
+      "url": "https://www.inews24.com/view/2014681",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 74,
+      "confidence": "high",
+      "reason": "AMD 에픽 베라노에 LPDDR5X 적용 — 서버용 저전력 D램 수요 확대 (전일 보도 재수집)"
+    },
+    {
+      "id": "8a10c3d4e1",
+      "title": "AMD, 6세대 에픽 '베라노' 실물 첫 공개…내년 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63665",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "AMD 에픽 베라노, 업계 최초 SOCAMM2 채택 — 서버용 저전력 D램 모듈 수요"
+    },
+    {
+      "id": "ffe4b58276",
+      "title": "한미반도체, 美 세미콘 웨스트서 HBM4·2.5D 패키징 장비 공개",
+      "url": "https://www.inews24.com/view/2014903",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "한미반도체, 세미콘 웨스트서 HBM4 TC 본더·2.5D 패키징 장비 공개 — HBM 후공정 장비 (전일 유사 보도)"
+    },
+    {
+      "id": "0d0eb9afec",
+      "title": "ASML \"2028년까지 반도체 장비 공급 부족\"…韓 최대 시장",
+      "url": "https://www.inews24.com/view/2015064",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "high",
+      "reason": "ASML 3분기 사상 최대 매출, 2028년까지 장비 공급 부족 전망·한국 최대 시장 — 노광장비 공급망"
+    },
+    {
+      "id": "ea57b8a70a",
+      "title": "삼성전자, 반도체 협력사에 “AI로 장비 고장·오류 사전 대응” 주문...장비업계 기술 전략 바뀌나",
+      "url": "https://www.etnews.com/20261014000307",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "high",
+      "reason": "삼성전자, 장비 5대사에 AI 기반 장비 고장 예측 적용 주문 — 경쟁사 공정 운영 전략"
+    },
+    {
+      "id": "1bd0a8bd64",
+      "title": "ASML, AI 반도체 장비 수요 호조에 증산 확대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675725",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "high",
+      "reason": "ASML, 고객사 2029~2030년 장비 주문 검토·2028 생산능력 추가 증설 검토 — 장비 공급망"
+    },
+    {
+      "id": "afd5c19b22",
+      "title": "'갑 같은 을' ASML 3분기 영업이익률 40% 돌파...\"장비 공급 부족 지속\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156095",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 64,
+      "confidence": "high",
+      "reason": "ASML 3분기 영업이익률 40% 돌파, 장비 공급 부족 지속 — 노광장비 실적"
+    },
+    {
+      "id": "80fdeba942",
+      "title": "반도체산업협회, 15일 JEDEC 포럼 개최...차세대 메모리 기술 소개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63659",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 63,
+      "confidence": "medium",
+      "reason": "반도체산업협회 JEDEC 포럼 개최 예고 — 삼성·SK 참여 AI 메모리 표준 행사, 행사 안내 수준"
+    },
+    {
+      "id": "b232e00cde",
+      "title": "광학엔진, 기판에서 인터포저로...엔비디아 차세대 CPO 기술 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63707",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "엔비디아, 광학엔진을 인터포저 위에 올리는 CPO 기술 공개 — 첨단 패키징, HBM 집적 구조와 간접 연관"
+    },
+    {
+      "id": "4a3f3a6049",
+      "title": "인텔·마이크론, 대만 소부장에 미국 투자 손짓",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63646",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "인텔·마이크론, 대만 소부장에 미국 투자 요청 — 마이크론 D램 미국 재배치 공급망 (전일 보도 재수집)"
+    },
+    {
+      "id": "fc884a3884",
+      "title": "어플라이드 \"2030년까지 시장 점유율 2%포인트 확대\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63705",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "어플라이드, 2030년 WFE 점유율 2%p 확대 목표 — D램·첨단 패키징 장비 시장 성장 전망"
+    },
+    {
+      "id": "fcb352830a",
+      "title": "메모리값 상승에 저가폰 '직격탄'…2030년 출하량 40%↓",
+      "url": "https://www.inews24.com/view/2014368",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "메모리값 상승에 저가폰 출하 2030년 40% 감소 전망 — 메모리 가격의 수요 영향 (전일 보도 재수집)"
+    },
+    {
+      "id": "1ba44ee2b4",
+      "title": "아짓 마노차 SEMI 회장 \"반도체 시장 2035년 3조달러 가능\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63666",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "high",
+      "reason": "SEMI 회장, 반도체 시장 2035년 3조달러 전망 — 업황 지표 (전일 보도 재수집)"
+    },
+    {
+      "id": "6cd5033abc",
+      "title": "[세미콘 웨스트 2026]엔비디아·지멘스, 차세대 AI 칩 노광 연산 최대 12배 가속… '칼리버·큐리소' 결합",
+      "url": "https://www.etnews.com/20261015000001",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "엔비디아·지멘스, 전산 리소그래피 연산 12배 가속 — 노광 공정 기술, 주로 로직 대상"
+    },
+    {
+      "id": "931464d60b",
+      "title": "어플라이드 머티어리얼즈, 세계 최대 R&D 센터 설립",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63655",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "어플라이드 50억달러 EPIC R&D 센터 — 공정 장비 공동개발 인프라 (전일 보도 재수집)"
+    },
+    {
+      "id": "9765af12a1",
+      "title": "SK하닉 'HBM' 보는 삼성 사장…에이직랜드의 TSMC 발언도 경청",
+      "url": "https://www.inews24.com/view/2015127",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 55,
+      "confidence": "low",
+      "reason": "삼성 사장이 SEDEX에서 SK하이닉스 HBM 부스 관람 — 현장 스케치(인물 동정)인지 경쟁 동향인지 경계"
+    },
+    {
+      "id": "bc1f6026b5",
+      "title": "파두, 파일 직접 처리하는 'FS-SSD' 첫 공개…AI 데이터센터 공략",
+      "url": "https://www.inews24.com/view/2015179",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "파두, 파일 직접 처리 FS-SSD 공개 — SSD 컨트롤러 기술, 낸드 응용처로 간접 연관"
+    },
+    {
+      "id": "a09a414b16",
+      "title": "칩에 독립선언문 새긴 美…메모리부터 소재까지 '메이드 인 USA'",
+      "url": "https://www.hankyung.com/article/202610140802i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "美 메모리부터 소재까지 '메이드 인 USA' — 제목상 미국 반도체 자국화, 본문 없음"
+    },
+    {
+      "id": "9264debf80",
+      "title": "엑시나, 퀄컴 출신 신임 CBO 영입...MX1 상용화 속도",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63743",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "엑시나 CXL 연산 메모리 MX1 사업 확대 위한 임원 영입 — CXL 메모리 생태계, 인물 동정 성격"
+    },
+    {
+      "id": "e9aa973aa8",
+      "title": "서남권 이어 충청권 392조 투자도 직접 챙긴다…김정관, “인허가·전력 애로 즉각 해소”",
+      "url": "https://www.etnews.com/20261015000193",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "정부, 충청권 392조 메가프로젝트 인허가·전력 지원 — 반도체 투자 인프라 정책, 메모리 연결 간접적"
+    },
+    {
+      "id": "9dabf2179d",
+      "title": "산업부, '반도체 전담국' 띄운다…인도 전담조직도 신설",
+      "url": "https://www.inews24.com/view/2014419",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "산업부 반도체 전담국 신설 — 반도체 정책 조직 (전일 보도 재수집)"
+    },
+    {
+      "id": "5607ec3456",
+      "title": "[포토] 반도체 대전 2026",
+      "url": "https://www.hankyung.com/article/202610142349i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "low",
+      "reason": "[포토] 반도체대전 2026 — 본문 없음, 사진 기사라 내용 판단 불가"
+    },
+    {
+      "id": "d73fc9cd29",
+      "title": "\"1년도 너무 길다\"…AI 시대 반도체 업계에 떨어진 '특명'",
+      "url": "https://www.hankyung.com/article/202610149937i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "'1년도 너무 길다' AI 시대 반도체 업계 특명 — 제목상 개발 주기 단축 이슈, 본문 없음"
+    },
+    {
+      "id": "ed7712e995",
+      "title": "[Tech & Now] 파두, '파일 시맨틱 SSD' 첫선…딥엑스 NPU 라즈베리 파이 소개",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727902",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "[Tech & Now] 파두 FS-SSD·딥엑스 NPU 단신 — 아이뉴스24 보도와 중복 이벤트"
+    },
+    {
+      "id": "0f8fb9dc27",
+      "title": "최태원, 美 앤디 김 상원의원 만나 반도체 협력 논의",
+      "url": "https://www.inews24.com/view/2014808",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "최태원 회장, 앤디 김 美 상원의원과 반도체 협력 논의 — SK그룹 대외활동, 기술 내용 없음 (전일 보도 재수집)"
+    },
+    {
+      "id": "628f08aa8a",
+      "title": "아이에스티이, 앰코코리아에 '풉 인스펙션 복합장비' 추가 수주",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727950",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "high",
+      "reason": "아이에스티이, 앰코코리아에 풉 인스펙션 장비 추가 수주 — 소부장 개별 계약"
+    },
+    {
+      "id": "513f72ccca",
+      "title": "글로벌 반도체 핵심 만든 김정호 KAIST 교수, '과학기술혁신대상' 받아",
+      "url": "https://www.inews24.com/view/2014444",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "'HBM의 아버지' 김정호 교수 수상 — 인물 동정이나 HBM 기술 맥락 (전일 보도 재수집)"
+    },
+    {
+      "id": "5b63cad3b0",
+      "title": "日, 美 뉴욕 반도체공장에 210억달러…車·통신용 생산",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727917",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "high",
+      "reason": "日 자금으로 글로벌파운드리스 뉴욕 로직 공장 건설 — 파운드리, 메모리 아님 명시"
+    },
+    {
+      "id": "96ff9f61fa",
+      "title": "美 AI 부채 쇼크 덮쳤다…반도체株 직격탄",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727910",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "美 AI 인프라 부채 우려에 반도체주 급락 — 증시 시황이나 AI 투자 지속성(메모리 수요) 리스크"
+    },
+    {
+      "id": "06aa2eff91",
+      "title": "댄 아이브스 \"코스피 매도세 과잉…삼전닉스 저평가\" [현장+]",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675621",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "댄 아이브스 '메모리 슈퍼사이클, 삼전닉스 저평가' — 증시 시황 성격, 업황 시각은 참고 수준"
+    },
+    {
+      "id": "26a76934ff",
+      "title": "“뉴욕 택시기사도 코스피 얘기…삼전닉스 저평가, 1년 내 9000 돌파”",
+      "url": "https://www.etnews.com/20261014000424",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "댄 아이브스 코스피·삼전닉스 저평가 발언 — 증시 전망 위주, 메모리 업황 언급은 부수적"
+    },
+    {
+      "id": "b0a749b67d",
+      "title": "[서학개미 안테나] 블랙록 CEO 래리 핑크 \"AI 투자에 자본 부족\"…GPU 담보 대출까지 등장",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727901",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "블랙록 CEO 'AI 투자 자본 부족' — 금융 시각, 반도체 수요 간접"
+    },
+    {
+      "id": "cc5937c031",
+      "title": "[서학개미 안테나] 코어위브 회사채 수익률 15%…AI 투자 '돈줄 경색' 오나",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727889",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "코어위브 회사채 급락, AI 투자 자금 경색 우려 — 금융 시황, 수요 리스크 간접"
+    },
+    {
+      "id": "12c3ab462f",
+      "title": "NIPA \"올해 GPU 1.9만장 확보…국산 AI 반도체 상용화 지원\"",
+      "url": "https://zdnet.co.kr/view/?no=20261015110351",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "NIPA GPU 확보·국산 AI 반도체 지원 국감 — 정부 AI 인프라 정책, 메모리 무관"
+    },
+    {
+      "id": "38f6ea77ea",
+      "title": "류진 \"대미 전략투자, 이제 기업의 시간\"…한미 경제계, 인허가·비자 개선 촉구",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727915",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "한미재계회의 대미 투자 인허가·비자 개선 촉구 — 통상 일반"
+    },
+    {
+      "id": "4b66596229",
+      "title": "LGD, 3분기 영업익 흑자전환 '확실'...하지만?",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156045",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "LG디스플레이 3분기 실적 — 메모리 가격 급등으로 부품 가격 압박 언급은 부수적"
+    },
+    {
+      "id": "a2b1b8fe46",
+      "title": "딥엑스, 3W NPU로 라즈베리 파이서 영상·언어 AI 구현",
+      "url": "https://www.inews24.com/view/2015206",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "딥엑스 저전력 NPU 라즈베리 파이 구현 — 엣지 AI 칩, 메모리 무관"
+    },
+    {
+      "id": "001e92c63e",
+      "title": "한울반도체, 일본 독점 깼다...대만에 MLCC 초음파 탐상기 납품",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63702",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "한울반도체 MLCC 초음파 탐상기 대만 납품 — 수동부품 검사장비, 메모리 무관"
+    },
+    {
+      "id": "1f7ebdfb92",
+      "title": "수퍼게이트, 2026 대한민국 AI 50 선정...NPU 역량 인정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63678",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "수퍼게이트 AI 50 선정 — 팹리스 수상 소식, 메모리 무관"
+    },
+    {
+      "id": "9d6191c7bc",
+      "title": "아이언디바이스, 52억 규모 '로봇핸드 엣지 AI' 국책과제 참여",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727947",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 8,
+      "confidence": "high",
+      "reason": "로봇핸드 엣지 AI 국책과제 — 메모리 무관"
+    },
+    {
+      "id": "fce902fc00",
+      "title": "제이알에너지, 스텔란티스·벤츠 투자한 ACC와 배터리 생산 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63740",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "배터리 전극 생산 MOU — 반도체 무관"
+    },
+    {
+      "id": "a6a41c1226",
+      "title": "제이에이치화학공업, 폐배터리 전처리 연 1.5만톤 체계 구축",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63695",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "폐배터리 재활용 — 반도체 무관"
+    },
+    {
+      "id": "57fd57da0b",
+      "title": "[유료방송 발목 잡는 낡은 규제①] \"적자여도 방발기금 내야 해...OTT와 형평성도 문제\"",
+      "url": "https://www.inews24.com/view/2014941",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 2,
+      "confidence": "high",
+      "reason": "유료방송 규제 — 반도체 무관"
+    }
+  ]
+}
