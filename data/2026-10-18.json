@@ -1,0 +1,685 @@
+{
+  "date": "2026-10-18",
+  "articles": [
+    {
+      "id": "fb4924c326",
+      "title": "삼성D '아산2단지'·LGD '플립'…내년 대규모 디스플레이 투자 논의 착수",
+      "url": "https://www.etnews.com/20261016000225",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "삼성D 아산2단지·LGD 플립 OLED 투자 논의 — 디스플레이 설비투자, 메모리 무관"
+    },
+    {
+      "id": "87b1ab164b",
+      "title": "정부-민간 공동 투자로 국방용 반도체 자립화 추진…투자형 R&D 시동",
+      "url": "https://www.etnews.com/20261016000214",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "국방용 화합물반도체 자립화 투자형 R&D — 화합물반도체 정책, 메모리 연결 없음"
+    },
+    {
+      "id": "60d90f9112",
+      "title": "한국 잠재성장률 40년 만에 2년 연속 반등 전망…반도체·AI 효과",
+      "url": "https://www.etnews.com/20261018000045",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "IMF 한국 잠재성장률 2년 연속 반등 전망 — 거시경제, 반도체는 배경 언급"
+    },
+    {
+      "id": "38cc76beed",
+      "title": "[세미콘 웨스트 2026] 한글 간판·조선통신사 그림까지… K-소부장, 세미콘 웨스트서 '패키징' 존재감",
+      "url": "https://www.etnews.com/20261016000175",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "세미콘 웨스트 2026 K-소부장 패키징 장비·샘플 전시 — 첨단 패키징 공급망 동향"
+    },
+    {
+      "id": "e7748afbd1",
+      "title": "칩플레이션에…中 스마트폰 제조 축소 전략",
+      "url": "https://www.etnews.com/20261016000165",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "메모리 칩플레이션에 中 스마트폰 저가 라인 제조 축소 — 메모리 가격이 모바일 수요를 잠식"
+    },
+    {
+      "id": "55bcaf76ac",
+      "title": "\"LG디스플레이, 2029년 플립 OLED 양산 목표\"...애플 스튜디오 겨냥 추정",
+      "url": "https://zdnet.co.kr/view/?no=20261018190505",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "LGD 플립 OLED 2029년 양산 목표 — 디스플레이 기술, 반도체 무관"
+    },
+    {
+      "id": "2cb356f8e1",
+      "title": "[ZD브리핑] 빅테크 실적 발표·과방위 종합국감 이목 집중",
+      "url": "https://zdnet.co.kr/view/?no=20261018163738",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "ZD브리핑 주간 일정(빅테크 실적·국감) — 반도체는 일정 중 일부"
+    },
+    {
+      "id": "d654ff1fd0",
+      "title": "\"4분기 성숙 공정 파운드리 가동률 91%… 내년 1분기 가격 인상\"",
+      "url": "https://zdnet.co.kr/view/?no=20261018152447",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "성숙 공정 파운드리 가동률 91%·내년 1분기 웨이퍼 가격 인상 — 파운드리 업황, 메모리 간접"
+    },
+    {
+      "id": "c24c8e5b92",
+      "title": "[부고] 조준희(유라클·KOSA 회장)씨 모친상",
+      "url": "https://zdnet.co.kr/view/?no=20261018111005",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "부고 — SK하이닉스 직원 가족 언급일 뿐 무관"
+    },
+    {
+      "id": "8edb6d3501",
+      "title": "AI 기업 부채 과도 우려에 시장 공포심 최고치",
+      "url": "https://zdnet.co.kr/view/?no=20261018091512",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "AI 기업 부채 우려로 VIX 4개월 최고 — AI 투자 지속성(HBM 수요)과 연결되나 본문은 금융시장 심리 위주라 경계 사례"
+    },
+    {
+      "id": "d770b8e279",
+      "title": "엔비디아 \"소비자 GPU 품귀, 우리 통제 영역 아냐\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63864",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "low",
+      "reason": "엔비디아 '소비자 GPU 품귀는 D램 등 공급망 문제' — 메모리 부족을 지목하나 소비자 GPU 맥락이라 메모리 사업 함의 판단 애매"
+    },
+    {
+      "id": "23a553a846",
+      "title": "\"美없었으면 한국도 대만도 반도체 성공 못했다\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63829",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "SEMI 아메리카 사장 인터뷰(세미콘 웨스트) — 미국 반도체 인력·산업 일반론, 메모리 직접 연관 없음"
+    },
+    {
+      "id": "277a91b88a",
+      "title": "'최대 1000만원' AI 노트북…엔비디아 'RTX 스파크' 국내 출격",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63851",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "엔비디아 RTX 스파크 AI PC 국내 출시 — PC용 SoC 제품 출시, 메모리 언급 미미"
+    },
+    {
+      "id": "45c74ce2ae",
+      "title": "퀄컴 \"휴머노이드는 고도화된 자동차\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63836",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "퀄컴 휴머노이드 반도체 진출 — 로직/SoC 전략, 메모리 무관"
+    },
+    {
+      "id": "28d783d283",
+      "title": "르네사스, 피지컬 AI 전담팀 출범…휴머노이드 반도체 공략 본격화",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63834",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "르네사스 피지컬 AI 전담팀 — MCU 업체 조직 소식, 메모리 무관"
+    },
+    {
+      "id": "1f0cb63f38",
+      "title": "마이크론, 휴머노이드용 고성능 D램 'EIM' 개발한다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63825",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "마이크론, 피지컬 AI용 엣지 인퍼런스 메모리(EIM) 개발 — 경쟁사 신규 D램 제품 전략"
+    },
+    {
+      "id": "64c4510e86",
+      "title": "쎄크, 반도체 후공정 검사장비 상용화…글로벌 OSAT 뚫었다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63823",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "쎄크, WLP 라인용 인라인 X-ray 검사장비 글로벌 OSAT 공급 — 후공정 검사 소부장"
+    },
+    {
+      "id": "da1e6af57a",
+      "title": "인텔, 피지컬 AI 실물 시연",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63812",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "인텔 웹서밋 피지컬 AI 로봇 시연 — 전시 소식, 메모리 무관"
+    },
+    {
+      "id": "e809fd1f69",
+      "title": "\"미세화 수명 다했다\" ASM, 소재 전환에 베팅",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63788",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "ASM 부사장 '미세화 수명 다해, 소재 전환' — 증착(ALD) 장비사의 공정기술 방향성"
+    },
+    {
+      "id": "9c2894b684",
+      "title": "가온칩스, Arm 피지컬 AI 파트너로 합류...설계-양산 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63793",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "가온칩스 Arm 피지컬 AI 파트너 합류 — 디자인하우스 협력, 메모리 무관"
+    },
+    {
+      "id": "9d5d895e7f",
+      "title": "삼성전자, JEDEC서 “AI 메모리 표준화 한계” 토로",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63772",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성전자 JEDEC 포럼서 커스텀 HBM·zHBM·LPDDR-PIM 표준화 한계 토로 — 경쟁사 AI 메모리 기술 방향"
+    },
+    {
+      "id": "d18beb2a26",
+      "title": "벤츠가 꽂힌 전고체 기업 팩토리얼…한국 소부장 기업과 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63789",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "팩토리얼 전고체 배터리 라인 소부장 협력 — 배터리, 반도체 무관"
+    },
+    {
+      "id": "871eb701fe",
+      "title": "아이언디바이스, 온디바이스 AI 연산 모듈 만든다...로봇 손에 탑재",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63776",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "아이언디바이스 로봇 손 온디바이스 AI 모듈 국책과제 — 팹리스, 메모리 무관"
+    },
+    {
+      "id": "8e7748a688",
+      "title": "Arm \"에이전틱AI 용 CPU, 랙 단위로 성능 측정해야\"…자사 칩 AMD 대비 2배 주장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63766",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "Arm 에이전틱 AI CPU 랙 단위 벤치마크·AMD 대비 2배 주장 — 서버 CPU 경쟁, 메모리 간접"
+    },
+    {
+      "id": "61586b6777",
+      "title": "CXMT, 3분기 매출 600% 증가 전망… D램 시장 존재감 확대",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172236",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "中 CXMT 3분기 매출 600%대 증가 전망·흑자 전환 — 중국 D램 경쟁사 실적 급성장"
+    },
+    {
+      "id": "f5528b73ac",
+      "title": "SK하이닉스 솔리다임 美 상장에… 성장 동력 vs 주주가치 훼손",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172228",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "SK하이닉스 솔리다임 美 상장 추진 — 자사 낸드 자회사 IPO, 주주가치 논란"
+    },
+    {
+      "id": "850b0a103a",
+      "title": "LG U+, 순직 소방관 추모 달리기… 참가비 전액 유가족 지원",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172226",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 2,
+      "confidence": "high",
+      "reason": "LG유플러스 소방관 추모 행사 — '메모리얼런' 키워드 우연 일치"
+    },
+    {
+      "id": "d0dfc35b38",
+      "title": "머스크 “中, 2028년 D램 대량 생산”… 삼성·SK하이닉스 겨냥했나",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172224",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "머스크 '中, 2028년 D램 대량 생산' — 메모리 가격 불만·중국 증설로 수급 변화 가능성 제기"
+    },
+    {
+      "id": "6a4160e871",
+      "title": "中, AI 기술 수출 통제 추진… 반도체 설계도 포함",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172223",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "中, AI 모델·칩 설계 등 23개 기술 수출통제 추진 — AI 정책 중심, 메모리 연결 약함"
+    },
+    {
+      "id": "c3f32c137e",
+      "title": "삼성 반도체 ‘AX/PI센터’, 수원 SAIT 떠나 동탄행",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172194",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성 DS AX/PI센터 일부 조직 동탄 이전 — 경쟁사 조직 재배치, 기술·사업 영향은 제한적"
+    },
+    {
+      "id": "18149b08a5",
+      "title": "소부장·금융채·美배당·피지컬AI·CPU·MLCC·엔비디아 [이주의 상장ETF]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172195",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "신규 상장 ETF 소개 — 증권 상품 소식"
+    },
+    {
+      "id": "f4dcec1594",
+      "title": "美 금리·AI 투자 불확실성에 출렁… 바닥 다지나 [주간증시전망]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172189",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "주간 증시전망 — 반도체 실적은 증시 변수로만 언급"
+    },
+    {
+      "id": "f5e1823d8b",
+      "title": "반도체 채용도 ‘즉시 전력’ 찾는다… 경력직 공고 157% 급증",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172172",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "반도체 대기업 경력직 채용공고 157% 급증 — HBM 개발 경쟁에 따른 인력 수요, 업계 간접 동향"
+    },
+    {
+      "id": "4a377d79ef",
+      "title": "엔비디아 ‘RTX 스파크’ 공식 출시… “AI 활용성 높지만 가격 부담”",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172206",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "엔비디아 RTX 스파크 공식 출시(통합 메모리 구조 PC) — 제품 출시 소식, 메모리 사업 영향 간접적"
+    },
+    {
+      "id": "7b3430baa7",
+      "title": "메모리 폭등에 폰 출하 20% 급감…삼성·애플 양강 체제로 재편?",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172184",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "AI DC발 메모리 가격 급등으로 3분기 스마트폰 출하 22% 급감 — 메모리 가격이 전방 수요에 미치는 영향"
+    },
+    {
+      "id": "9adfe6ab87",
+      "title": "문샷·딥시크 글로벌 진출 발목 잡히나… 中, AI 기술 통제 강화",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172207",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "中, AI 모델·반도체 설계 등 23개 기술 수출통제 추진 — AI 정책 중심, 메모리 연결 약함"
+    },
+    {
+      "id": "fe3cbe2706",
+      "title": "LGU+, 순직 소방관 추모 달리기 행사 성료⋯2300여명 참여",
+      "url": "https://www.inews24.com/view/2016139",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 2,
+      "confidence": "high",
+      "reason": "LG유플러스 소방관 추모 행사 — 키워드 우연 일치"
+    },
+    {
+      "id": "8b16117aea",
+      "title": "中 CXMT, 3분기 매출 600%대 급증 전망…최대 4000억 자사주 매입",
+      "url": "https://www.inews24.com/view/2016108",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "中 CXMT 3분기 매출 최대 619% 증가·자사주 매입 — D램 가격 상승 수혜 경쟁사 실적 (IT조선과 동일 이벤트)"
+    },
+    {
+      "id": "f2833cace0",
+      "title": "이종민 에이직랜드 대표 &quot;반도체 강국 韓, 디자인도 글로벌 선두권으로&quot; [인터뷰]",
+      "url": "https://www.inews24.com/view/2015607",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "에이직랜드 대표 인터뷰 — 디자인하우스 사업, 메모리 무관"
+    },
+    {
+      "id": "a772992870",
+      "title": "HBM 쌓고 보이지 않는 먼지까지 잡는다…K반도체 장비 총출동 [현장]",
+      "url": "https://www.inews24.com/view/2015703",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "SEDEX 국내 장비사 총출동 — HBM 적층(TC본더)·세정·증착 장비 등 공정 소부장 현장"
+    },
+    {
+      "id": "cd94d07219",
+      "title": "애플 터너스 &quot;메모리 공급난은 위기…모든 선택지 검토&quot;",
+      "url": "https://www.inews24.com/view/2015818",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 76,
+      "confidence": "high",
+      "reason": "애플 터너스 '메모리 공급난은 위기…모든 선택지 검토' — IT조선 보도와 동일 이벤트"
+    },
+    {
+      "id": "c1001ca3f1",
+      "title": "中 &apos;4F²&apos; 발표에 놀란 시장…삼성·하이닉스 추월은 &apos;아직&apos;",
+      "url": "https://www.inews24.com/view/2015564",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "CXMT 4F² 서버용 D램 연내 발표 — 시장 충격과 삼성·SK 대비 기술 격차 분석"
+    },
+    {
+      "id": "e19e6e5e86",
+      "title": "TSMC 회장 &quot;테라팹 운영은 우리가&quot;…머스크에 선긋기",
+      "url": "https://www.inews24.com/view/2015600",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "TSMC 회장, 머스크 테라팹 운영은 TSMC가 — 파운드리 협력 구도, 메모리 연결 간접"
+    },
+    {
+      "id": "59bc47f4ae",
+      "title": "삼성전자, 3분기 스마트폰 점유율 23%…불황 속 판매 방어",
+      "url": "https://www.inews24.com/view/2015609",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "삼성 3분기 스마트폰 점유율 23% — 메모리 가격 상승으로 출하 감소, 모바일 메모리 수요 간접 지표"
+    },
+    {
+      "id": "9325f54b7f",
+      "title": "복잡한 물질 적층 공정 간소화→초미세·초저전력 반도체 만든다 [지금은 과학]",
+      "url": "https://www.inews24.com/view/2015364",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "2차원 반도체 적층 공정 간소화 연구 — 차세대 소자 학술 연구, 메모리 양산 연결 먼 미래"
+    },
+    {
+      "id": "1a8f8b8ffc",
+      "title": "신문기사 1만개·유리 16장…SK하이닉스, 43년 역사로 만든 &apos;초심&apos;",
+      "url": "https://www.inews24.com/view/2015520",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "SK하이닉스 43년 역사 '초심' 홍보 캠페인 조형물 — 자사 언급이나 기술·사업 정보 없음"
+    },
+    {
+      "id": "4267ba1e33",
+      "title": "&quot;SK하이닉스, 美 공장 건설 조건으로 中 장비 반입 허가 요구&quot;",
+      "url": "https://www.inews24.com/view/2015475",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "SK하이닉스, 美 공장 건설 조건으로 中 다롄 공장 장비 반입 허가 요구(로이터) — 자사 생산거점·수출규제"
+    },
+    {
+      "id": "a170f3d01f",
+      "title": "中 CXMT &apos;4F² D램&apos;에 의문⋯전문가 &quot;양산 가능성 의심&quot;",
+      "url": "https://www.inews24.com/view/2015487",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "CXMT 4F² D램 양산 가능성에 전문가 의문 — 중국 D램 기술 추격 검증"
+    },
+    {
+      "id": "928618d69c",
+      "title": "TSMC &quot;반도체 수요 둔화 징후 전혀 없다&quot;…AI 투자 우려 반박[종합]",
+      "url": "https://www.inews24.com/view/2015498",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "TSMC '반도체 수요 둔화 징후 없다' — AI 투자 우려 반박, AI 반도체 수요 전망"
+    },
+    {
+      "id": "23d92960b5",
+      "title": "TSMC, 3분기 순이익 68.7% 증가…6분기 연속 사상 최대",
+      "url": "https://www.inews24.com/view/2015467",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "TSMC 3분기 순이익 68.7% 증가·6분기 연속 최대 — 경쟁사(파운드리) 실적"
+    },
+    {
+      "id": "543e713227",
+      "title": "[부고] 조준희(한국인공지능·소프트웨어산업협회 회장)씨 모친상",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675953",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "부고 — 인물 동정"
+    },
+    {
+      "id": "230b79f2de",
+      "title": "최태원 \"반도체 창업 안 해\"…20대 돌아가면 도전할 일은",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675947",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "최태원 회장 창업 관련 발언 — 인물 동정, 반도체 사업 정보 없음"
+    },
+    {
+      "id": "6d92c98da5",
+      "title": "대한항공, AI 붐 '숨은 수혜'…반도체 싣고 날았다",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675890",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "대한항공 AI 붐 화물 수혜 — 항공 실적, 반도체는 화물 품목일 뿐"
+    },
+    {
+      "id": "cf3df84aba",
+      "title": "[피지컬 AI 생태계] 리벨리온·퓨리오사AI의 '로봇을 위한 계산'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675908",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "리벨리온·퓨리오사AI 피지컬 AI용 NPU — 국내 AI 칩 스타트업, 메모리 연결 미미"
+    },
+    {
+      "id": "7de11e605e",
+      "title": "EBS 강연 나선 최태원 SK 회장 \"20대로 돌아가면 창업, 인류 문제 해결 도전\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156208",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "최태원 회장 EBS 강연 — 인물 동정 (블로터와 동일 이벤트)"
+    },
+    {
+      "id": "9ea1f0d971",
+      "title": "LG이노텍, 2026년 3분기 실적 전망 '빨간등'...왜?",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156207",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "LG이노텍 3분기 실적 우려 — 카메라 모듈 중심, 반도체 기판은 일부 언급"
+    },
+    {
+      "id": "bbfb471fd6",
+      "title": "젠슨 황이 강남서 뿌린 '그 컴퓨터', 이제 판다...엔비디아 'RTX 스파크' 출시",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156196",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "high",
+      "reason": "엔비디아 RTX 스파크 출시(최대 128GB 메모리) — 온디바이스 AI PC 제품 소식"
+    },
+    {
+      "id": "7a06ce08c6",
+      "title": "삼성이 점찍은 미스트랄AI, 이번엔 물리학 AI 만든다...CERN과 공동개발",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156175",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "미스트랄AI·CERN 물리학 AI 공동개발 — 삼성전자와 반도체 특화 AI 협력 언급되나 본 기사는 무관"
+    },
+    {
+      "id": "d82c4646da",
+      "title": "국산 NPU 133억 사업 재조정...'공무원용 AI' 내년 가동 가능성↑",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156170",
+      "source": "테크M",
+      "category": "other",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "국산 NPU 133억 정부 사업 재조정 — 국산 AI칩 조달, 메모리 무관"
+    },
+    {
+      "id": "83b0f0dab6",
+      "title": "TSMC \"AI 수요 기반 '증설'..반도체 수급 불균형 상당 기간 '지속'\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156155",
+      "source": "테크M",
+      "category": "other",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "TSMC 컨콜 'AI 가속기 수요 연 50%대 후반 성장, 수급 불균형 지속' — AI 반도체 수요 전망"
+    },
+    {
+      "id": "cb66799afd",
+      "title": "[포토] 교실에서 싹트는 반도체 강국의 꿈",
+      "url": "https://www.hankyung.com/article/202610165433i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "medium",
+      "reason": "[포토] 교실 반도체 교육 — 본문 없으나 제목상 교육 행사 사진"
+    },
+    {
+      "id": "e149ff0921",
+      "title": "국민연금, 3분기 182조 증발 역대 최악 성적표…'삼전·닉스' 직격탄",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728216",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "국민연금 3분기 주식 평가손실 — 삼전·닉스 주가 언급뿐인 시황"
+    },
+    {
+      "id": "3651064711",
+      "title": "반도체 훈풍에 원·달러 2년 1개월 만에 '최저'…원·엔도 19년래 바닥",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728215",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "반도체 수출 호조에 원·달러 환율 최저 — 거시 환율 기사"
+    },
+    {
+      "id": "6f7c2ebf94",
+      "title": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 '세 가지 변수'는",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728214",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "주간 증시전망 — 증권 시황"
+    },
+    {
+      "id": "3b8ed7ace0",
+      "title": "韓 잠재성장률 40년 만에 '연속 반등'…'AI 호황' 이면에 가려진 고용 한파",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728212",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "잠재성장률 반등 이면 고용 한파 — 거시경제"
+    },
+    {
+      "id": "f159e9a69c",
+      "title": "'1000억불 흑자' 부메랑 맞은 韓…트럼프 '알래스카 투자' 청구서에 진퇴양난",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728211",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "대미 흑자와 알래스카 LNG 투자 압박 — 통상, 반도체 무관"
+    },
+    {
+      "id": "04d68a7c8f",
+      "title": "판매량 줄어도 매출은 늘었다…스마트폰 업계 ‘프리미엄 승부수’",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728201",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "메모리 가격 상승에 스마트폰 업계 프리미엄·ASP 전략 — 모바일 메모리 수요 간접 지표"
+    },
+    {
+      "id": "45a4b6fd82",
+      "title": "4% 급등했는데 아직 약하다…코스피 반등에 쏟아진 경고",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728126",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "코스피 4% 반등 시황 — 반도체 대형주 주가 언급뿐"
+    }
+  ]
+}
