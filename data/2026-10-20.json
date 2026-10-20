@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "id": "4b037a4513",
+      "title": "[르포]제이피이노베이션, 특수 공정장비로 시장 확장…제조 경험 바탕 '통합 EPC' 도약",
+      "url": "https://www.etnews.com/20261020000142",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "제이피이노베이션 통합 EPC 르포 — 제약·바이오 설비 중심, 반도체 소재는 확장 계획 수준"
+    },
+    {
+      "id": "b7bd6ca4b9",
+      "title": "KB국민은행, SK하이닉스·무보와 2500억원 규모 반도체 협력사 금융지원",
+      "url": "https://www.etnews.com/20261020000013",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "SK하이닉스·KB국민은행·무보 협력사 2500억 보증 — SK하이닉스 직접 언급(소부장 2조 지원 협약의 일부)"
+    },
+    {
+      "id": "1439439ab5",
+      "title": "TSMC, 대만 타이난에 3나노 공장 추가 건설…2028년 양산",
+      "url": "https://www.etnews.com/20261019000425",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "TSMC 타이난 3나노 공장 추가 건설 — 파운드리 증설, AI 반도체 수요 신호이나 메모리와 간접적"
+    },
+    {
+      "id": "c225ab5463",
+      "title": "삼성전기, 3605억원 규모 '메모리 반도체용 패키지기판' 장기 공급계약",
+      "url": "https://www.etnews.com/20261019000417",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "삼성전기 메모리 반도체용 패키지기판 3605억 LTA — 메모리 공급망 소재 계약"
+    },
+    {
+      "id": "7914df3256",
+      "title": "韓 반도체 저격수 된 머스크…中 메모리 띄우고 삼전닉스 흔드는 속셈?",
+      "url": "https://www.etnews.com/20261019000392",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "머스크의 중국 메모리 언급과 가격 협상력 견제 — 삼성전자·SK하이닉스 메모리 시장 구도 직접 다룸"
+    },
+    {
+      "id": "0690c61a2d",
+      "title": "Axcelis, 한국 평택에 신규 제조 시설 착공",
+      "url": "https://zdnet.co.kr/view/?no=20261020121024",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "Axcelis 평택 이온주입 장비 제조시설 착공 — 장비 공급망 개별 투자"
+    },
+    {
+      "id": "9dccccc8e8",
+      "title": "터치스크린 & 디스플레이 및 필름 & 테이프 박람회 2026, 한국 바이어를 초청해 중국 공급업체와 연결",
+      "url": "https://zdnet.co.kr/view/?no=20261020121013",
+      "source": "ZDNet Korea",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "디스플레이·필름 박람회 홍보 보도자료 — 반도체 무관"
+    },
+    {
+      "id": "fb8330a6b0",
+      "title": "노타, Arm AI 개발 도구에 모델 경량화 기술 적용",
+      "url": "https://zdnet.co.kr/view/?no=20261020120231",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "노타 모델 경량화 기술의 Arm 도구 적용 — AI 소프트웨어, 메모리 무관"
+    },
+    {
+      "id": "54247dda38",
+      "title": "中 옴니비전, CIS 시장서 삼성전자 제쳤다...점유율 13%",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63961",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "옴니비전 CIS 점유율 삼성 추월 — 이미지센서 시장으로 메모리와 무관"
+    },
+    {
+      "id": "7e6f3e2d4e",
+      "title": "'월 100만장 반도체 팹' 짓는 일론 머스크, 한국 소부장에 러브콜",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63960",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "머스크 테라팹, 한국 소부장에 공급 러브콜 — 신규 대형 팹 수요로 장비·소재 공급망에 영향"
+    },
+    {
+      "id": "1ef3928aa8",
+      "title": "KB국민은행-SK하이닉스-무역보험공사, K-반도체 기업 자금난 해소 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63955",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "KB국민은행-SK하이닉스-무보 협약 — SK하이닉스 직접 언급(소부장 금융지원 동일 이벤트)"
+    },
+    {
+      "id": "f6f019862b",
+      "title": "삼성전기, 첫 패키지 기판 LTA…3600억원 규모 공급계약 체결",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63936",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "삼성전기 첫 패키지기판 LTA 3600억 — 메모리용 기판 공급계약(동일 이벤트 타 매체)"
+    },
+    {
+      "id": "9ed722371e",
+      "title": "가온칩스, 차세대 무인기 탑재 AI 반도체 만든다...삼성 8나노 기반",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63940",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "가온칩스 무인기용 AI SoC 개발 — 시스템반도체 설계, 메모리 무관"
+    },
+    {
+      "id": "f878fc6661",
+      "title": "제너셈, 'AI 쏘잉' 장비 글로벌 톱3 반도체 제조사 단독공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63942",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "제너셈 AI 쏘잉 장비 세계 3위권 제조사 단독공급 — 후공정 장비 개별 계약"
+    },
+    {
+      "id": "887cfa3ed5",
+      "title": "알테라, 엔비디아 센서 브리지에 FPGA 얹어 피지컬 AI 공략",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63913",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "알테라 FPGA 피지컬 AI 공략 — 로봇용 로직 반도체, 메모리 무관"
+    },
+    {
+      "id": "1f0ac2aa4d",
+      "title": "인피니언, 휴머노이드 핵심 '로봇 손' 반도체 시장 공략",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63908",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "인피니언 휴머노이드 로봇 손 반도체 — 전력·센서 반도체, 메모리 무관"
+    },
+    {
+      "id": "2eb4ba23bf",
+      "title": "SK하이닉스, 시중은행과 2조원 출연해 국내 소부장 생태계 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63902",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스 시중은행과 2조 출연 소부장 지원 — SK하이닉스 공급망 정책 직접 보도"
+    },
+    {
+      "id": "89cfb5c2c2",
+      "title": "HBM을 GPU 밑으로…장비업체 신도기연의 3D 수직적층 구조 제안",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63906",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "신도기연 GPU-HBM 수직적층 글라스세라믹 인터포저 제안 — HBM 패키징 구조 기술이나 장비사 제안 단계"
+    },
+    {
+      "id": "0723b268a6",
+      "title": "한울반도체, 20억원 유상증자 모집에 104억원 청약 흥행",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63924",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "한울반도체 소액공모 청약 흥행 — 증자 소식, 기술·사업 정보 없음"
+    },
+    {
+      "id": "6aa0fa11ae",
+      "title": "파두, 3분기 최대 실적 경신...영업이익 363억",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63915",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "파두 3분기 최대 실적 — SSD 컨트롤러 수요로 낸드·스토리지 생태계 간접 신호"
+    },
+    {
+      "id": "111099f0d2",
+      "title": "샌디스크, 메타 VR 글래스 스토리지 단독 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63885",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "샌디스크 메타 VR 글래스 플래시 단독 공급 — 낸드 경쟁사 응용처 확대(전일 재수집)"
+    },
+    {
+      "id": "c70ad364ce",
+      "title": "레노버, RTX 스파크 탑재 요가북 프로 9n 국내 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63882",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "레노버 RTX 스파크 노트북 출시 — 완제품 출시 소식"
+    },
+    {
+      "id": "bda44960a4",
+      "title": "TDK인벤센스, 휴머노이드 관절용 자기 센서 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63897",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "TDK인벤센스 휴머노이드 관절 자기센서 — 메모리 무관"
+    },
+    {
+      "id": "2355e38190",
+      "title": "호남 반도체 1350조, 한미 갈등 부르나",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172373",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "호남 1350조 반도체 클러스터의 한미 갈등 가능성 — 정책·지정학 이슈, 메모리 연결은 간접적"
+    },
+    {
+      "id": "885b9df692",
+      "title": "아마존, 자체 AI칩 생태계 확장에 5% 급등… 반도체주 온기",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172350",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "아마존 자체 AI칩 생태계·주가 급등 — 증시 시황 중심"
+    },
+    {
+      "id": "68fc3a7ba7",
+      "title": "애플은 생산난·삼성은 수익성 악화…폴더블 흥행에도 못 웃는다",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172316",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "부품가 상승으로 삼성 MX 적자 확대·애플 생산난 — 메모리 가격 상승의 세트 업체 영향이 간접적으로 드러남"
+    },
+    {
+      "id": "8a202c2845",
+      "title": "AI 우려 덜자 반도체주 반등… 나스닥 1% 상승",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172348",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "나스닥 반도체주 반등 — 증시 시황"
+    },
+    {
+      "id": "cf10a73acf",
+      "title": "소비자가 기억하는 삼성은 ‘반도체’가 아닌 ‘전자’다 [줌인IT]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172307",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "삼성 브랜드 칼럼 — 반도체는 비유적 맥락, 기술·사업 정보 없음"
+    },
+    {
+      "id": "7736407783",
+      "title": "美 엑셀리스, 평택 반도체 장비 공장 증설 착공⋯아태 생산거점 확대",
+      "url": "https://www.inews24.com/view/2016829",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "엑셀리스 평택 장비공장 증설 착공 — Axcelis 동일 이벤트(타 매체)"
+    },
+    {
+      "id": "880d1171ed",
+      "title": "미증유의 길 들어선 메모리…HBM도 '고객과 설계하는 시대'",
+      "url": "https://www.inews24.com/view/2016616",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "HBM4E 커스텀화로 메모리가 고객 공동설계 시대로 전환 — HBM 기술·사업 구조 변화 직접 분석"
+    },
+    {
+      "id": "2579285ca5",
+      "title": "산업부, 반도체혁신성장지원단 출범…초대 단장에 이규봉",
+      "url": "https://www.inews24.com/view/2016705",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "산업부 반도체혁신성장지원단 출범·단장 임명 — 조직·인사 동정"
+    },
+    {
+      "id": "3eee2a3c7a",
+      "title": "AI 대호황에 반도체 장비투자 쑥…올해 1490억달러",
+      "url": "https://www.inews24.com/view/2016696",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "300mm 팹 장비투자 올해 1490억달러(+31%) 전망 — 업계 설비투자 사이클 지표"
+    },
+    {
+      "id": "f0709b7712",
+      "title": "곽노정 SK하이닉스 사장 \"美·中·日 생태계 강화…우리도 키워야\"",
+      "url": "https://www.inews24.com/view/2016651",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "곽노정 사장 '소부장 생태계 키워야' — SK하이닉스 CEO 발언(2조 금융지원 동일 이벤트)"
+    },
+    {
+      "id": "92fbe59597",
+      "title": "삼성전기, 메모리 기판 3605억원 수주…장기계약 누적 4.3조원",
+      "url": "https://www.inews24.com/view/2016634",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "삼성전기 메모리 기판 3605억 수주 — 동일 이벤트 타 매체"
+    },
+    {
+      "id": "8b4910db7f",
+      "title": "삼성전자 \"내년 평택부터 방류수 PFAS 줄이는 기술 도입 추진\"",
+      "url": "https://www.inews24.com/view/2016624",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "삼성전자 평택 방류수 PFAS 저감 기술 도입 — 경쟁사 팹 환경 공정, 메모리 사업과 간접적"
+    },
+    {
+      "id": "616f745836",
+      "title": "SK하이닉스·4대 은행, 소부장에 2조 금융지원…1호 보증서 전달",
+      "url": "https://www.inews24.com/view/2016364",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스·4대 은행 소부장 2조 금융지원 — 동일 이벤트 타 매체"
+    },
+    {
+      "id": "08683a5599",
+      "title": "파두, 3분기 영업익 363억원 '흑자전환'…매출 460% 급증",
+      "url": "https://www.inews24.com/view/2016390",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "파두 3분기 영업익 363억 흑자전환 — 동일 이벤트 타 매체"
+    },
+    {
+      "id": "89a0f0ce42",
+      "title": "앰코, 광주에 3조원 투자⋯서남권 반도체 메가프로젝트 본격 시동",
+      "url": "https://www.inews24.com/view/2016286",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "앰코 광주 3조 첨단 패키징 투자 — 후공정 공급망 (전일 재수집)"
+    },
+    {
+      "id": "ae1e8aaf61",
+      "title": "한미반도체, 美 법인 '한미USA' 설립…첨단 패키징 공략",
+      "url": "https://www.inews24.com/view/2016257",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "한미반도체 美 법인 설립 — HBM TC본더 업체 북미 공략 (전일 재수집)"
+    },
+    {
+      "id": "fe3cbe2706",
+      "title": "LGU+, 순직 소방관 추모 달리기 행사 성료⋯2300여명 참여",
+      "url": "https://www.inews24.com/view/2016139",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 0,
+      "confidence": "high",
+      "reason": "LGU+ 소방관 추모 달리기 — '메모리얼런' 키워드 우연 매칭"
+    },
+    {
+      "id": "8b16117aea",
+      "title": "中 CXMT, 3분기 매출 600%대 급증 전망…최대 4000억 자사주 매입",
+      "url": "https://www.inews24.com/view/2016108",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "CXMT 3분기 매출 최대 619% 증가 전망 — 중국 D램 경쟁사 실적 (전일 재수집)"
+    },
+    {
+      "id": "f2833cace0",
+      "title": "이종민 에이직랜드 대표 \"반도체 강국 韓, 디자인도 글로벌 선두권으로\" [인터뷰]",
+      "url": "https://www.inews24.com/view/2015607",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "에이직랜드 대표 인터뷰 — 디자인하우스, 메모리 무관"
+    },
+    {
+      "id": "7785b908c0",
+      "title": "탑엔지니어링, 흑자전환 했지만…주주환원 구체화는 과제",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675951",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "탑엔지니어링 PBR 개선 계획 — 주주환원 이슈"
+    },
+    {
+      "id": "e099641eb3",
+      "title": "[데스크시각] 4만달러 시민이 바라본 프랑스",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676034",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "프랑스 관련 데스크 칼럼 — 반도체는 비유적 언급"
+    },
+    {
+      "id": "afc0c8a748",
+      "title": "[박종면칼럼] SK가 솔리다임 상장을 고집하는 이유",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675980",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "medium",
+      "reason": "SK 솔리다임 상장 고집 이유 칼럼 — SK하이닉스 직접 다루나 지배구조 중심 의견 기사"
+    },
+    {
+      "id": "76da4f9489",
+      "title": "3S, 주식 5대 1 병합 추진…동전주 규제 대응 '포석'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676036",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "low",
+      "reason": "3S 주식 병합 — 웨이퍼캐리어 업체라 공급망 일부지만 기사는 상장 유지용 자본 조치뿐이라 관련성 판단 애매"
+    },
+    {
+      "id": "db02780549",
+      "title": "IPO 앞둔 래블업 \"해외 네오클라우드와 공급 협상...내년 200억대 매출 목표\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156241",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "래블업 IPO 간담회 — AI 인프라 SW, 메모리 무관"
+    },
+    {
+      "id": "8ab703bc1c",
+      "title": "하나은행, SK하이닉스·무보와 K-반도체 수출 공급망 강화 업무협약",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728490",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "하나은행-SK하이닉스-무보 협약 — 동일 이벤트 타 매체"
+    },
+    {
+      "id": "472f966ae1",
+      "title": "[Tech & Now] 코윈·코스모로보틱스, 반도체·의료 로봇 글로벌 영토 확장",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728458",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "코윈로보틱스 반도체 팹 로봇 MOU — 팹 자동화 소규모 협약"
+    },
+    {
+      "id": "1c851965c1",
+      "title": "냉각·로봇·반도체 기판·OLED…구광모號, LG 전자 3사 미래전략 점검",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728447",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "LG 전자 3사 전략 점검 — LG이노텍 반도체 기판(FC-BGA) 언급이 있으나 본문만으로 메모리 공급망 비중 판단 어려움"
+    }
+  ]
+}
