@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-21",
+  "articles": [
+    {
+      "id": "0c8c879e7b",
+      "title": "이규석 현대모비스 사장, “국산 車반도체 2029년 첫 탑재…자생 생태계 키운다”",
+      "url": "https://www.etnews.com/20261021000263",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "현대모비스 국산 차량용 반도체 2029년 탑재 계획 — 차량용 시스템반도체, 메모리 무관"
+    },
+    {
+      "id": "4831ac802d",
+      "title": "1500조 '메가프로젝트' 중소기업도 합류…중기부, 공급망 진입 지원",
+      "url": "https://www.etnews.com/20261021000346",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "중기부 메가프로젝트 중소기업 공급망 진입 지원 — 정책 일반, 반도체 연결 약함"
+    },
+    {
+      "id": "e103e80c08",
+      "title": "코스피 반등에 매수 사이드카…올해 25번째 발동",
+      "url": "https://www.etnews.com/20261021000173",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 매수 사이드카 발동 — 증시 시황"
+    },
+    {
+      "id": "2623cab418",
+      "title": "호남 반도체 산단 6GW 전력공급 협약 연내 추진…용인 9GW는 내년",
+      "url": "https://www.etnews.com/20261021000165",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "호남 반도체 산단(SK하이닉스 팹 2기 포함) 6GW 전력공급 협약 — 인프라, 간접 영향"
+    },
+    {
+      "id": "636e788718",
+      "title": "오픈AI·엔비디아·AMD 부산 총집결…첨단패키징 심포지엄 'ISMP 2026' 내달 개막",
+      "url": "https://www.etnews.com/20261021000149",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "ISMP 2026 첨단패키징 심포지엄 예고 — HBM·패키징 기술 주제지만 행사 안내 수준"
+    },
+    {
+      "id": "140a6a504a",
+      "title": "LG전자, 상업용 시스템 에어컨 '멀티 브이 7' 공개…듀얼 AI·스핀엑스 컴프레서 탑재",
+      "url": "https://www.etnews.com/20261021000139",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "LG전자 시스템 에어컨 신제품 — 반도체 무관"
+    },
+    {
+      "id": "a775eac19d",
+      "title": "퀄컴, 삼성 파운드리 협력사 '아키아나' 인수…RISC-V 생태계 확장 가속",
+      "url": "https://www.etnews.com/20261021000020",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "퀄컴, 삼성 파운드리 협력 IP사 아키아나 인수 — RISC-V·파운드리 생태계, 메모리 연결 없음"
+    },
+    {
+      "id": "606555d646",
+      "title": "태성, 대만서 FC-BGA·글라스기판 핵심 장비 기술 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261021133549",
+      "source": "ZDNet Korea",
+      "category": "other",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "태성 FC-BGA·글라스기판 장비 TPCA 출품 — 기판 공정장비, 메모리와 간접"
+    },
+    {
+      "id": "754bbc04fc",
+      "title": "선익시스템, 글로벌 OLEDoS 증착 장비 추가 수주",
+      "url": "https://zdnet.co.kr/view/?no=20261021134026",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "선익시스템 OLEDoS 증착장비 수주 — 디스플레이 장비"
+    },
+    {
+      "id": "0093a7940d",
+      "title": "태성, 대만서 FC-BGA·유리기판 장비 소개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64059",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "태성 FC-BGA·유리기판 장비 소개(동일 이벤트 디일렉 보도)"
+    },
+    {
+      "id": "fd8ef1abca",
+      "title": "보스반도체, 칩렛 기반 차량용 반도체 국산화 시동",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64033",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "보스반도체 칩렛 기반 차량용 반도체 개발 — 시스템반도체, 메모리 무관"
+    },
+    {
+      "id": "636c155d6e",
+      "title": "삼성전자, 모뎀도 2나노 간다...올해 4나노 M2700은 MX 테스트 통과",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63973",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "삼성 모뎀 2나노 전환, 4나노 생산능력을 HBM 베이스다이 중심으로 재편 — 경쟁사 HBM 전략"
+    },
+    {
+      "id": "a49f4514a7",
+      "title": "미코세라믹스, LGD 구미공장 1500억에 산다…납입 대금은 어디서?",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63986",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "미코세라믹스 1500억 구미공장 매입 — 세라믹 히터·ESC 증설, 장비부품 공급망"
+    },
+    {
+      "id": "27818c73b1",
+      "title": "엑셀리스, 평택 공장 5배 증설 착공...아시아 생산 거점으로",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63976",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "엑셀리스 평택 이온주입 장비 공장 5배 증설 착공 — 장비 공급망"
+    },
+    {
+      "id": "54247dda38",
+      "title": "中 옴니비전, CIS 시장서 삼성전자 제쳤다...점유율 13%",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63961",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "옴니비전 CIS 점유율 삼성 추월 — 이미지센서, 메모리 무관(전일 재수집)"
+    },
+    {
+      "id": "7e6f3e2d4e",
+      "title": "'월 100만장 반도체 팹' 짓는 일론 머스크, 한국 소부장에 러브콜",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63960",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "테라팹, 한국 소부장에 공급 타진 — 공급망 경쟁 요인(전일 재수집)"
+    },
+    {
+      "id": "1ef3928aa8",
+      "title": "KB국민은행-SK하이닉스-무역보험공사, K-반도체 기업 자금난 해소 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63955",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "KB국민·SK하이닉스·무보 반도체 수출공급망 협약 — SK하이닉스 직접(전일 재수집)"
+    },
+    {
+      "id": "8a8cdf6725",
+      "title": "반도체 수출 역대 최대… 삼전닉스도 동반 급등",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172462",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "반도체 수출 역대 최대와 삼전닉스 주가 급등 — 업황 지표는 있으나 시황 기사 중심"
+    },
+    {
+      "id": "d53c756b54",
+      "title": "10월 1~20일 수출 616억달러…‘반도체 222%’ 급증에 역대 최대",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172455",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "10월 1~20일 반도체 수출 222% 급증 — 메모리 호황 지표"
+    },
+    {
+      "id": "8cecc41d2c",
+      "title": "LG전자, 듀얼 AI 시스템 에어컨 첫 공개",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172443",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "LG전자 시스템 에어컨 공개 — 반도체 무관"
+    },
+    {
+      "id": "7c91570f35",
+      "title": "엔비디아·마이크론, 시간외 거래서 반등",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172435",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "엔비디아·마이크론 시간외 반등 — 美 증시 시황"
+    },
+    {
+      "id": "aed120e00c",
+      "title": "AI 투자 우려 재부각… 나스닥 약보합",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172428",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "나스닥 약보합, AI 투자 우려 — 증시 시황"
+    },
+    {
+      "id": "e40a69fd9f",
+      "title": "“3년 전 칩 대란 재현될라”… 車업계, 공급망 새판 짠다 [칩플레이션④]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172404",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "메모리 칩플레이션이 車업계로 확산, 공급망 재편 — 메모리 수요·가격 영향 간접"
+    },
+    {
+      "id": "acc877892c",
+      "title": "네이버, AI 스타트업 &apos;트레이스위브&apos;에 투자",
+      "url": "https://www.inews24.com/view/2017469",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "low",
+      "reason": "네이버 D2SF, AI 스타트업 투자 — '메모리'가 AI 모델 메모리 의미로 보이나 본문이 짧아 확실치 않음"
+    },
+    {
+      "id": "e9877e242b",
+      "title": "TSMC 가오슝 공장 건설현장서 4명 사망…대만 전역 철골 작업 중단",
+      "url": "https://www.inews24.com/view/2017453",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "high",
+      "reason": "TSMC 가오슝 공장 건설현장 사망사고, 대만 철골 작업 중단 — 경쟁사 증설 일정 리스크"
+    },
+    {
+      "id": "9c7a03ddc2",
+      "title": "&quot;中 스마트폰 &apos;중고 D램&apos; 재활용…메모리 공급난에 5~6년 더 쓴다&quot;",
+      "url": "https://www.inews24.com/view/2017110",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "中 스마트폰 업체, 공급난에 중고 D램 재사용 — D램 수급 실질 지표"
+    },
+    {
+      "id": "6efe0c8e97",
+      "title": "&quot;日정부, 라피더스에 2029년까지 2.1조원 추가 출자 검토&quot;",
+      "url": "https://www.inews24.com/view/2017120",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "日정부, 라피더스 2.1조 추가 출자 검토 — 파운드리 정책"
+    },
+    {
+      "id": "5fc8d9812a",
+      "title": "CXMT &quot;D램 시장 장기 성장 자신&quot;⋯4F² 초미세화 기술 개발 박차",
+      "url": "https://www.inews24.com/view/2016984",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "CXMT D램 장기 성장 자신, 4F² 초미세 공정 개발 — 경쟁사 D램 기술"
+    },
+    {
+      "id": "7736407783",
+      "title": "美 엑셀리스, 평택 반도체 장비 공장 증설 착공⋯아태 생산거점 확대",
+      "url": "https://www.inews24.com/view/2016829",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "엑셀리스 평택 증설 착공(전일 재수집)"
+    },
+    {
+      "id": "880d1171ed",
+      "title": "미증유의 길 들어선 메모리…HBM도 &apos;고객과 설계하는 시대&apos;",
+      "url": "https://www.inews24.com/view/2016616",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "HBM4E부터 고객 공동설계 시대 — HBM 사업 방식 변화(전일 재수집)"
+    },
+    {
+      "id": "2579285ca5",
+      "title": "산업부, 반도체혁신성장지원단 출범…초대 단장에 이규봉",
+      "url": "https://www.inews24.com/view/2016705",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "high",
+      "reason": "산업부 반도체혁신성장지원단 출범 — 정책·인사(전일 재수집)"
+    },
+    {
+      "id": "3eee2a3c7a",
+      "title": "AI 대호황에 반도체 장비투자 쑥…올해 1490억달러",
+      "url": "https://www.inews24.com/view/2016696",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "300mm 팹 장비투자 1490억달러 전망(전일 재수집)"
+    },
+    {
+      "id": "f0709b7712",
+      "title": "곽노정 SK하이닉스 사장 &quot;美·中·日 생태계 강화…우리도 키워야&quot;",
+      "url": "https://www.inews24.com/view/2016651",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "곽노정 SK하이닉스 사장 소부장 생태계 강화 발언(전일 재수집)"
+    },
+    {
+      "id": "92fbe59597",
+      "title": "삼성전기, 메모리 기판 3605억원 수주…장기계약 누적 4.3조원",
+      "url": "https://www.inews24.com/view/2016634",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "삼성전기 메모리 패키지기판 3605억 장기계약(전일 재수집)"
+    },
+    {
+      "id": "8a117bd507",
+      "title": "현대모비스, 車 전력반도체 국산화...이규석이 짚은 'R&D 팹'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676269",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "현대모비스 車 전력반도체 국산화와 R&D 팹 — 메모리 무관"
+    },
+    {
+      "id": "81920611a3",
+      "title": "현대모비스, '車 반도체 국산화' 핵심은 내재화·범용 협력",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676266",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "현대모비스 車 반도체 국산화 전략 — 메모리 무관"
+    },
+    {
+      "id": "40de2a939f",
+      "title": "현대모비스, 車 시스템반도체 13종 개발 착수...9종 목표 차종 선정",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676255",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "현대모비스 車 시스템반도체 13종 개발 착수 — 메모리 무관"
+    },
+    {
+      "id": "7d4706ad80",
+      "title": "엘앤에프, 초격차 투트랙 승부수 ‘하이니켈·LFP 양극재’ [현장+]",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676251",
+      "source": "블로터",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "엘앤에프 양극재 — 배터리, 반도체 무관"
+    },
+    {
+      "id": "576a86f56b",
+      "title": "[LIG D&A 쇄신 셈법] 대표 직속 감사 독립성 한계…신설 준법감사실 시험대",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676265",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "LIG D&A 내부감사 — 방산 지배구조, 반도체 무관"
+    },
+    {
+      "id": "d631b66ba6",
+      "title": "비싼폰 더 비싸져 못사는 신흥국…삼성, '보상판매·할부'로 승부수",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676221",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "low",
+      "reason": "삼성 신흥국 스마트폰 할부·보상판매 — 메모리 가격 상승의 세트 영향 언급이 있으나 본질은 모바일 마케팅이라 경계 사례"
+    },
+    {
+      "id": "f6915fc382",
+      "title": "[팹리스 돋보기] 어보브반도체, 가전용 MCU 고도화…양산·가동률 관건",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676022",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "어보브반도체 가전용 MCU — 팹리스, 메모리 무관"
+    },
+    {
+      "id": "d76d76b9cf",
+      "title": "[테크M 이슈] 반도체 호황, 협력사까지 퍼진다…4대 은행·SK하이닉스 '2조 금융동맹'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156326",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스·4대 은행 2조 금융동맹 분석 — SK하이닉스 직접(전일 이벤트 후속)"
+    },
+    {
+      "id": "e87c705ac3",
+      "title": "[글로벌] 미국, 딥시크 사용 금지 확대...중국 AI 보안 우려에 규제 강화",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156303",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "美 딥시크 사용 금지 확대 — AI 보안 규제, 반도체 연결 약함"
+    },
+    {
+      "id": "ce6ff8c2c6",
+      "title": "삼성전기, 'AI 사업·AI 전환' 두 마리 토끼 잡는다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156298",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "삼성전기 AI 서버·반도체 기판 LTA 확대와 사내 AX — 패키지기판 공급망"
+    },
+    {
+      "id": "8498c4fee6",
+      "title": "SK하이닉스 '소부장'·KT '스타트업', 상생 활동 강화",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156292",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "high",
+      "reason": "SK하이닉스 소부장 수출공급망 보증 협약 — SK하이닉스 직접(전일 이벤트 후속)"
+    },
+    {
+      "id": "75dda5cc87",
+      "title": "\"단기 실적보다 공급망 생존\"…현대모비스, 車반도체 생태계 선제 베팅",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728651",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "현대모비스 車반도체 생태계 협력체계 — 메모리 무관"
+    },
+    {
+      "id": "10a26e3cbe",
+      "title": "삼성전자, 광주 반도체 클러스터에 8차선 도로·용수 확보 요청",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728644",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "삼성전자 광주 반도체 클러스터 도로·용수 요청 — 경쟁사 인프라"
+    },
+    {
+      "id": "139201d468",
+      "title": "빅테크, AI 메모리 조달 다변화 속도…엔비디아 '표준화'·인텔 '우회'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728643",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "엔비디아 NVHBM 베이스다이 TSMC 통일, 인텔·테슬라 HBM 우회 — HBM 조달 전략 직접"
+    },
+    {
+      "id": "8b03842024",
+      "title": "이익률 올랐는데…기업 43%는 이자도 못 벌어",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728600",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "기업 43% 이자보상배율 미달 — 경제 통계, 반도체는 배경 언급"
+    },
+    {
+      "id": "3f36ebce34",
+      "title": "[Gov & Now] 산업부 \"반도체 호황, 초격차 도약으로\"…산업 발전 유공자 84명 포상 등",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728572",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "산업부 반도체 호황 초격차 정책·유공자 포상 — 정책 브리핑 묶음"
+    }
+  ]
+}
