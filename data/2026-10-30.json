@@ -1,0 +1,525 @@
+{
+  "date": "2026-10-30",
+  "articles": [
+    {
+      "id": "4e652b2b61",
+      "title": "SK하이닉스, 11월 1일부로 사장단 인사 단행…안현 개발총괄 사장 '미주총괄'로",
+      "url": "https://www.etnews.com/20261030000043",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "SK하이닉스 사장단 인사 — HBM·SOCAMM 개발 이끈 안현 사장 미주총괄 신설, 개발조직 재편"
+    },
+    {
+      "id": "2d197aa3a4",
+      "title": "전영현 “호황일수록 겸손” vs 노태문 “원가 파고 넘자”…창립 57주년 메시지",
+      "url": "https://www.etnews.com/20261030000007",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "삼성전자 창립기념 메시지 — DS부문장 발언이나 실적 외 기술·사업 정보는 제한적"
+    },
+    {
+      "id": "a1037e5ebf",
+      "title": "인텔, 3분기 매출 21% 증가…PC 둔화로 4분기 전망은 하향",
+      "url": "https://www.etnews.com/20261030000003",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "인텔 3분기 실적·4분기 가이던스 하향 — 고객사/업계 동향, 메모리 직접 연결은 간접적"
+    },
+    {
+      "id": "cbd6032d09",
+      "title": "400만원 간다더니 165만원?…SK하닉 목표주가 235만원 차이, “개미들만 골머리”",
+      "url": "https://www.etnews.com/20261029000471",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "high",
+      "reason": "SK하이닉스 목표주가 증권사별 격차 — 주가 전망 기사로 기술·사업 정보 없음"
+    },
+    {
+      "id": "9992a0031e",
+      "title": "[AI 고속도로] AI에 클라우드 판 '흔들'…구글·MS 맹추격에 아마존 1위 수성 '비상'",
+      "url": "https://zdnet.co.kr/view/?no=20261030113437",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "AWS·MS·구글 클라우드 경쟁과 AI 인프라 투자 — HBM 수요 배경이나 간접적"
+    },
+    {
+      "id": "5c5bc17589",
+      "title": "삼성·SK하이닉스 분기 영업익 100조 '뉴노멀' 시대 연다",
+      "url": "https://zdnet.co.kr/view/?no=20261030101404",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성·SK하이닉스 분기 영업익 100조 시대 — SK하이닉스 4분기 100조 돌파 전망, 메모리 가격·출하"
+    },
+    {
+      "id": "b6ebd685f7",
+      "title": "한미반도체, 3분기 실적 전년보다 늘었지만, 전분기 대비 역성장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64592",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "high",
+      "reason": "한미반도체 3분기 실적 — HBM용 TC본더 수요(SK하이닉스 공급망), 전분기 대비 역성장"
+    },
+    {
+      "id": "18ee18526f",
+      "title": "SK, 사장단 인사...곽노정·장용호 유임, 이노베이션 정승일 발탁",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64590",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "SK그룹 사장단 인사 — 곽노정 유임 등 SK하이닉스 포함이나 그룹 전반 인사 중심"
+    },
+    {
+      "id": "7447341b3c",
+      "title": "'메모리 후공정 장비사' 아테코, 코스닥 기술상장 도전",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64543",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "메모리 후공정 테스트 핸들러 업체 아테코 상장 추진 — HBM·LPCAMM 검사장비 소부장"
+    },
+    {
+      "id": "2769f7ea48",
+      "title": "인텔-SAP, 피지컬 AI 협력...기업 전산-로봇 연결한다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64545",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "인텔-SAP 피지컬 AI 협력 — 물류 로봇 연동으로 메모리·공정과 무관"
+    },
+    {
+      "id": "8c6c6b681d",
+      "title": "이비덴, 1조3000억원 투입해 CPU 기판 생산능력 확충",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64567",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "high",
+      "reason": "이비덴 CPU 패키지 기판 1.3조 증설 — AI 서버 패키징 공급망, 메모리 직접 연결 없음"
+    },
+    {
+      "id": "c6988856ea",
+      "title": "자람테크놀로지, 30억 규모 ASIC 공급...하이패스 결제용",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64565",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "자람테크놀로지 하이패스 결제용 ASIC 공급 — 메모리와 무관한 소규모 계약"
+    },
+    {
+      "id": "a940b17fe5",
+      "title": "한화세미텍, 반도체 장비 매출 115% 폭풍 성장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64563",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "한화세미텍 반도체 장비 매출 115% 성장 — TC본더 등 후공정 장비 공급사 실적"
+    },
+    {
+      "id": "3f2e265b84",
+      "title": "삼성전자 2026년 3분기 실적발표 컨퍼런스콜 전문",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64531",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성전자 3분기 컨퍼런스콜 전문 — 경쟁사 메모리·HBM 전략 원문 자료"
+    },
+    {
+      "id": "a8aeb86a9a",
+      "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64510",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "삼성전자 반도체 영업익 106.5조, 내년 HBM 완판 — 경쟁사 메모리 실적·HBM 수급"
+    },
+    {
+      "id": "f68cf1988d",
+      "title": "반도체주, 알파벳 실적 충격에 ‘휘청’… 하이닉스 8% 급락",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173176",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "알파벳 실적 충격에 반도체주 급락 — 증시 시황 기사, AI 투자 회의론 배경만 언급"
+    },
+    {
+      "id": "b9598cd365",
+      "title": "한미반도체, 3분기 영업익 908억…34% 증가",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173171",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "high",
+      "reason": "한미반도체 3분기 영업익 908억 — HBM TC본더 수요, 4분기 최대 매출 전망"
+    },
+    {
+      "id": "cd2cc1d01a",
+      "title": "1.3조 쏘는 엔비디아, 네이버 3대 주주 등극",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173160",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "엔비디아 네이버 지분 투자 — 고객사 투자 뉴스이나 반도체 수요와 무관"
+    },
+    {
+      "id": "c14b961c50",
+      "title": "SK하이닉스, 사장급 美 현지총괄 신설… 안현 사장 선임",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173166",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "SK하이닉스 美 미주총괄 신설·안현 사장 선임, 차선용 개발총괄 — 빅테크 고객 대응 조직"
+    },
+    {
+      "id": "b12e648354",
+      "title": "[개장] 코스피, 美빅테크 실적 실망에 5700선 후퇴",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173158",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "코스피 개장 시황 — 증시 기사"
+    },
+    {
+      "id": "0ce24c1996",
+      "title": "인텔, 기대 이하 실적 전망에 시간외 21% 폭락",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173143",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "인텔 4분기 전망 실망 — 메모리 부족에 따른 비용 상승 언급, 간접적 메모리 연결"
+    },
+    {
+      "id": "b2cb5b7252",
+      "title": "나스닥, AI 수익성 우려에 1.4% 하락… 반도체주도 약세",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173140",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "나스닥 하락 시황이지만 'AI 인프라 투자 수익성 우려'가 HBM 수요 신호인지 단순 시황인지 경계"
+    },
+    {
+      "id": "3aade6252f",
+      "title": "AI 메모리 호황의 그늘…TV·가전 수익성 비상",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173073",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "메모리 호황에 TV·가전 원가 부담 — 메모리 가격 강세의 전방 수요 영향"
+    },
+    {
+      "id": "3ea2f051af",
+      "title": "골드만삭스, 티맵모빌리티 경영권 인수 추진",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173129",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "골드만삭스 티맵모빌리티 인수 — SK스퀘어 포트폴리오 재편, 반도체와 무관"
+    },
+    {
+      "id": "a05e4ce9cd",
+      "title": "인텔, 실적 선방에도 시간외 23% 급락…공장사고·PC 부진에 발목",
+      "url": "https://www.inews24.com/view/2020821",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "인텔 시간외 23% 급락 — 이스라엘 공장 사고·생산 제약, 업계 동향"
+    },
+    {
+      "id": "36155d02bd",
+      "title": "김동선 '반도체 승부수'…한화비전 3분기 영업익 1026억",
+      "url": "https://www.inews24.com/view/2020693",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "한화비전 실적 — 자회사 한화세미텍 반도체 장비 성장 언급, 지주사 실적 위주"
+    },
+    {
+      "id": "5c6188d77e",
+      "title": "샌디스크, 1Q 매출 378% 급증…데이터센터가 성장 견인",
+      "url": "https://www.inews24.com/view/2020654",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "샌디스크 매출 378% 급증 — 데이터센터 낸드 수요, 낸드 경쟁사 실적"
+    },
+    {
+      "id": "a61516b965",
+      "title": "어플라이드, 베시 지분 20%로…AI칩 '하이브리드 본딩' 경쟁 가열",
+      "url": "https://www.inews24.com/view/2020092",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "어플라이드, 베시 지분 20%로 확대 — HBM 차세대 하이브리드 본딩 장비 경쟁"
+    },
+    {
+      "id": "371e06f986",
+      "title": "삼성전자 \"내년 HBM 완판…메모리 장기계약 10곳 추가 협상\" [DS 컨콜종합]",
+      "url": "https://www.inews24.com/view/2020377",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "삼성 내년 HBM 완판·메모리 장기계약 10곳 추가 협상 — 경쟁사 HBM 수급·계약 구조"
+    },
+    {
+      "id": "572ca60dfb",
+      "title": "삼성전자 \"내년 HBM 물량 완판...고객사 추가 공급 요청 지속\"",
+      "url": "https://www.inews24.com/view/2020339",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "삼성 내년 HBM 물량 가격협상 완료, HBM4 매출 3배 — 경쟁사 HBM4 진척"
+    },
+    {
+      "id": "f4c1f04e73",
+      "title": "삼성전자 \"메모리 공급난 2028년에도 지속\"…HBM4E·HBM5도 변수",
+      "url": "https://www.inews24.com/view/2020320",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "삼성 메모리 공급난 2028년 지속 전망, HBM4E·HBM5 생산 제약 — 메모리 수급 전망"
+    },
+    {
+      "id": "dab116ed16",
+      "title": "삼성전자 \"내년 8나노 이하 가동률 100% 넘을 것\"…美 테일러 팹 가동",
+      "url": "https://www.inews24.com/view/2020306",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "삼성 파운드리 8나노 이하 가동률·테일러 팹 가동 — 파운드리 경쟁, 메모리 간접"
+    },
+    {
+      "id": "56cef95953",
+      "title": "삼성전자, 올해 시설투자 84.4조원…91% 반도체 투입",
+      "url": "https://www.inews24.com/view/2020272",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "삼성 올해 시설투자 84.4조, 91% 반도체 — 경쟁사 메모리 증설 규모 지표"
+    },
+    {
+      "id": "34e1276780",
+      "title": "삼성전기 \"내년 MLCC 매출 절반 이상 LTA로\" [컨콜종합]",
+      "url": "https://www.inews24.com/view/2019998",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "삼성전기 MLCC·FC-BGA 장기계약 — AI 서버 부품 공급망, 메모리와 간접적"
+    },
+    {
+      "id": "f5fa42e4f8",
+      "title": "인피니언, 세계 첫 300㎜ GaN 전력반도체 양산시설 구축",
+      "url": "https://www.inews24.com/view/2019837",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "인피니언 300mm GaN 전력반도체 양산시설 — 전력반도체로 메모리와 무관"
+    },
+    {
+      "id": "8ecd653ebe",
+      "title": "솔리다임 투자 명분에도 주주환원 택했다…투자차익 유보 관행과 결별",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677201",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "medium",
+      "reason": "SK하이닉스 키옥시아 투자수익 주주환원 — 솔리다임·용인·인디애나 투자 재원 이슈, 재무 측면"
+    },
+    {
+      "id": "6430ef4787",
+      "title": "한솔아이원스, 2170억 들여 캐파 확장…600억은 주주 손 빌린다",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677217",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "한솔아이원스 반도체 장비 부품 캐파 2.5배 확장 — 소부장 투자"
+    },
+    {
+      "id": "95ea3fb42f",
+      "title": "한미반도체, 또 실적 신기록 유력…HBM 패권 쥐고 美 메가팹 공략",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677235",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "high",
+      "reason": "한미반도체 HBM TC본더 실적 신기록, 美 메가팹 공략 — HBM 패키징 장비"
+    },
+    {
+      "id": "40f9850ba1",
+      "title": "'안정 속 쇄신' SK하이닉스, 곽노정 체제 유지…美·HBM 사장 재편",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677227",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 76,
+      "confidence": "high",
+      "reason": "SK하이닉스 곽노정 체제 유지, 美·HBM 사장 재편 — HBM·대규모 투자 과제"
+    },
+    {
+      "id": "ed926a7573",
+      "title": "[유상증자 모니터] 에이팩트, 소캠2 증설 사활…실적 개선 주목",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677200",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "medium",
+      "reason": "에이팩트 SOCAMM2 테스트 증설 유상증자 — 메모리 모듈 후공정, 소규모 OSAT"
+    },
+    {
+      "id": "11a82f7946",
+      "title": "연구실 벗어난 60대 석학들…초저전력AI·양자컴 품고 '황혼 창업' 러시",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677029",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "석학 딥테크 창업 트렌드 — AI 반도체 스타트업 언급뿐, 메모리와 무관"
+    },
+    {
+      "id": "b9e60de1f3",
+      "title": "SK하이닉스 사장단 인사...안현-차선용-윤풍영 사장 전진 배치",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156688",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "SK하이닉스 사장단 인사 — 안현 미주총괄, 차선용 개발총괄, 윤풍영 사장 전진 배치"
+    },
+    {
+      "id": "e1b059196f",
+      "title": "인텔 \"AI 강세, 칩플레이션 상쇄...2028년까지 반도체 공급 부족\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156683",
+      "source": "테크M",
+      "category": "other",
+      "relevance": 58,
+      "confidence": "high",
+      "reason": "인텔 '2028년까지 반도체 공급 부족' — 칩플레이션·메모리 비용 언급, 업계 수급 시각"
+    },
+    {
+      "id": "e866e42679",
+      "title": "인텔, 3분기 PC·파운드리 '울고' AI 서버 '웃고'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156682",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "high",
+      "reason": "인텔 3분기 AI 서버 CPU 호조, PC·파운드리 부진 — 업계 동향"
+    },
+    {
+      "id": "4088da0d3f",
+      "title": "삼성전자·SK하이닉스 \"LTA 포함 2028년 메모리 '완판'...주주환원 확대\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156667",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "삼성·SK하이닉스 LTA 포함 2028년 메모리 완판 — 양사 컨콜 비교, 범용 D램 수익성"
+    },
+    {
+      "id": "0fe9b174e0",
+      "title": "[글로벌] 엔비디아, AI 플랫폼까지 장악하나...129억달러 허깅페이스 인수에 美 정부 조사",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156654",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "엔비디아 허깅페이스 인수 반독점 조사 — 고객사 동향이나 소프트웨어 영역"
+    },
+    {
+      "id": "6918892ca5",
+      "title": "삼성전자 \"2028년도 메모리 공급 부족...HBM 점유율, D램 수준 확보\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156647",
+      "source": "테크M",
+      "category": "other",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "삼성 2028년 메모리 공급부족, HBM 점유율 D램 수준 확보 목표 — 경쟁사 HBM 전략"
+    },
+    {
+      "id": "f1157713a4",
+      "title": "SK스퀘어, 티맵 떼내고 AI·반도체 집중",
+      "url": "https://www.hankyung.com/article/2026102943851",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "low",
+      "reason": "SK스퀘어(SK하이닉스 지주사) 티맵 매각 — 본문 없음, AI·반도체 투자 집중 내용인지 판단 근거 부족"
+    },
+    {
+      "id": "48a0469a93",
+      "title": "라온로보틱스, 3Q 영업익 39억원…전년比 259%↑",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729848",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "high",
+      "reason": "라온로보틱스 웨이퍼 이송로봇 실적 — 공정 장비 소부장 소형사"
+    },
+    {
+      "id": "a36406bc98",
+      "title": "삼성전자 DS, 네온가스 재활용 본격화…2030년 폐기물 재활용률 99.9% 목표",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729833",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "삼성 DS 네온가스·텅스텐 재활용 — 공정 소재 공급망 안정성, 노광 공정 가스"
+    },
+    {
+      "id": "8d12166ad9",
+      "title": "한미반도체, 3Q 영업이익률 50% 돌파…4Q 최대 매출 전망",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729812",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 66,
+      "confidence": "high",
+      "reason": "한미반도체 3분기 영업이익률 50% — HBM TC본더, 4분기 최대 매출 전망"
+    },
+    {
+      "id": "e1b9e9f2f3",
+      "title": "SK하이닉스, 사장급 인사 단행…미주총괄 신설·개발조직 재편",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729805",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 78,
+      "confidence": "high",
+      "reason": "SK하이닉스 사장급 인사 — 미주총괄 신설·개발조직 재편, AI 메모리 경쟁력"
+    }
+  ]
+}
