@@ -1,0 +1,495 @@
+{
+  "date": "2026-11-04",
+  "articles": [
+    {
+      "id": "4b91d02cef",
+      "title": "美 상무부, SK하이닉스 中 다롄 공장 증설용 장비 허가 보류…뉴욕 투자에도 영향",
+      "url": "https://www.etnews.com/20261104000065",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "SK하이닉스 다롄 공장(솔리다임) 증설용 미국산 장비 수출 허가 보류. 낸드 생산능력·미국 투자 계획에 직접 영향"
+    },
+    {
+      "id": "4efad01cf9",
+      "title": "과기정통부, AMD와 AI 반도체 협력 본격화…운영위 정기 개최",
+      "url": "https://www.etnews.com/20261104000045",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "과기정통부-AMD AI 반도체 협력 운영위. 정책·생태계 차원으로 메모리와의 연결은 간접적"
+    },
+    {
+      "id": "080f3b2868",
+      "title": "반도체 장비, 3년뒤 계약까지 줄섰다",
+      "url": "https://www.etnews.com/20261103000452",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "AI 투자 경쟁으로 반도체 장비 리드타임 급증, 3년 뒤 납품분까지 선계약. 메모리 증설·장비 공급망에 직접 관련"
+    },
+    {
+      "id": "ba2e4520d5",
+      "title": "삼성전자가 '긴급주문' SOS 보내자…대만 파운드리가 거절한 이유",
+      "url": "https://www.etnews.com/20261103000413",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "삼성 폴더블용 OLED DDI 추가 생산을 UMC가 거절. 성숙 공정 파운드리 캐파 부족 이슈로 메모리와는 거리 있음"
+    },
+    {
+      "id": "698458d64c",
+      "title": "모빌린트, ETRI와 국산 NPU 기술 '레이' 메인 코드 탑재",
+      "url": "https://zdnet.co.kr/view/?no=20261104084037",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "모빌린트 NPU의 Ray 프레임워크 공식 반영. 소프트웨어 호환성 이슈로 메모리 무관"
+    },
+    {
+      "id": "579cf44795",
+      "title": "\"하한가 너무해\"... 씨엠티엑스 \"이익 하락은 일시적 현상\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64840",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "반도체 소모성 부품사 씨엠티엑스 수익성 하락 해명. 식각 공정 부품 공급망이나 개별 기업 실적"
+    },
+    {
+      "id": "82469ed0d7",
+      "title": "AMD의 질주…3분기 최대 실적, 4분기는 더 좋다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64831",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "AMD 3분기 사상 최대 실적·4분기 호조 전망. AI 가속기 수요는 HBM 수요와 연결되나 간접적"
+    },
+    {
+      "id": "1bc3639e19",
+      "title": "인피니언, 퀄컴 스냅드래곤 라이드용 MCU 서브시스템 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64826",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "인피니언-퀄컴 차량용 MCU 협력. 메모리·공정과 무관"
+    },
+    {
+      "id": "15b15d3674",
+      "title": "딥엑스, AMD 수석부사장 만났다...기술 협력 논의",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64828",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "엣지 NPU 팹리스 딥엑스-AMD 협력 논의. 메모리와 무관"
+    },
+    {
+      "id": "9842d0e843",
+      "title": "LX세미콘, 상장 후 첫 분기 적자...대표도 교체",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64822",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "디스플레이 구동칩 업체 LX세미콘 첫 분기 적자. 메모리 사업과 무관"
+    },
+    {
+      "id": "dd13291412",
+      "title": "LX세미콘, 신임 대표로 나준호 부사장 내정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64817",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "LX세미콘 대표 교체 인사. 인물 동정"
+    },
+    {
+      "id": "8d44118800",
+      "title": "심텍, 영업익 4년 만에 1000억원 돌파",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64813",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "반도체 패키지 기판사 심텍 4년 만의 영업익 1000억 돌파. 메모리 모듈·패키지 기판 수요 호조 반영"
+    },
+    {
+      "id": "309f8fb222",
+      "title": "'한미 vs 한화' TC 본더 특허전, 분쟁조정위 간다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64806",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "HBM용 TC본더 한미반도체-한화세미텍 특허분쟁 조정 절차 돌입. HBM 후공정 장비 공급망 직접 관련"
+    },
+    {
+      "id": "40e7905f5d",
+      "title": "테크윙, 반도체 장비 생산능력 확대…526억 투자",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64808",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "메모리 테스트 핸들러 업체 테크윙 526억 증설. 메모리 후공정 장비 공급 확대"
+    },
+    {
+      "id": "e6e2c80192",
+      "title": "원익그룹 신입 공채에 1만2348명 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64802",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "원익그룹 신입 공채 지원자 수. 채용 소식"
+    },
+    {
+      "id": "a5a1cbd61f",
+      "title": "애플, 폴더블폰 생산·메모리 확보 '이중고'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64780",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "애플 폴더블 공급·메모리 확보 난항, 메모리값 급등에 수익성 부담. 메모리 가격 파급이나 고객사 관점"
+    },
+    {
+      "id": "3eb65f86bd",
+      "title": "애플, 차세대 OLED HMO 증착 방식 저울질",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64685",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "애플 OLED HMO 증착 방식 검토. 디스플레이 공정으로 반도체 메모리와 무관"
+    },
+    {
+      "id": "5c1fec9b14",
+      "title": "삼전·닉스, 美 중간선거 불확실성에 장중 하락 전환",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000213",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "삼성전자·SK하이닉스 장중 주가 하락. 증시 시황"
+    },
+    {
+      "id": "47ca5e4602",
+      "title": "[개장] 코스피, 美반도체주 강세에 5700선 회복",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000195",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "코스피 개장 시황"
+    },
+    {
+      "id": "9edc78f77f",
+      "title": "곽동신 회장, 자사주 100억 추가 매입…총 802억",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000189",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "한미반도체 회장 자사주 매입. 지배구조·주가 이슈"
+    },
+    {
+      "id": "e70065e24f",
+      "title": "美, 솔리다임 中 공장 증설 제동…SK하이닉스 난감",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000185",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "미국이 솔리다임 다롄 공장 증설 장비 승인 보류. SK하이닉스 중국 낸드 운영·대미 투자 재원 계획에 직접 영향"
+    },
+    {
+      "id": "61bd5375a4",
+      "title": "애플, 메모리값 급등 우려에 2% 하락… 시총 1위 내줘",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000182",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "메모리값 상승에 따른 애플 수익성 우려로 주가 하락. 메모리 가격 파급의 시장 반응"
+    },
+    {
+      "id": "d5f3d83ce5",
+      "title": "나스닥, 중간선거 속 0.8% 반등… 반도체지수 2.6% 상승",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000181",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "나스닥·반도체지수 시황"
+    },
+    {
+      "id": "0ccf4b1ae7",
+      "title": "AI발 메모리값 급등…로봇청소기도 비상",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000118",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "AI발 메모리값 급등으로 로봇청소기 업체 원가 부담. 메모리 가격 파급 효과"
+    },
+    {
+      "id": "0e57c3b3ec",
+      "title": "AMD \"메모리 공급사와 장기계약\"…삼성전자로 추정",
+      "url": "https://www.inews24.com/view/2022394",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 75,
+      "confidence": "medium",
+      "reason": "AMD, 메모리 공급사와 장기공급계약(LTA) 언급. 삼성전자가 최대 공급사로 추정되어 HBM 경쟁 구도와 연결되나 상대방은 추정"
+    },
+    {
+      "id": "920d124a17",
+      "title": "곽동신 한미반도체 회장, 자사주 100억원 추가 매수…지분율 33.69%로",
+      "url": "https://www.inews24.com/view/2022333",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "한미반도체 회장 자사주 매입. 지배구조·주가 이슈"
+    },
+    {
+      "id": "0e4104ff76",
+      "title": "모빌린트 NPU, 글로벌 AI 플랫폼 'Ray' 공식 코드에 반영",
+      "url": "https://www.inews24.com/view/2022339",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "모빌린트 NPU의 Ray 공식 코드 반영. 메모리 무관"
+    },
+    {
+      "id": "f40b4fb09b",
+      "title": "한미반도체 VS 한화세미텍, TC본더 특허분쟁 조정 돌입…재판 연기",
+      "url": "https://www.inews24.com/view/2022232",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "한미반도체 vs 한화세미텍 HBM TC본더 특허분쟁 조정·재판 연기. HBM 장비 공급망 직접 관련"
+    },
+    {
+      "id": "9fee16780b",
+      "title": "마벨, '엔비디아 픽' 루멘텀 154조원에 인수…AI 레이저 공급망 재편",
+      "url": "https://www.inews24.com/view/2022253",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "마벨, 루멘텀 1150억달러 인수. AI 데이터센터 광연결 공급망 재편이나 메모리와 직접 연결은 없음"
+    },
+    {
+      "id": "c56961955b",
+      "title": "디스플레이 소부장에 AI 도입 지원…KDIA·KOSA 협약",
+      "url": "https://www.inews24.com/view/2022218",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "디스플레이 소부장 AI 도입 지원 협약. 반도체 메모리와 무관"
+    },
+    {
+      "id": "912ac673ff",
+      "title": "AMD 글로벌 AI 수석부사장, 딥엑스 김녹원 대표 만나…협력 논의",
+      "url": "https://www.inews24.com/view/2022118",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "딥엑스-AMD 협력 논의. 메모리와 무관"
+    },
+    {
+      "id": "f534809015",
+      "title": "AI 데이터센터가 끌어올린 낸드…샌디스크 호실적에 파두도 기대",
+      "url": "https://www.inews24.com/view/2021808",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "AI 데이터센터 기업용 SSD 수요로 낸드 시장 성장, 샌디스크 데이터센터 매출 18배. 낸드 사업 동향 직접 관련"
+    },
+    {
+      "id": "65d02b4c45",
+      "title": "애플, 가격 인상에 영업익 10%↑…연말엔 메모리·시리 비용 부담[종합]",
+      "url": "https://www.inews24.com/view/2021856",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "애플 실적과 연말 메모리 비용 부담. 메모리 가격 상승의 고객사 영향"
+    },
+    {
+      "id": "31826d08e9",
+      "title": "애플, 영업익 10% 늘었지만…\"메모리값 전례 없는 수준\"",
+      "url": "https://www.inews24.com/view/2021824",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "애플 \"메모리값 전례 없는 수준\" 언급. 메모리 가격 상승의 고객사 영향"
+    },
+    {
+      "id": "4d6b859092",
+      "title": "中 CXMT, 4F² 시제품 검증…'세계 최초 양산'은 미지수",
+      "url": "https://www.inews24.com/view/2021526",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "중국 CXMT 4F² D램 시제품 검증, 연말 서버 D램 샘플 공급 계획. 차세대 D램 셀 구조 경쟁사 기술 동향"
+    },
+    {
+      "id": "5cee192ca2",
+      "title": "스마트폰 한파 맞은 AP 양강…미디어텍·퀄컴, AI·車로 돌파구",
+      "url": "https://www.inews24.com/view/2021523",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "스마트폰 부진에 미디어텍·퀄컴 AP 수요 감소. 메모리 가격 상승의 수요측 파급"
+    },
+    {
+      "id": "44a953c443",
+      "title": "스마트폰 시장 20% 급감…삼성 1위 수성·중국 업체 타격",
+      "url": "https://www.inews24.com/view/2021473",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "3분기 스마트폰 시장 20% 역성장, 메모리 등 부품가 상승이 원인. 수요측 파급"
+    },
+    {
+      "id": "c5ba49b029",
+      "title": "엔비디아, 9~10일 서울서 'AI 데이' 개최…삼성·SK·LG 참여",
+      "url": "https://www.inews24.com/view/2021436",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "medium",
+      "reason": "엔비디아 AI 데이 서울에 삼성·SK하이닉스 참여. 주요 고객사 행사로 의미 있으나 구체적 기술 내용은 미정"
+    },
+    {
+      "id": "f371a850d1",
+      "title": "곽동신 한미반도체 회장, 사재 100억 추가 투입…올해만 다섯 번째",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677634",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "한미반도체 회장 자사주 매입. 지배구조·주가 이슈"
+    },
+    {
+      "id": "9dd55852e5",
+      "title": "[허정수칼럼] 메모리 반도체와 조선 홍삼",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677521",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "low",
+      "reason": "메모리 가격 협상력을 조선 홍삼 무역에 비유한 칼럼. 메모리 공급자 우위라는 실질 논지가 있으나 비유 중심 의견 기사라 실질 정보량 판단이 어려움"
+    },
+    {
+      "id": "d16a305afb",
+      "title": "AMD \"4분기 AIDC 매출, 일반 서버 '돌파'...2027년 성장 '지속'\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156881",
+      "source": "테크M",
+      "category": "other",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "AMD 4분기 AI 데이터센터 매출 전망·2027년 성장 지속. AI 가속기 수요로 HBM과 간접 연결"
+    },
+    {
+      "id": "8376d6f130",
+      "title": "AMD, 3분기 AIDC 강세 실적 신기록 행진 '지속'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156874",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "AMD 3분기 데이터센터 강세 실적. AI 가속기 수요로 HBM과 간접 연결"
+    },
+    {
+      "id": "1085aa1dd5",
+      "title": "애플 \"메모리값 전례 없는 수준\"…호실적에도 시간외 4% 급락",
+      "url": "https://www.hankyung.com/article/202611031658i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "애플 메모리값 언급에 시간외 급락. 메모리 가격 상승의 고객사 영향"
+    },
+    {
+      "id": "e004ddeab0",
+      "title": "애플 3분기 매출 11.7% 증가…메모리난에 영업이익률은 하락",
+      "url": "https://www.hankyung.com/article/202611031566i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "애플 3분기 실적, 메모리난에 영업이익률 하락. 메모리 가격 상승의 고객사 영향"
+    },
+    {
+      "id": "e2b72d4f48",
+      "title": "브릴스, 로보월드 최대 규모 참가…차세대 피지컬 AI 기술 선봬",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730400",
+      "source": "EBN",
+      "category": "other",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "로봇 전시회 참가 소식. 반도체와 무관"
+    },
+    {
+      "id": "04f200d891",
+      "title": "휴비스, 우주·방산 소재 띄운다…하이낸드·스마트공정연구원과 '3각 동맹'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730397",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "섬유소재 협약, 업체명 \"하이낸드\"에 키워드가 우연히 걸림"
+    },
+    {
+      "id": "f666d1ce9c",
+      "title": "이에스티, 코스닥 상장…반도체 정전척 국산화·차세대 사업 확대 본격화",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730379",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "정전척(ESC) 업체 이에스티 상장, 반도체 정전척 국산화 추진. 식각·증착 장비 핵심부품 공급망"
+    },
+    {
+      "id": "71ef950bef",
+      "title": "노태우 도쿄일렉트론코리아 대표, '외국기업의 날' 동탑산업훈장 수상",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730374",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "도쿄일렉트론코리아 대표 훈장 수상. 인물 동정"
+    },
+    {
+      "id": "8dacc8d71f",
+      "title": "2.5조 국가AI컴퓨팅센터 착공…씨이랩, GPU 통합 솔루션 부각",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730328",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "medium",
+      "reason": "국가AI컴퓨팅센터 착공과 GPU 운영 SW 기업 소개. 메모리와 무관"
+    }
+  ]
+}
