@@ -1,0 +1,455 @@
+{
+  "date": "2026-11-05",
+  "articles": [
+    {
+      "id": "82dfa6f41d",
+      "title": "삼성전자 D램 시장 점유율 '38%'…1위 수성",
+      "url": "https://www.etnews.com/20261105000460",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "카운터포인트 3분기 D램 점유율: 삼성 38%, SK하이닉스 29%, 마이크론 21%, CXMT 9%. 메모리 경쟁 구도 직접"
+    },
+    {
+      "id": "dee4faf43a",
+      "title": "HP “클라우드 AI 절반 로컬 PC로 옮겨 비용 45% 절감”…국내 반도체·의료·방송 현장 공략",
+      "url": "https://www.etnews.com/20261105000029",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "HP 로컬 AI 워크스테이션 사업 전략. '반도체'는 공략 대상 업종일 뿐 메모리와 무관"
+    },
+    {
+      "id": "353f0aa22d",
+      "title": "[ZD SW 투데이] 에이아이웍스, 중국 GSF 2026 참가",
+      "url": "https://zdnet.co.kr/view/?no=20261105122444",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "SW 업계 단신 모음. AI 반도체 언급은 스타트업 행사 참가 수준"
+    },
+    {
+      "id": "cf1202a613",
+      "title": "美중간선거 여파…AI 산업 규제 불안감에 금융시장 파랗게 질려",
+      "url": "https://zdnet.co.kr/view/?no=20261105153437",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "medium",
+      "reason": "美 중간선거 후 국내 증시 급락 시황. AI 데이터센터 규제 우려가 배경이나 주 내용은 금융시장"
+    },
+    {
+      "id": "be833eb4c1",
+      "title": "솔더볼 매출 확대... 덕산하이메탈 9개월 만에 작년 연간 매출 상회",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64966",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "솔더볼(패키징 소재) 업체 덕산하이메탈 3분기 최대 실적. 후공정 소재 공급망 업황 지표"
+    },
+    {
+      "id": "dc0f814986",
+      "title": "온프레미스 HPC 시장 규모 20% 성장...출하량은 제자리",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64961",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "온프레미스 HPC 시장 20% 성장, 고가 AI 가속기 영향. AI 서버 수요 간접 지표"
+    },
+    {
+      "id": "f0f244c610",
+      "title": "인피니언, 솔루엠과 AI 데이터센터 HVDC 전원 공동 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64949",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "인피니언-솔루엠 데이터센터 HVDC 전원 협력. 전력반도체 분야로 메모리와 무관"
+    },
+    {
+      "id": "91f2f1bc91",
+      "title": "퀄컴 \"내년 스마트폰 시장 보합...데이터센터 매출 대폭 확대\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64940",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "퀄컴, 메모리 공급 부족·가격 상승으로 스마트폰 시장 역성장 전망. 모바일 메모리 수요 간접 영향"
+    },
+    {
+      "id": "4b62f5c48c",
+      "title": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64933",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "LS일렉트릭 전력설비 진단 기술. 반도체 공장은 적용처 예시일 뿐"
+    },
+    {
+      "id": "9a3bfbac4e",
+      "title": "오라클, 텐센트와 9조원대 AI 반도체 임대계약 취소",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64928",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "오라클-텐센트 70억달러 AI 반도체 임대계약 취소. 미중 규제가 AI 인프라 수요에 미치는 영향"
+    },
+    {
+      "id": "48024d2568",
+      "title": "日JIC, 미쓰이화학에 JSR 매각 추진",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64924",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "포토레지스트 핵심 업체 JSR 미쓰이화학 매각 추진. EUV/ArF 소재 공급망 변화"
+    },
+    {
+      "id": "6c077e09b1",
+      "title": "[차이나 브리프] 실리콘 웨이퍼 가격 본격 상승세",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63735",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "high",
+      "reason": "실리콘 웨이퍼 2년 재고조정 끝 가격 상승 전환, 12인치 AI/HPC용 중심. 메모리 원가·소재 공급망"
+    },
+    {
+      "id": "6b641203e0",
+      "title": "퀄컴, 4분기 매출 시장 전망 상회...내년 성장세 전환",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64920",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "퀄컴 FY4Q 실적, 데이터센터 매출 본격화. 메모리와의 연결은 간접적"
+    },
+    {
+      "id": "f14ff4c9e2",
+      "title": "시높시스 \"AI 시대, 반도체 설계 엔지니어 '시스템 검증자' 돼야\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64797",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "시높시스, AI 시대 설계 엔지니어 역할론. HBM·패키징 역량 언급은 있으나 인터뷰 성격"
+    },
+    {
+      "id": "1da7369948",
+      "title": "큐알티, 반도체 신뢰성 평가 사업 우주·유리기판으로 확대",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64873",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "큐알티 반도체 신뢰성 평가 사업 우주·유리기판 확대. 후공정 검증 서비스로 간접적"
+    },
+    {
+      "id": "22a9a06b87",
+      "title": "모빌린트 NPU, AI 소프트웨어 '레이' 지원 개선",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64902",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "모빌린트 NPU 소프트웨어 지원. 국내 팹리스 SW 개선으로 메모리와 무관"
+    },
+    {
+      "id": "7cf214f172",
+      "title": "도쿄일렉트론코리아 노태우 대표, '외국기업의 날' 동탑산업훈장 수상",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64876",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "도쿄일렉트론코리아 대표 훈장 수상. 인물 동정"
+    },
+    {
+      "id": "66d37389d5",
+      "title": "케이씨텍, 3분기 영업익 202억원...전년비 35.8% 증가",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64886",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "CMP 장비 업체 케이씨텍 3분기 실적 증가, 삼성·SK하이닉스 캐파 확대 수혜. 공정 장비 공급망"
+    },
+    {
+      "id": "76eaeb4ada",
+      "title": "선익시스템, 내년 세계 디스플레이 장비 매출 1위 전망",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64899",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "선익시스템 디스플레이 증착장비 매출 1위 전망. 디스플레이 장비로 메모리와 무관"
+    },
+    {
+      "id": "c6fa62cc87",
+      "title": "삼성, 폐쇄한 기흥 8인치 S7 장비 300대 DB에 통째 매각",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64905",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "삼성 기흥 8인치 S7 장비 300대 DB하이텍에 일괄 매각. 삼성 파운드리 8인치 철수 구체화"
+    },
+    {
+      "id": "3a5d595daa",
+      "title": "“韓 바이오, 반도체보다 잠재력 높아”… 정부, 바이오 육성 위해 머리 맞댄다",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000349",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "바이오 산업 육성 포럼. 반도체는 비교 대상으로만 언급"
+    },
+    {
+      "id": "7cdd0c266e",
+      "title": "[마감] 美 중간선거 후폭풍에 코스피 5% 급락… 5400선 붕괴",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000353",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 32,
+      "confidence": "medium",
+      "reason": "코스피 5% 급락 마감 시황. 반도체 대형주 매도가 원인이나 증시 기사"
+    },
+    {
+      "id": "f76e97c091",
+      "title": "D램 매출 369% 폭증…삼성 1위 수성",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000345",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "3분기 D램 매출 전년비 369% 급증, 삼성 1위·SK하이닉스 전분기비 40%+ 성장. 메모리 시황 직접"
+    },
+    {
+      "id": "90f5e97697",
+      "title": "美 의회 권력 교체…삼성·SK 대관 전략 비상",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000338",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "medium",
+      "reason": "美 민주당 의회 장악으로 AI 데이터센터 규제 가능성, 삼성·SK하이닉스 미국 투자·대관 전략 변수. SK하이닉스 직접 언급이나 전망성 기사"
+    },
+    {
+      "id": "f76f9b77f3",
+      "title": "美 그린트위드, ‘2026 외국기업의 날’ 산업부 장관표창 수상",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000326",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "그린트위드 CEO 장관표창. 수상 동정"
+    },
+    {
+      "id": "5f72193818",
+      "title": "현대차·기아, 차량용 반도체 개발 체계 국제 검증… 기능안전 강화",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000323",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "현대차·기아 차량용 SoC 개발 프로세스 인증. 메모리와 무관"
+    },
+    {
+      "id": "53439d7315",
+      "title": "9월 경상수지 614억달러 흑자… 사상 최대",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000310",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "9월 경상수지 사상 최대, 반도체 수출 견인. 거시경제 지표"
+    },
+    {
+      "id": "1d36de9284",
+      "title": "스페이스X·퀄컴, 美 전역에 5G 기지국 구축",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000304",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "스페이스X-퀄컴 5G 기지국 구축. 통신 사업으로 무관"
+    },
+    {
+      "id": "c0973ce3fb",
+      "title": "中 CXMT, 3분기 D램 점유율 9%…1년 만에 두 배 가까이 성장",
+      "url": "https://www.inews24.com/view/2023205",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "CXMT 3분기 D램 점유율 9%로 1년 새 두 배 가까이. 중국 메모리 경쟁사 추격"
+    },
+    {
+      "id": "7f77a9432b",
+      "title": "&quot;HBM 설계에 AI 활용&quot;…카이스트 테라랩, AI 에이전트 공개",
+      "url": "https://www.inews24.com/view/2023105",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "medium",
+      "reason": "KAIST 테라랩(김정호 교수) HBM 설계용 AI 에이전트 공개. HBM 직접 관련이나 학계 연구 도구"
+    },
+    {
+      "id": "bb8831bdc9",
+      "title": "삼성·SK하이닉스, 부산서 AI 반도체 제조기술 논의",
+      "url": "https://www.inews24.com/view/2023091",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "반디학회 부산 행사에 삼성·SK하이닉스·TEL이 AI 시대 반도체 제조기술 논의. 공정기술 직접 관련이나 행사 예고"
+    },
+    {
+      "id": "8e8144831b",
+      "title": "메모리 부족에 옵티머스 &apos;다이어트&apos;…AI6 D램 216→144GB",
+      "url": "https://www.inews24.com/view/2022655",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "테슬라 옵티머스 AI6 칩 D램 216→144GB 축소, 메모리 부족·비용 부담. 메모리 수급 타이트 신호"
+    },
+    {
+      "id": "94032b0e5b",
+      "title": "뉴플로이, 온디바이스 AI 소프트웨어 &apos;뉴플로이 AI&apos; 업데이트 공개",
+      "url": "https://www.inews24.com/view/2022930",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "업무 자동화 SW 업데이트. 반도체와 무관"
+    },
+    {
+      "id": "c75add4404",
+      "title": "&quot;中 최대 낸드 업체 YMTC, 6.8조원 상장 계획 보류&quot;",
+      "url": "https://www.inews24.com/view/2022786",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "中 최대 낸드 업체 YMTC 6.8조원 상장 계획 보류. 낸드 경쟁사 자금 조달 차질"
+    },
+    {
+      "id": "bb2327757c",
+      "title": "주성엔지니어링, 3분기 영업익 5배로…차세대 장비 성장 주목",
+      "url": "https://www.inews24.com/view/2022644",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "증착 장비업체 주성엔지니어링 3분기 영업익 5배, 차세대 ALG 장비 주목. 장비 공급망"
+    },
+    {
+      "id": "7a7b75a68a",
+      "title": "주성엔지니어링, 3분기 영업익 177억원…전년比 426% 증가",
+      "url": "https://www.inews24.com/view/2022619",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "high",
+      "reason": "주성엔지니어링 3분기 영업익 177억원(+426%). 동일 실적 다른 기사"
+    },
+    {
+      "id": "ebb0a6fde9",
+      "title": "AMD &quot;퓨리오사AI·망고부스트와 손잡고 내년 서울에 AI 인프라 구축&quot;",
+      "url": "https://www.inews24.com/view/2022560",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AMD-퓨리오사AI-망고부스트 서울 AI 인프라 구축. AI 반도체 생태계, 메모리 연결은 간접"
+    },
+    {
+      "id": "e60f66848d",
+      "title": "[어바웃C] LX세미콘 구원투수 나준호…적자·공급망 재편 '과제 산적'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677817",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "LX세미콘 신임 대표 과제 분석. 인사 중심, 삼성 8인치 철수 영향 언급"
+    },
+    {
+      "id": "6c8fd7fed9",
+      "title": "삼성 8인치 철수에 LX세미콘 비상…생산전략 변화 불가피",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677794",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "삼성 8인치 파운드리 2030년 철수로 LX세미콘 생산전략 변화. 파운드리 구조조정 파급"
+    },
+    {
+      "id": "7b7302f2fb",
+      "title": "퀄컴 \"갤럭시S27, 70%↑ '스냅드래곤'...DC 매출, 4분기부터 본격화\"(종합)",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156945",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 48,
+      "confidence": "medium",
+      "reason": "퀄컴 실적 종합, 갤럭시S27 스냅드래곤 비중 확대·DC 매출 본격화. 메모리와 간접"
+    },
+    {
+      "id": "2edfd10137",
+      "title": "퀄컴, 3분기 칩플레이션 '직격탄'...AI 시대 '부메랑'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156943",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "퀄컴 실적이 메모리 가격 상승(칩플레이션)에 직격탄. 메모리 가격이 고객 수요에 미치는 영향"
+    },
+    {
+      "id": "a5e9bf50ab",
+      "title": "KAIST 테라랩, 반도체 설계에 'AI 에이전트' 접목",
+      "url": "https://www.hankyung.com/article/202611058906i",
+      "source": "한국경제",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "low",
+      "reason": "KAIST 테라랩 반도체 설계 AI 에이전트(아이뉴스24 HBM 기사와 동일 이벤트 추정). RSS 본문이 비어 있어 제목만으로 판단"
+    },
+    {
+      "id": "85b4ff0010",
+      "title": "[바이오현장] \"반도체 다음은 바이오\"…대한민국 '넥스트 엔진' 시동 건다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730636",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 5,
+      "confidence": "high",
+      "reason": "바이오 산업 육성 포럼. 반도체는 비교 대상"
+    },
+    {
+      "id": "bba864a5fd",
+      "title": "삼성전자 D램 1위 수성…SK 반격 속 HBM4 주도권 경쟁",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730637",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 90,
+      "confidence": "high",
+      "reason": "D램 3분기 사상 최대, 삼성 1위·SK하이닉스 반등, HBM4 주도권 경쟁과 슈퍼사이클 내년 지속 전망"
+    },
+    {
+      "id": "a2c8a74fd6",
+      "title": "코스피, 美 AI 규제 우려에 5%대 급락…외국인 3.4조 매도",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730629",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "코스피 5% 급락·외국인 3.4조 매도 시황. 반도체 대형주 하락이 원인이나 증시 기사"
+    }
+  ]
+}
