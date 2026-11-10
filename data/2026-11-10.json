@@ -1,0 +1,495 @@
+{
+  "date": "2026-11-10",
+  "articles": [
+    {
+      "id": "22719abc77",
+      "title": "삼성-현대차, 미래 모빌리티 '원팀' 선언",
+      "url": "https://www.etnews.com/20261109000305",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "high",
+      "reason": "삼성-현대차 그룹 간 모빌리티·피지컬 AI 협력 행사. 차량용 반도체 언급은 있으나 메모리 기술·사업과 직접 연결 없음"
+    },
+    {
+      "id": "ab06ac2b96",
+      "title": "코스피, 장중 반등 못 지키고 0.81%↓…5000선 턱걸이",
+      "url": "https://www.etnews.com/20261109000378",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 마감 시황 기사. 반도체주 언급은 증시 흐름 설명용"
+    },
+    {
+      "id": "c32f7490f3",
+      "title": "서울시, 獨 헨켈 반도체 소재 R&D 센터 유치…2031년까지 121억원 투자",
+      "url": "https://www.etnews.com/20261109000288",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "헨켈의 HBM·첨단 패키징 소재 R&D센터 서울 유치. 패키징 소재 공급망 관련이나 개별 투자 건"
+    },
+    {
+      "id": "f02891e094",
+      "title": "SK텔레콤, 통합AIDC 인프라 구축…엔비디아 GPU에 국산 NPU 연결",
+      "url": "https://www.etnews.com/20261109000264",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "SKT AIDC에 엔비디아 GPU와 국산 NPU를 결합. AI 인프라 생태계 동향으로 메모리 수요와는 간접 연결"
+    },
+    {
+      "id": "ce1eaa56c6",
+      "title": "구글, 차세대 TPU 2종 공개…추론 속도 높이고 보안까지 잡는다",
+      "url": "https://zdnet.co.kr/view/?no=20261109105043",
+      "source": "ZDNet Korea",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "구글 차세대 TPU 2종 공개. HBM 주요 수요처인 맞춤형 AI 가속기 동향이나 메모리 사양 언급은 불명확"
+    },
+    {
+      "id": "67384b188e",
+      "title": "中 전기차 공포 현실화…세액공제 도입 필요성↑",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65135",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "전기차 생산세액공제 정책. 반도체는 기존 공제 대상으로만 언급됨"
+    },
+    {
+      "id": "a0ebada2b6",
+      "title": "中 HKC, 6세대 OLED 투자 지연",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65079",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "중국 HKC OLED 투자 지연. 디스플레이 산업 기사로 메모리와 무관"
+    },
+    {
+      "id": "ff66e2a59f",
+      "title": "삼성, 감사의 날 행사에 현대차 초청",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65118",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "high",
+      "reason": "삼성의 현대차그룹 초청 감사 행사. 기업 간 교류 행사 성격"
+    },
+    {
+      "id": "dd2a4c5482",
+      "title": "아이큐랩, 공사대금 31억 밀려 부산 사옥 가압류",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65104",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "아이큐랩 사옥 가압류. 전력반도체 업체의 재무·수사 이슈로 메모리 사업과 무관"
+    },
+    {
+      "id": "b7e5eb28be",
+      "title": "글로벌테크놀로지, 중국서 디스플레이 기술 심포지엄 개최",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65115",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "디스플레이 구동 기술 심포지엄. 디스플레이 IC 관련으로 메모리와 무관"
+    },
+    {
+      "id": "25941c0b5f",
+      "title": "한화세미텍, 컨설팅 전문가 김진우 사업총괄 신임 대표로 내정",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65121",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "HBM용 TC본더 업체 한화세미텍 대표 교체. HBM 후공정 장비 공급망 관련이나 인사 기사"
+    },
+    {
+      "id": "fd8ac309e6",
+      "title": "신사업 확대하는 나무가…美 알테라와 로봇 센서 개발",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65021",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "카메라 모듈 업체와 알테라의 로봇 센서 공동 개발. 메모리와 무관"
+    },
+    {
+      "id": "456e99d1e0",
+      "title": "램리서치코리아, 김태원 신임 대표 선임",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65085",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "램리서치코리아 대표 선임(CVD 출신). 주요 장비사 인사 동정으로 기술·사업 내용은 적음"
+    },
+    {
+      "id": "294c6eedf8",
+      "title": "퀄리타스반도체, 중국 ICCAD 2026서 인터페이스 IP 실시간 시연",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65076",
+      "source": "디일렉",
+      "category": "other",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "퀄리타스반도체 인터페이스 IP 중국 전시 참가. 설계자산 업체 홍보성 기사"
+    },
+    {
+      "id": "359bd486f2",
+      "title": "SEM 전문 코셈, 반도체 공정용 검사장비 진입 추진",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65063",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "코셈-한빛레이저 대기압 SEM 인라인 검사장비 개발(재수집분). 공정 계측 장비 국산화 동향"
+    },
+    {
+      "id": "468519952f",
+      "title": "서일대, AI·세무회계 교육과정 이수율 100%",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000565",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "대학 세무회계 교육과정 기사. 키워드 우연 매칭"
+    },
+    {
+      "id": "9af55bce02",
+      "title": "유가 하락에 美 증시 반등… 필반지수 6.9% 상승",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000606",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "미 증시 반등, 필라델피아 반도체지수 6.9% 상승. 증시 시황 기사"
+    },
+    {
+      "id": "c202369aab",
+      "title": "신기루된 오천피… 상장사 10개 중 7곳, 李 출범 전보다 주가 빠져",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000571",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 18,
+      "confidence": "high",
+      "reason": "정부 출범 전후 상장사 주가 비교. 반도체 대형주는 지수 설명용 언급"
+    },
+    {
+      "id": "4e5a7876c3",
+      "title": "엔비디아, 업스테이지 등 韓 AI 스타트업 4곳 투자 추진",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000597",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "엔비디아의 업스테이지 등 한국 AI 스타트업 투자. AI 반도체 연결 기술 업체 포함되나 메모리와는 간접적"
+    },
+    {
+      "id": "579ef96d66",
+      "title": "AI로 자소서 다듬고 기업 찾고… 청년들 몰린 일자리박람회 [르포]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000580",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "일자리박람회 르포. 반도체와 무관"
+    },
+    {
+      "id": "0733d64aed",
+      "title": "[마감] 기술적 반등 없었다… 코스피, 외국인 매도에 약세",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000562",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "코스피 마감 시황. 반도체주 저가 매수 언급은 증시 흐름 설명"
+    },
+    {
+      "id": "8db0f7657d",
+      "title": "젠슨 황 논란에 中 반도체 제재 강화되나…반도체업계 &quot;삼성·SK엔 기회 될 수도&quot;",
+      "url": "https://www.inews24.com/view/2024271",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "젠슨 황 논란이 대중 수출 통제 강화로 이어질 경우 삼성·SK하이닉스 메모리 경쟁 구도 영향 분석. 전망 성격이라 다소 추정적"
+    },
+    {
+      "id": "e59cdcf498",
+      "title": "SK하이닉스, 반도체 공정 분석 30배 가속한 비결은 엔비디아 AI",
+      "url": "https://www.inews24.com/view/2024254",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 92,
+      "confidence": "high",
+      "reason": "SK하이닉스가 엔비디아 AI로 공정 시뮬레이션 30배 가속. 공정기술 직무와 직접 관련"
+    },
+    {
+      "id": "9c4dc4272b",
+      "title": "삼성전자 &quot;엔비디아 AI로 반도체 시뮬레이션 4000배 가속&quot;",
+      "url": "https://www.inews24.com/view/2024251",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "삼성전자가 엔비디아 AI로 반도체 시뮬레이션 최대 4000배 가속. 경쟁사 공정·개발 기술 동향"
+    },
+    {
+      "id": "3ab6df5571",
+      "title": "머스크 &apos;테라팹&apos;, 日 반도체 장비 조달 본격화⋯월 100만장 생산 목표",
+      "url": "https://www.inews24.com/view/2024201",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 55,
+      "confidence": "high",
+      "reason": "머스크 테라팹이 일본 장비 조달 추진, 월 100만장 목표. 신규 대형 팹 수요로 장비 공급망 영향"
+    },
+    {
+      "id": "2220006c08",
+      "title": "반도체 클러스터 6조원 심의위원 전문성 논란⋯김정관 &quot;전문가 보강&quot;",
+      "url": "https://www.inews24.com/view/2024151",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "high",
+      "reason": "서남권 반도체 클러스터 6조원 심의위원 전문성 논란. 국내 반도체 정책 기사"
+    },
+    {
+      "id": "368f3964a1",
+      "title": "엔비디아 &quot;韓, 피지컬 AI 핵심 역할&quot;…SK·현대차·두산·LG와 AI 팩토리 협력",
+      "url": "https://www.inews24.com/view/2024050",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 75,
+      "confidence": "high",
+      "reason": "SK하이닉스가 엔비디아와 반도체 생산시설 디지털 트윈·AI 팩토리 협력. SK하이닉스 제조 혁신 직접 언급"
+    },
+    {
+      "id": "c56929e4b4",
+      "title": "&apos;엔비디아의 얼굴&apos; 젠슨 황 흔들…AI 제국에 드리운 경영 리스크",
+      "url": "https://www.inews24.com/view/2024016",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "젠슨 황 리스크와 엔비디아 경영 안정성. 최대 HBM 고객사 이슈이나 메모리 영향은 간접적"
+    },
+    {
+      "id": "1a694347c9",
+      "title": "삼성 안방 다시 노리는 中 YMTC…한국서 소비자 SSD 판매 확대",
+      "url": "https://www.inews24.com/view/2023679",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "YMTC가 한국 소비자 SSD 시장 공략 확대(재수집분). 중국 낸드 경쟁사 동향"
+    },
+    {
+      "id": "855d24c145",
+      "title": "메모리 덮친 규제 공포…업계는 &quot;양당 모두 中에 지려 하지 않을 것&quot;",
+      "url": "https://www.inews24.com/view/2023674",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "미 중간선거 후 데이터센터 규제 우려에도 메모리 수요는 견조하다는 업계 진단(재수집분)"
+    },
+    {
+      "id": "51bacb6a2a",
+      "title": "마이크론, 대만 신공장 건설 사실상 중단⋯노사 보상 갈등",
+      "url": "https://www.inews24.com/view/2023661",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "마이크론 대만 신공장 건설 사실상 중단(재수집분). 경쟁사 HBM 캐파 확대 차질"
+    },
+    {
+      "id": "4d61b0d950",
+      "title": "딥엑스 &quot;버터도 안 녹는 AI 칩&quot;…현대차 로봇에 탑재",
+      "url": "https://www.inews24.com/view/2023650",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "딥엑스 저발열 AI 칩 현대차 로봇 탑재(재수집분). 팹리스 홍보성으로 메모리와 무관"
+    },
+    {
+      "id": "50cd8a6e94",
+      "title": "램리서치, 한국법인 총괄 대표에 김태원 선임",
+      "url": "https://www.inews24.com/view/2023634",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "램리서치 한국법인 대표 선임(재수집분). 주요 장비사 인사 동정"
+    },
+    {
+      "id": "f0f9fce076",
+      "title": "신성이엔지, 3분기 누적 영업익 흑자 전환…ENG 수주 역대 최대",
+      "url": "https://www.inews24.com/view/2023643",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "신성이엔지 클린룸 수주 역대 최대(재수집분). 삼성·SK하이닉스 설비투자 재개 반영"
+    },
+    {
+      "id": "b44bc31f59",
+      "title": "美 의회 권력 재편에 中 스파이 의혹까지…젠슨 황, 정치 압박 직면",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678162",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "젠슨 황 중국 스파이 의혹과 미 의회 압박. 엔비디아 리스크로 대중 수출 규제 가능성, 메모리 영향은 간접적"
+    },
+    {
+      "id": "b7dc342c16",
+      "title": "삼성·현대차 '원팀' 보폭 확대…로봇·에너지서 새 기회 찾는다",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678153",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "high",
+      "reason": "삼성-현대차 로봇·에너지 협력 확대. 그룹 간 협력 기사로 메모리와 거리 있음"
+    },
+    {
+      "id": "6ee31a982c",
+      "title": "김동선式 인사 혁신…한화세미텍 새 수장에 37세 김진우",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678117",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "한화세미텍 37세 신임 대표 발탁. HBM TC본더 업체이나 인사 중심 기사"
+    },
+    {
+      "id": "2c28660b69",
+      "title": "美 AI 투자 늦어진다는데…삼성·SK HBM 'LTA' 안전할까",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678098",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 88,
+      "confidence": "high",
+      "reason": "미 AI 투자 지연 우려 속 삼성·SK하이닉스 HBM 장기공급계약(LTA) 안정성 점검. HBM 사업 직접 관련"
+    },
+    {
+      "id": "7318377734",
+      "title": "에코프로도 믿을건 반도체뿐?…비엠·머티 흔들릴 때 HN '홀로 질주'",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678084",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 25,
+      "confidence": "high",
+      "reason": "에코프로 그룹 내 반도체 환경설비 계열사 실적. 배터리 그룹 실적 기사로 메모리와 거리 있음"
+    },
+    {
+      "id": "6cdd6299e5",
+      "title": "[부고] 김웅식(뤼튼테크놀로지스 매니저)씨 부친상",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157113",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 1,
+      "confidence": "high",
+      "reason": "부고 기사. '메모리얼파크' 단어가 키워드에 우연히 걸림"
+    },
+    {
+      "id": "8ec186980c",
+      "title": "엔비디아 인프라에 올라탄 리벨리온...'검증역' SKT까지 NPU 가능성 엿본다",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157109",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "엔비디아 인프라에 리벨리온 NPU 연결, SKT가 검증. AI 반도체 생태계 동향"
+    },
+    {
+      "id": "50870ee8ff",
+      "title": "미 상무부 '젠슨황 내연녀' 재직 기업 조사 중단…엔비디아 개입 의혹",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730993",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "low",
+      "reason": "젠슨 황 관련 기업 반도체 밀수 조사 중단 의혹. 수출 통제·규제 이슈로 번질지 불확실하고 메모리 영향 판단이 어려움"
+    },
+    {
+      "id": "8eba463ad8",
+      "title": "美 증시 급반등에 코스피 탄력 기대감…외인 매도세가 변수",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730994",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "미 증시 반등에 따른 코스피 기대감. 증시 전망 기사"
+    },
+    {
+      "id": "b1e47a5e7e",
+      "title": "젠슨 황 스캔들에 삼전닉스도 촉각…엔비디아 리스크 번지나",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730984",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 68,
+      "confidence": "medium",
+      "reason": "젠슨 황 스캔들이 삼성·SK하이닉스에 미칠 영향. 최대 HBM 고객사 리스크를 다루나 추측성 전망 중심"
+    },
+    {
+      "id": "27ae9b9159",
+      "title": "[현장] SKT 정석근·리벨리온 박성현의 AI 의기투합…\"국산 NPU 시장 확대\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730968",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "SKT·리벨리온 국산 NPU 시장 확대 협력. 데이터센터 병목 이동 발언 포함, 메모리와는 간접적"
+    },
+    {
+      "id": "2d356db0fb",
+      "title": "삼성·현대차그룹, 미래차 '원팀'…로봇·AI까지 협력 넓힌다",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730934",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 28,
+      "confidence": "high",
+      "reason": "삼성-현대차 미래차 원팀 협력 행사. 메모리와 직접 연결 없음"
+    },
+    {
+      "id": "b0ebbd6dae",
+      "title": "젠슨 황 논란에 엔비디아 '키맨 리스크' 부상…후계 구도 불확실성",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730972",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "엔비디아 키맨 리스크·후계 구도 불확실성. 고객사 경영 이슈로 메모리 영향은 간접적"
+    },
+    {
+      "id": "906f8f152d",
+      "title": "엔비디아와 손잡은 삼성·카카오·LG…韓 '피지컬 AI' 혁신 가속",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730970",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "엔비디아-삼성전자 등 한국 피지컬 AI 협력. 삼성전자 협력 내용이 반도체 제조인지 가전인지 기사 요약만으로 불명확"
+    },
+    {
+      "id": "2677f0b276",
+      "title": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730959",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 52,
+      "confidence": "medium",
+      "reason": "엔비디아·SKT·리벨리온 NVLink Fusion 기반 AI 인프라 협력. AI 반도체 연결 생태계 동향"
+    }
+  ]
+}
