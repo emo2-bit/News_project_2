@@ -1,0 +1,355 @@
+{
+  "date": "2026-11-12",
+  "articles": [
+    {
+      "id": "c30dffe12a",
+      "title": "SK하이닉스 LPDDR5X, 산업용 기능안전 인증 획득",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65280",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 LPDDR5X 산업용 기능안전 SIL3 인증 획득, 로봇·스마트팩토리로 적용처 확대"
+    },
+    {
+      "id": "388dcca13b",
+      "title": "SK하이닉스, 안전·보안 인증 확보…로봇 공략",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000757",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 85,
+      "confidence": "high",
+      "reason": "SK하이닉스 LPDDR5X SIL3 인증 및 CSMS 인증 확보, 피지컬 AI 시장 공략"
+    },
+    {
+      "id": "97f7e9d78d",
+      "title": "LG화학, 日 주도 HBM 접합 소재 국산화 확대",
+      "url": "https://www.etnews.com/20261111000313",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 82,
+      "confidence": "high",
+      "reason": "SK하이닉스 HBM 핵심 공정인 MR-MUF용 소재 국산화 착수 — HBM 접합 소재 공급망 다변화와 직결"
+    },
+    {
+      "id": "2bef2b9e5f",
+      "title": "메모리값 급등에 저가폰 부품원가 비중 54%⋯1년 새 2.7배 ↑",
+      "url": "https://www.inews24.com/view/2025198",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 80,
+      "confidence": "high",
+      "reason": "메모리 가격 급등으로 저가폰 BoM 내 메모리 비중 20%→54% — 메모리 가격·수요 직접 지표"
+    },
+    {
+      "id": "0568e079fc",
+      "title": "삼성 EUV 블랭크마스크 조달 비상…日호야 \"더 못 늘린다\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65231",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "medium",
+      "reason": "삼성전자 EUV 블랭크마스크 조달난, 호야가 타 제조사 수요 확대 언급 — 메모리 EUV 공급망 전반 리스크"
+    },
+    {
+      "id": "ec2fcf4356",
+      "title": "김정호 KAIST 교수 “1명이 에이전트 100개 지휘해 HBM 설계”",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000751",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "HBM 창시자 김정호 교수의 AI 에이전트 기반 HBM·HBF 설계 방법론 제시"
+    },
+    {
+      "id": "283a49c87b",
+      "title": "&quot;HBM 설계도 AI가 돕는다&quot;…김정호 교수, 반도체 연구실의 변화 공개",
+      "url": "https://www.inews24.com/view/2024960",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 72,
+      "confidence": "high",
+      "reason": "김정호 교수, AI 기반 HBM 설계·성능 분석 연구 방식 공개(동일 이벤트 타 매체 보도)"
+    },
+    {
+      "id": "f4e311e505",
+      "title": "車 해킹 막는다...메모리·디스플레이·SW 보안 인증 '잰걸음'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157207",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 70,
+      "confidence": "medium",
+      "reason": "SK하이닉스 LPDDR5X 인증 포함 ICT 업계 보안 인증 동향 종합 기사"
+    },
+    {
+      "id": "4ba26f090f",
+      "title": "TSMC, 10월 매출 5869억 대만달러 &apos;역대 최대&apos;⋯전년比 59.7% 급증",
+      "url": "https://www.inews24.com/view/2024667",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 65,
+      "confidence": "high",
+      "reason": "TSMC 10월 매출 역대 최대(+59.7%) — AI 반도체 수요 강세 지표"
+    },
+    {
+      "id": "fe1d11d390",
+      "title": "AP시스템, 반도체 부문 신규 수주 1000억원 돌파",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65229",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 62,
+      "confidence": "high",
+      "reason": "D램·낸드 공정용 RTP 장비 수주 1000억 돌파, 국내 메모리 제조사 점유율 확대"
+    },
+    {
+      "id": "3e61a4a6c4",
+      "title": "김정관 &quot;호남 반도체 클러스터 팹 배치, 이달 안에 마무리 예정&quot;",
+      "url": "https://www.inews24.com/view/2024744",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 60,
+      "confidence": "high",
+      "reason": "삼성·SK하이닉스 호남 반도체 클러스터 팹 배치 이달 확정 예정 — 생산 인프라 정책"
+    },
+    {
+      "id": "ac8ba3aaf4",
+      "title": "中 공세에 수익성 압박…삼성, '첨단 공정'에 선택과 집중",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678295",
+      "source": "블로터",
+      "category": "articles",
+      "relevance": 58,
+      "confidence": "high",
+      "reason": "삼성전자 8인치 파운드리 단계 철수·첨단 공정 집중 — 경쟁사 파운드리 전략"
+    },
+    {
+      "id": "e3cc7381ad",
+      "title": "최태원, SK CEO 소집…AI 전략 점검",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000742",
+      "source": "IT조선",
+      "category": "other",
+      "relevance": 55,
+      "confidence": "medium",
+      "reason": "SK그룹 CEO 세미나에서 반도체·AI 데이터센터 연계 전략 점검 — SK하이닉스 관련 가능성"
+    },
+    {
+      "id": "4472a4c509",
+      "title": "씨케이솔루션, 3분기 영업이익 109억원...18배 증가",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65252",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "SK하이닉스 美 인디애나 첨단 패키징 공장 공사 수주가 실적 개선 요인 — 간접 연관"
+    },
+    {
+      "id": "c9725122fa",
+      "title": "AMD, 신형 산업용 CPU 공개…삼성과 메모리 검사 협력",
+      "url": "https://www.inews24.com/view/2025220",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 50,
+      "confidence": "medium",
+      "reason": "AMD 산업용 CPU 공개와 삼성 메모리 검사 장비 협력 — 경쟁사 간접 동향"
+    },
+    {
+      "id": "f686cab010",
+      "title": "엠케이피 \"내년 매출 최대 800억\"…美대형 장비사와 양산 공급 논의",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65283",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "반도체 장비용 MFC 부품 수요 급증·美 장비사 공급 논의 — 소부장 개별 업체 실적"
+    },
+    {
+      "id": "6b7ad980f7",
+      "title": "딥엑스, 삼성 2나노 칩 'DX-M2' 마스크 제작 착수...내년 4분기 양산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65250",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "high",
+      "reason": "삼성 파운드리 SF2P 고객 확보 사례 — 파운드리 경쟁 관점의 간접 영향"
+    },
+    {
+      "id": "dccdf6738b",
+      "title": "SK하이닉스 생산직 채용에 들썩…&quot;학력 무관·억대 성과급 기대&quot;",
+      "url": "https://www.inews24.com/view/2024982",
+      "source": "아이뉴스24",
+      "category": "other",
+      "relevance": 45,
+      "confidence": "low",
+      "reason": "SK하이닉스 직접 언급이나 생산직 채용·성과급 이슈 — 기술·사업 관련성 판단이 애매"
+    },
+    {
+      "id": "c821d2f624",
+      "title": "AMD, 구글 AI 반도체에 서버용 CPU 공급…AI 인프라 협력 확대",
+      "url": "https://www.inews24.com/view/2024728",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "AMD CPU가 구글 TPU 시스템 지원 — AI 반도체 생태계 간접 동향"
+    },
+    {
+      "id": "a2bb5c62a8",
+      "title": "[글로벌] TSMC, 오픈AI·앤트로픽에 10억달러 투자...AI 생태계 영향력 확대",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157206",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 45,
+      "confidence": "medium",
+      "reason": "TSMC의 오픈AI·앤트로픽 투자 — AI 생태계 동향, 메모리와는 간접적"
+    },
+    {
+      "id": "673e7d6625",
+      "title": "불륜은 불륜, 출근은 출근?…엔비디아 찾은 젠슨 황, 사과했으니 일 합시다?",
+      "url": "https://www.etnews.com/20261111000441",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 42,
+      "confidence": "medium",
+      "reason": "최대 HBM 고객사 엔비디아 CEO 사생활 논란·중국 연루 의혹. 경영 리스크 관점의 간접 영향"
+    },
+    {
+      "id": "e315f959aa",
+      "title": "美 상무부, 메가스피드 '무역 블랙리스트' 등재 보류",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000782",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 40,
+      "confidence": "medium",
+      "reason": "엔비디아 칩 중국 밀반입 의혹 기업 제재 보류 — 수출통제 정책 동향"
+    },
+    {
+      "id": "942aab9178",
+      "title": "반도체 수출 역대 최대… 삼전·닉스 상승 전환",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000760",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 38,
+      "confidence": "low",
+      "reason": "제목은 반도체 수출 역대 최대지만 본문은 삼성·SK하이닉스 주가 시황 위주 — 실질 정보량 판단이 애매"
+    },
+    {
+      "id": "c6e89d911e",
+      "title": "올해 스마트폰 OLED 출하량 역성장…폴더블은 23% 증가",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65213",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "스마트폰 OLED 출하 감소 원인으로 메모리 공급 제약이 언급되나 주제는 디스플레이"
+    },
+    {
+      "id": "9b47f6b021",
+      "title": "스마트폰 OLED 출하량 올해 7.3%↓…삼성디스플레이 1위 유지",
+      "url": "https://www.inews24.com/view/2024722",
+      "source": "아이뉴스24",
+      "category": "articles",
+      "relevance": 35,
+      "confidence": "medium",
+      "reason": "스마트폰 OLED 출하 감소 전망, 메모리 공급난은 배경 요인일 뿐"
+    },
+    {
+      "id": "bc49e7c04c",
+      "title": "박홍근 “반도체 편중 리스크 줄여야”…7대 신산업 투자 확대",
+      "url": "https://www.etnews.com/20261111000347",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "정부의 반도체 편중 완화·신산업 재정 정책으로 메모리 사업과 연결이 약함"
+    },
+    {
+      "id": "d9959979ba",
+      "title": "EVG, 첨단 본딩 기술로 양자컴퓨팅 개발 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65241",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 30,
+      "confidence": "medium",
+      "reason": "본딩 장비사 EVG의 양자컴퓨팅 지원으로 메모리 사업과 연결이 약함"
+    },
+    {
+      "id": "d332ef16e3",
+      "title": "퀄리타스반도체, 모빌린트 로봇용 SoC에 통합 솔루션 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65235",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 20,
+      "confidence": "high",
+      "reason": "국내 IP·NPU 업체 간 개별 공급 계약으로 메모리와 무관"
+    },
+    {
+      "id": "018d69a4cf",
+      "title": "한화 방산 3사, 동반성장 첫 '최우수'…삼성전자는 15년 연속 최우수",
+      "url": "https://www.etnews.com/20261111000360",
+      "source": "전자신문",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "동반성장지수 평가 결과로 반도체 기술·사업과 무관"
+    },
+    {
+      "id": "2e232dcc7e",
+      "title": "[마감] 코스피, 美긴축 우려 불구 2.6% 상승… 코스닥도 급등",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000780",
+      "source": "IT조선",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "증시 마감 시황 기사"
+    },
+    {
+      "id": "48e0dee460",
+      "title": "코스피, 외국인 매수에 2.60% 상승…삼성전자·SK하이닉스 동반 강세",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731281",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 15,
+      "confidence": "high",
+      "reason": "증시 시황 기사"
+    },
+    {
+      "id": "88b347d4db",
+      "title": "ST, AI 가속기 탑재 산업용 MCU 발표",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65220",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 12,
+      "confidence": "high",
+      "reason": "ST 산업용 MCU 신제품으로 메모리와 무관"
+    },
+    {
+      "id": "fd1c772692",
+      "title": "8개월째 대표 월급 못 준 어보브반도체… 꺼낸 카드가?",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65296",
+      "source": "디일렉",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "팹리스 업체 대표 보수 관련 지배구조 이슈로 무관"
+    },
+    {
+      "id": "cafb3b3808",
+      "title": "인텔 휴대용 게임칩 품은 에이서 '프레데터 아틀라스 8' 국내 출시",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157197",
+      "source": "테크M",
+      "category": "articles",
+      "relevance": 10,
+      "confidence": "high",
+      "reason": "게이밍 UMPC 출시 기사, LPDDR5X는 사양 언급일 뿐"
+    },
+    {
+      "id": "c2a959e0d7",
+      "title": "공익 요구하면서 지원 외면…벼랑 끝 내몰린 SO·위성방송",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731262",
+      "source": "EBN",
+      "category": "articles",
+      "relevance": 3,
+      "confidence": "high",
+      "reason": "유료방송 업계 기사로 무관"
+    }
+  ]
+}
